@@ -1,0 +1,7476 @@
+['class', 'feature1', 'feature2', 'feature3', 'feature4', 'feature5', 'feature6', 'feature7', 'feature8', 'feature9', 'feature10', 'feature11', 'feature12', 'feature13', 'feature14', 'feature15', 'feature16', 'feature17', 'feature18', 'feature19', 'feature20', 'feature21', 'feature22', 'feature23', 'feature24', 'feature25', 'feature26', 'feature27', 'feature28', 'feature29', 'feature30', 'feature31', 'feature32', 'feature33', 'feature34', 'feature35', 'feature36', 'feature37', 'feature38', 'feature39', 'feature40', 'feature41', 'feature42', 'feature43', 'feature44', 'feature45', 'feature46', 'feature47', 'feature48', 'feature49', 'feature50', 'feature51', 'feature52', 'feature53', 'feature54', 'feature55', 'feature56', 'feature57', 'feature58', 'feature59', 'feature60', 'feature61', 'feature62', 'feature63', 'feature64', 'feature65', 'feature66', 'feature67', 'feature68', 'feature69', 'feature70', 'feature71', 'feature72', 'feature73', 'feature74', 'feature75', 'feature76', 'feature77', 'feature78', 'feature79', 'feature80', 'feature81', 'feature82', 'feature83', 'feature84', 'feature85', 'feature86', 'feature87', 'feature88', 'feature89', 'feature90', 'feature91', 'feature92', 'feature93', 'feature94', 'feature95', 'feature96', 'feature97', 'feature98', 'feature99', 'feature100', 'feature101', 'feature102', 'feature103', 'feature104', 'feature105', 'feature106', 'feature107', 'feature108', 'feature109', 'feature110', 'feature111', 'feature112', 'feature113', 'feature114', 'feature115', 'feature116', 'feature117', 'feature118', 'feature119', 'feature120', 'feature121', 'feature122', 'feature123', 'feature124', 'feature125', 'feature126', 'feature127', 'feature128', 'feature129', 'feature130', 'feature131', 'feature132', 'feature133', 'feature134', 'feature135', 'feature136', 'feature137', 'feature138', 'feature139', 'feature140', 'feature141', 'feature142', 'feature143', 'feature144', 'feature145', 'feature146', 'feature147', 'feature148', 'feature149', 'feature150', 'feature151', 'feature152', 'feature153', 'feature154', 'feature155', 'feature156', 'feature157', 'feature158', 'feature159', 'feature160', 'feature161', 'feature162', 'feature163', 'feature164', 'feature165', 'feature166', 'feature167', 'feature168', 'feature169', 'feature170', 'feature171', 'feature172', 'feature173', 'feature174', 'feature175', 'feature176', 'feature177', 'feature178', 'feature179', 'feature180', 'feature181', 'feature182', 'feature183', 'feature184', 'feature185', 'feature186', 'feature187', 'feature188', 'feature189', 'feature190', 'feature191', 'feature192', 'feature193', 'feature194', 'feature195', 'feature196', 'feature197', 'feature198', 'feature199', 'feature200', 'feature201', 'feature202', 'feature203', 'feature204', 'feature205', 'feature206', 'feature207', 'feature208', 'feature209', 'feature210', 'feature211', 'feature212', 'feature213', 'feature214', 'feature215', 'feature216', 'feature217', 'feature218', 'feature219', 'feature220', 'feature221', 'feature222', 'feature223', 'feature224', 'feature225', 'feature226', 'feature227', 'feature228', 'feature229', 'feature230', 'feature231', 'feature232', 'feature233', 'feature234', 'feature235', 'feature236', 'feature237', 'feature238', 'feature239', 'feature240', 'feature241', 'feature242', 'feature243', 'feature244', 'feature245', 'feature246', 'feature247', 'feature248', 'feature249', 'feature250', 'feature251', 'feature252', 'feature253', 'feature254', 'feature255', 'feature256', 'feature257', 'feature258', 'feature259', 'feature260', 'feature261', 'feature262', 'feature263', 'feature264', 'feature265', 'feature266', 'feature267', 'feature268', 'feature269', 'feature270', 'feature271', 'feature272', 'feature273', 'feature274', 'feature275', 'feature276', 'feature277', 'feature278', 'feature279', 'feature280', 'feature281', 'feature282', 'feature283', 'feature284', 'feature285', 'feature286', 'feature287', 'feature288', 'feature289', 'feature290', 'feature291', 'feature292', 'feature293', 'feature294', 'feature295', 'feature296', 'feature297', 'feature298', 'feature299', 'feature300', 'feature301', 'feature302', 'feature303', 'feature304', 'feature305', 'feature306', 'feature307', 'feature308', 'feature309', 'feature310', 'feature311', 'feature312', 'feature313', 'feature314', 'feature315', 'feature316', 'feature317', 'feature318', 'feature319', 'feature320', 'feature321', 'feature322', 'feature323', 'feature324', 'feature325', 'feature326', 'feature327', 'feature328', 'feature329', 'feature330', 'feature331', 'feature332', 'feature333', 'feature334', 'feature335', 'feature336', 'feature337', 'feature338', 'feature339', 'feature340', 'feature341', 'feature342', 'feature343', 'feature344', 'feature345', 'feature346', 'feature347', 'feature348', 'feature349', 'feature350', 'feature351', 'feature352', 'feature353', 'feature354', 'feature355', 'feature356', 'feature357', 'feature358', 'feature359', 'feature360', 'feature361', 'feature362', 'feature363', 'feature364', 'feature365', 'feature366', 'feature367', 'feature368', 'feature369', 'feature370', 'feature371', 'feature372', 'feature373', 'feature374', 'feature375', 'feature376', 'feature377', 'feature378', 'feature379', 'feature380', 'feature381', 'feature382', 'feature383', 'feature384', 'feature385', 'feature386', 'feature387', 'feature388', 'feature389', 'feature390', 'feature391', 'feature392', 'feature393', 'feature394', 'feature395', 'feature396', 'feature397', 'feature398', 'feature399', 'feature400', 'feature401', 'feature402', 'feature403', 'feature404', 'feature405', 'feature406', 'feature407', 'feature408', 'feature409', 'feature410', 'feature411', 'feature412', 'feature413', 'feature414', 'feature415', 'feature416', 'feature417', 'feature418', 'feature419', 'feature420', 'feature421', 'feature422', 'feature423', 'feature424', 'feature425', 'feature426', 'feature427', 'feature428', 'feature429', 'feature430', 'feature431', 'feature432', 'feature433', 'feature434', 'feature435', 'feature436', 'feature437', 'feature438', 'feature439', 'feature440', 'feature441', 'feature442', 'feature443', 'feature444', 'feature445', 'feature446', 'feature447', 'feature448', 'feature449', 'feature450', 'feature451', 'feature452', 'feature453', 'feature454', 'feature455', 'feature456', 'feature457', 'feature458', 'feature459', 'feature460', 'feature461', 'feature462', 'feature463', 'feature464', 'feature465', 'feature466', 'feature467', 'feature468', 'feature469', 'feature470', 'feature471', 'feature472', 'feature473', 'feature474', 'feature475', 'feature476', 'feature477', 'feature478', 'feature479', 'feature480', 'feature481', 'feature482', 'feature483', 'feature484', 'feature485', 'feature486', 'feature487', 'feature488', 'feature489', 'feature490', 'feature491', 'feature492', 'feature493', 'feature494', 'feature495', 'feature496', 'feature497', 'feature498', 'feature499', 'feature500', 'feature501', 'feature502', 'feature503', 'feature504', 'feature505', 'feature506', 'feature507', 'feature508', 'feature509', 'feature510', 'feature511', 'feature512', 'feature513', 'feature514', 'feature515', 'feature516', 'feature517', 'feature518', 'feature519', 'feature520', 'feature521', 'feature522', 'feature523', 'feature524', 'feature525', 'feature526', 'feature527', 'feature528', 'feature529', 'feature530', 'feature531', 'feature532', 'feature533', 'feature534', 'feature535', 'feature536', 'feature537', 'feature538', 'feature539', 'feature540', 'feature541', 'feature542', 'feature543', 'feature544', 'feature545', 'feature546', 'feature547', 'feature548', 'feature549', 'feature550', 'feature551', 'feature552', 'feature553', 'feature554', 'feature555', 'feature556', 'feature557', 'feature558', 'feature559', 'feature560', 'feature561', 'feature562', 'feature563', 'feature564', 'feature565', 'feature566', 'feature567', 'feature568', 'feature569', 'feature570', 'feature571', 'feature572', 'feature573', 'feature574', 'feature575', 'feature576', 'feature577', 'feature578', 'feature579', 'feature580', 'feature581', 'feature582', 'feature583', 'feature584', 'feature585', 'feature586', 'feature587', 'feature588', 'feature589', 'feature590', 'feature591', 'feature592', 'feature593', 'feature594', 'feature595', 'feature596', 'feature597', 'feature598', 'feature599', 'feature600', 'feature601', 'feature602', 'feature603', 'feature604', 'feature605', 'feature606', 'feature607', 'feature608', 'feature609', 'feature610', 'feature611', 'feature612', 'feature613', 'feature614', 'feature615', 'feature616', 'feature617', 'feature618', 'feature619', 'feature620', 'feature621', 'feature622', 'feature623', 'feature624', 'feature625', 'feature626', 'feature627', 'feature628', 'feature629', 'feature630', 'feature631', 'feature632', 'feature633', 'feature634', 'feature635', 'feature636', 'feature637', 'feature638', 'feature639', 'feature640', 'feature641', 'feature642', 'feature643', 'feature644', 'feature645', 'feature646', 'feature647', 'feature648', 'feature649', 'feature650', 'feature651', 'feature652', 'feature653', 'feature654', 'feature655', 'feature656', 'feature657', 'feature658', 'feature659', 'feature660', 'feature661', 'feature662', 'feature663', 'feature664', 'feature665', 'feature666', 'feature667', 'feature668', 'feature669', 'feature670', 'feature671', 'feature672', 'feature673', 'feature674', 'feature675', 'feature676', 'feature677', 'feature678', 'feature679', 'feature680', 'feature681', 'feature682', 'feature683', 'feature684', 'feature685', 'feature686', 'feature687', 'feature688', 'feature689', 'feature690', 'feature691', 'feature692', 'feature693', 'feature694', 'feature695', 'feature696', 'feature697', 'feature698', 'feature699', 'feature700', 'feature701', 'feature702', 'feature703', 'feature704', 'feature705', 'feature706', 'feature707', 'feature708', 'feature709', 'feature710', 'feature711', 'feature712', 'feature713', 'feature714', 'feature715', 'feature716', 'feature717', 'feature718', 'feature719', 'feature720', 'feature721', 'feature722', 'feature723', 'feature724', 'feature725', 'feature726', 'feature727', 'feature728', 'feature729', 'feature730', 'feature731', 'feature732', 'feature733', 'feature734', 'feature735', 'feature736', 'feature737', 'feature738', 'feature739', 'feature740', 'feature741', 'feature742', 'feature743', 'feature744', 'feature745', 'feature746', 'feature747', 'feature748', 'feature749', 'feature750', 'feature751', 'feature752', 'feature753', 'feature754', 'feature755', 'feature756', 'feature757', 'feature758', 'feature759', 'feature760', 'feature761', 'feature762', 'feature763', 'feature764', 'feature765', 'feature766', 'feature767', 'feature768', 'feature769', 'feature770', 'feature771', 'feature772', 'feature773', 'feature774', 'feature775', 'feature776', 'feature777', 'feature778', 'feature779', 'feature780', 'feature781', 'feature782', 'feature783', 'feature784', 'feature785', 'feature786', 'feature787', 'feature788', 'feature789', 'feature790', 'feature791', 'feature792', 'feature793', 'feature794', 'feature795', 'feature796', 'feature797', 'feature798', 'feature799', 'feature800', 'feature801', 'feature802', 'feature803', 'feature804', 'feature805', 'feature806', 'feature807', 'feature808', 'feature809', 'feature810', 'feature811', 'feature812', 'feature813', 'feature814', 'feature815', 'feature816', 'feature817', 'feature818', 'feature819', 'feature820', 'feature821', 'feature822', 'feature823', 'feature824', 'feature825', 'feature826', 'feature827', 'feature828', 'feature829', 'feature830', 'feature831', 'feature832', 'feature833', 'feature834', 'feature835', 'feature836', 'feature837', 'feature838', 'feature839', 'feature840', 'feature841', 'feature842', 'feature843', 'feature844', 'feature845', 'feature846', 'feature847', 'feature848', 'feature849', 'feature850', 'feature851', 'feature852', 'feature853', 'feature854', 'feature855', 'feature856', 'feature857', 'feature858', 'feature859', 'feature860', 'feature861', 'feature862', 'feature863', 'feature864', 'feature865', 'feature866', 'feature867', 'feature868', 'feature869', 'feature870', 'feature871', 'feature872', 'feature873', 'feature874', 'feature875', 'feature876', 'feature877', 'feature878', 'feature879', 'feature880', 'feature881', 'feature882', 'feature883', 'feature884', 'feature885', 'feature886', 'feature887', 'feature888', 'feature889', 'feature890', 'feature891', 'feature892', 'feature893', 'feature894', 'feature895', 'feature896', 'feature897', 'feature898', 'feature899', 'feature900', 'feature901', 'feature902', 'feature903', 'feature904', 'feature905', 'feature906', 'feature907', 'feature908', 'feature909', 'feature910', 'feature911', 'feature912', 'feature913', 'feature914', 'feature915', 'feature916', 'feature917', 'feature918', 'feature919', 'feature920', 'feature921', 'feature922', 'feature923', 'feature924', 'feature925', 'feature926', 'feature927', 'feature928', 'feature929', 'feature930', 'feature931', 'feature932', 'feature933', 'feature934', 'feature935', 'feature936', 'feature937', 'feature938', 'feature939', 'feature940', 'feature941', 'feature942', 'feature943', 'feature944', 'feature945', 'feature946', 'feature947', 'feature948', 'feature949', 'feature950', 'feature951', 'feature952', 'feature953', 'feature954', 'feature955', 'feature956', 'feature957', 'feature958', 'feature959', 'feature960', 'feature961', 'feature962', 'feature963', 'feature964', 'feature965', 'feature966', 'feature967', 'feature968', 'feature969', 'feature970', 'feature971', 'feature972', 'feature973', 'feature974', 'feature975', 'feature976', 'feature977', 'feature978', 'feature979', 'feature980', 'feature981', 'feature982', 'feature983', 'feature984', 'feature985', 'feature986', 'feature987', 'feature988', 'feature989', 'feature990', 'feature991', 'feature992', 'feature993', 'feature994', 'feature995', 'feature996', 'feature997', 'feature998', 'feature999', 'feature1000', 'feature1001', 'feature1002', 'feature1003', 'feature1004', 'feature1005', 'feature1006', 'feature1007', 'feature1008', 'feature1009', 'feature1010', 'feature1011', 'feature1012', 'feature1013', 'feature1014', 'feature1015', 'feature1016', 'feature1017', 'feature1018', 'feature1019', 'feature1020', 'feature1021', 'feature1022', 'feature1023', 'feature1024', 'feature1025', 'feature1026', 'feature1027', 'feature1028', 'feature1029', 'feature1030', 'feature1031', 'feature1032', 'feature1033', 'feature1034', 'feature1035', 'feature1036', 'feature1037', 'feature1038', 'feature1039', 'feature1040', 'feature1041', 'feature1042', 'feature1043', 'feature1044', 'feature1045', 'feature1046', 'feature1047', 'feature1048', 'feature1049', 'feature1050', 'feature1051', 'feature1052', 'feature1053', 'feature1054', 'feature1055', 'feature1056', 'feature1057', 'feature1058', 'feature1059', 'feature1060', 'feature1061', 'feature1062', 'feature1063', 'feature1064', 'feature1065', 'feature1066', 'feature1067', 'feature1068', 'feature1069', 'feature1070', 'feature1071', 'feature1072', 'feature1073', 'feature1074', 'feature1075', 'feature1076', 'feature1077', 'feature1078', 'feature1079', 'feature1080', 'feature1081', 'feature1082', 'feature1083', 'feature1084', 'feature1085', 'feature1086', 'feature1087', 'feature1088', 'feature1089', 'feature1090', 'feature1091', 'feature1092', 'feature1093', 'feature1094', 'feature1095', 'feature1096', 'feature1097', 'feature1098', 'feature1099', 'feature1100', 'feature1101', 'feature1102', 'feature1103', 'feature1104', 'feature1105', 'feature1106', 'feature1107', 'feature1108', 'feature1109', 'feature1110', 'feature1111', 'feature1112', 'feature1113', 'feature1114', 'feature1115', 'feature1116', 'feature1117', 'feature1118', 'feature1119', 'feature1120', 'feature1121', 'feature1122', 'feature1123', 'feature1124', 'feature1125', 'feature1126', 'feature1127', 'feature1128', 'feature1129', 'feature1130', 'feature1131', 'feature1132', 'feature1133', 'feature1134', 'feature1135', 'feature1136', 'feature1137', 'feature1138', 'feature1139', 'feature1140', 'feature1141', 'feature1142', 'feature1143', 'feature1144', 'feature1145', 'feature1146', 'feature1147', 'feature1148', 'feature1149', 'feature1150', 'feature1151', 'feature1152', 'feature1153', 'feature1154', 'feature1155', 'feature1156', 'feature1157', 'feature1158', 'feature1159', 'feature1160', 'feature1161', 'feature1162', 'feature1163', 'feature1164', 'feature1165', 'feature1166', 'feature1167', 'feature1168', 'feature1169', 'feature1170', 'feature1171', 'feature1172', 'feature1173', 'feature1174', 'feature1175', 'feature1176', 'feature1177', 'feature1178', 'feature1179', 'feature1180', 'feature1181', 'feature1182', 'feature1183', 'feature1184', 'feature1185', 'feature1186', 'feature1187', 'feature1188', 'feature1189', 'feature1190', 'feature1191', 'feature1192', 'feature1193', 'feature1194', 'feature1195', 'feature1196', 'feature1197', 'feature1198', 'feature1199', 'feature1200', 'feature1201', 'feature1202', 'feature1203', 'feature1204', 'feature1205', 'feature1206', 'feature1207', 'feature1208', 'feature1209', 'feature1210', 'feature1211', 'feature1212', 'feature1213', 'feature1214', 'feature1215', 'feature1216', 'feature1217', 'feature1218', 'feature1219', 'feature1220', 'feature1221', 'feature1222', 'feature1223', 'feature1224', 'feature1225', 'feature1226', 'feature1227', 'feature1228', 'feature1229', 'feature1230', 'feature1231', 'feature1232', 'feature1233', 'feature1234', 'feature1235', 'feature1236', 'feature1237', 'feature1238', 'feature1239', 'feature1240', 'feature1241', 'feature1242', 'feature1243', 'feature1244', 'feature1245', 'feature1246', 'feature1247', 'feature1248', 'feature1249', 'feature1250', 'feature1251', 'feature1252', 'feature1253', 'feature1254', 'feature1255', 'feature1256', 'feature1257', 'feature1258', 'feature1259', 'feature1260', 'feature1261', 'feature1262', 'feature1263', 'feature1264', 'feature1265', 'feature1266', 'feature1267', 'feature1268', 'feature1269', 'feature1270', 'feature1271', 'feature1272', 'feature1273', 'feature1274', 'feature1275', 'feature1276', 'feature1277', 'feature1278', 'feature1279', 'feature1280', 'feature1281', 'feature1282', 'feature1283', 'feature1284', 'feature1285', 'feature1286', 'feature1287', 'feature1288', 'feature1289', 'feature1290', 'feature1291', 'feature1292', 'feature1293', 'feature1294', 'feature1295', 'feature1296', 'feature1297', 'feature1298', 'feature1299', 'feature1300', 'feature1301', 'feature1302', 'feature1303', 'feature1304', 'feature1305', 'feature1306', 'feature1307', 'feature1308', 'feature1309', 'feature1310', 'feature1311', 'feature1312', 'feature1313', 'feature1314', 'feature1315', 'feature1316', 'feature1317', 'feature1318', 'feature1319', 'feature1320', 'feature1321', 'feature1322', 'feature1323', 'feature1324', 'feature1325', 'feature1326', 'feature1327', 'feature1328', 'feature1329', 'feature1330', 'feature1331', 'feature1332', 'feature1333', 'feature1334', 'feature1335', 'feature1336', 'feature1337', 'feature1338', 'feature1339', 'feature1340', 'feature1341', 'feature1342', 'feature1343', 'feature1344', 'feature1345', 'feature1346', 'feature1347', 'feature1348', 'feature1349', 'feature1350', 'feature1351', 'feature1352', 'feature1353', 'feature1354', 'feature1355', 'feature1356', 'feature1357', 'feature1358', 'feature1359', 'feature1360', 'feature1361', 'feature1362', 'feature1363', 'feature1364', 'feature1365', 'feature1366', 'feature1367', 'feature1368', 'feature1369', 'feature1370', 'feature1371', 'feature1372', 'feature1373', 'feature1374', 'feature1375', 'feature1376', 'feature1377', 'feature1378', 'feature1379', 'feature1380', 'feature1381', 'feature1382', 'feature1383', 'feature1384', 'feature1385', 'feature1386', 'feature1387', 'feature1388', 'feature1389', 'feature1390', 'feature1391', 'feature1392', 'feature1393', 'feature1394', 'feature1395', 'feature1396', 'feature1397', 'feature1398', 'feature1399', 'feature1400', 'feature1401', 'feature1402', 'feature1403', 'feature1404', 'feature1405', 'feature1406', 'feature1407', 'feature1408', 'feature1409', 'feature1410', 'feature1411', 'feature1412', 'feature1413', 'feature1414', 'feature1415', 'feature1416', 'feature1417', 'feature1418', 'feature1419', 'feature1420', 'feature1421', 'feature1422', 'feature1423', 'feature1424', 'feature1425', 'feature1426', 'feature1427', 'feature1428', 'feature1429', 'feature1430', 'feature1431', 'feature1432', 'feature1433', 'feature1434', 'feature1435', 'feature1436', 'feature1437', 'feature1438', 'feature1439', 'feature1440', 'feature1441', 'feature1442', 'feature1443', 'feature1444', 'feature1445', 'feature1446', 'feature1447', 'feature1448', 'feature1449', 'feature1450', 'feature1451', 'feature1452', 'feature1453', 'feature1454', 'feature1455', 'feature1456', 'feature1457', 'feature1458', 'feature1459', 'feature1460', 'feature1461', 'feature1462', 'feature1463', 'feature1464', 'feature1465', 'feature1466', 'feature1467', 'feature1468', 'feature1469', 'feature1470', 'feature1471', 'feature1472', 'feature1473', 'feature1474', 'feature1475', 'feature1476', 'feature1477', 'feature1478', 'feature1479', 'feature1480', 'feature1481', 'feature1482', 'feature1483', 'feature1484', 'feature1485', 'feature1486', 'feature1487', 'feature1488', 'feature1489', 'feature1490', 'feature1491', 'feature1492', 'feature1493', 'feature1494', 'feature1495', 'feature1496', 'feature1497', 'feature1498', 'feature1499', 'feature1500', 'feature1501', 'feature1502', 'feature1503', 'feature1504', 'feature1505', 'feature1506', 'feature1507', 'feature1508', 'feature1509', 'feature1510', 'feature1511', 'feature1512', 'feature1513', 'feature1514', 'feature1515', 'feature1516', 'feature1517', 'feature1518', 'feature1519', 'feature1520', 'feature1521', 'feature1522', 'feature1523', 'feature1524', 'feature1525', 'feature1526', 'feature1527', 'feature1528', 'feature1529', 'feature1530', 'feature1531', 'feature1532', 'feature1533', 'feature1534', 'feature1535', 'feature1536', 'feature1537', 'feature1538', 'feature1539', 'feature1540', 'feature1541', 'feature1542', 'feature1543', 'feature1544', 'feature1545', 'feature1546', 'feature1547', 'feature1548', 'feature1549', 'feature1550', 'feature1551', 'feature1552', 'feature1553', 'feature1554', 'feature1555', 'feature1556', 'feature1557', 'feature1558', 'feature1559', 'feature1560', 'feature1561', 'feature1562', 'feature1563', 'feature1564', 'feature1565', 'feature1566', 'feature1567', 'feature1568', 'feature1569', 'feature1570', 'feature1571', 'feature1572', 'feature1573', 'feature1574', 'feature1575', 'feature1576', 'feature1577', 'feature1578', 'feature1579', 'feature1580', 'feature1581', 'feature1582', 'feature1583', 'feature1584', 'feature1585', 'feature1586', 'feature1587', 'feature1588', 'feature1589', 'feature1590', 'feature1591', 'feature1592', 'feature1593', 'feature1594', 'feature1595', 'feature1596', 'feature1597', 'feature1598', 'feature1599', 'feature1600', 'feature1601', 'feature1602', 'feature1603', 'feature1604', 'feature1605', 'feature1606', 'feature1607', 'feature1608', 'feature1609', 'feature1610', 'feature1611', 'feature1612', 'feature1613', 'feature1614', 'feature1615', 'feature1616', 'feature1617', 'feature1618', 'feature1619', 'feature1620', 'feature1621', 'feature1622', 'feature1623', 'feature1624', 'feature1625', 'feature1626', 'feature1627', 'feature1628', 'feature1629', 'feature1630', 'feature1631', 'feature1632', 'feature1633', 'feature1634', 'feature1635', 'feature1636', 'feature1637', 'feature1638', 'feature1639', 'feature1640', 'feature1641', 'feature1642', 'feature1643', 'feature1644', 'feature1645', 'feature1646', 'feature1647', 'feature1648', 'feature1649', 'feature1650', 'feature1651', 'feature1652', 'feature1653', 'feature1654', 'feature1655', 'feature1656', 'feature1657', 'feature1658', 'feature1659', 'feature1660', 'feature1661', 'feature1662', 'feature1663', 'feature1664', 'feature1665', 'feature1666', 'feature1667', 'feature1668', 'feature1669', 'feature1670', 'feature1671', 'feature1672', 'feature1673', 'feature1674', 'feature1675', 'feature1676', 'feature1677', 'feature1678', 'feature1679', 'feature1680', 'feature1681', 'feature1682', 'feature1683', 'feature1684', 'feature1685', 'feature1686', 'feature1687', 'feature1688', 'feature1689', 'feature1690', 'feature1691', 'feature1692', 'feature1693', 'feature1694', 'feature1695', 'feature1696', 'feature1697', 'feature1698', 'feature1699', 'feature1700', 'feature1701', 'feature1702', 'feature1703', 'feature1704', 'feature1705', 'feature1706', 'feature1707', 'feature1708', 'feature1709', 'feature1710', 'feature1711', 'feature1712', 'feature1713', 'feature1714', 'feature1715', 'feature1716', 'feature1717', 'feature1718', 'feature1719', 'feature1720', 'feature1721', 'feature1722', 'feature1723', 'feature1724', 'feature1725', 'feature1726', 'feature1727', 'feature1728', 'feature1729', 'feature1730', 'feature1731', 'feature1732', 'feature1733', 'feature1734', 'feature1735', 'feature1736', 'feature1737', 'feature1738', 'feature1739', 'feature1740', 'feature1741', 'feature1742', 'feature1743', 'feature1744', 'feature1745', 'feature1746', 'feature1747', 'feature1748', 'feature1749', 'feature1750', 'feature1751', 'feature1752', 'feature1753', 'feature1754', 'feature1755', 'feature1756', 'feature1757', 'feature1758', 'feature1759', 'feature1760', 'feature1761', 'feature1762', 'feature1763', 'feature1764', 'feature1765', 'feature1766', 'feature1767', 'feature1768', 'feature1769', 'feature1770', 'feature1771', 'feature1772', 'feature1773', 'feature1774', 'feature1775', 'feature1776', 'feature1777', 'feature1778', 'feature1779', 'feature1780', 'feature1781', 'feature1782', 'feature1783', 'feature1784', 'feature1785', 'feature1786', 'feature1787', 'feature1788', 'feature1789', 'feature1790', 'feature1791', 'feature1792', 'feature1793', 'feature1794', 'feature1795', 'feature1796', 'feature1797', 'feature1798', 'feature1799', 'feature1800', 'feature1801', 'feature1802', 'feature1803', 'feature1804', 'feature1805', 'feature1806', 'feature1807', 'feature1808', 'feature1809', 'feature1810', 'feature1811', 'feature1812', 'feature1813', 'feature1814', 'feature1815', 'feature1816', 'feature1817', 'feature1818', 'feature1819', 'feature1820', 'feature1821', 'feature1822', 'feature1823', 'feature1824', 'feature1825', 'feature1826', 'feature1827', 'feature1828', 'feature1829', 'feature1830', 'feature1831', 'feature1832', 'feature1833', 'feature1834', 'feature1835', 'feature1836', 'feature1837', 'feature1838', 'feature1839', 'feature1840', 'feature1841', 'feature1842', 'feature1843', 'feature1844', 'feature1845', 'feature1846', 'feature1847', 'feature1848', 'feature1849', 'feature1850', 'feature1851', 'feature1852', 'feature1853', 'feature1854', 'feature1855', 'feature1856', 'feature1857', 'feature1858', 'feature1859', 'feature1860', 'feature1861', 'feature1862', 'feature1863', 'feature1864', 'feature1865', 'feature1866', 'feature1867', 'feature1868', 'feature1869', 'feature1870', 'feature1871', 'feature1872', 'feature1873', 'feature1874', 'feature1875', 'feature1876', 'feature1877', 'feature1878', 'feature1879', 'feature1880', 'feature1881', 'feature1882', 'feature1883', 'feature1884', 'feature1885', 'feature1886', 'feature1887', 'feature1888', 'feature1889', 'feature1890', 'feature1891', 'feature1892', 'feature1893', 'feature1894', 'feature1895', 'feature1896', 'feature1897', 'feature1898', 'feature1899', 'feature1900', 'feature1901', 'feature1902', 'feature1903', 'feature1904', 'feature1905', 'feature1906', 'feature1907', 'feature1908', 'feature1909', 'feature1910', 'feature1911', 'feature1912', 'feature1913', 'feature1914', 'feature1915', 'feature1916', 'feature1917', 'feature1918', 'feature1919', 'feature1920', 'feature1921', 'feature1922', 'feature1923', 'feature1924', 'feature1925', 'feature1926', 'feature1927', 'feature1928', 'feature1929', 'feature1930', 'feature1931', 'feature1932', 'feature1933', 'feature1934', 'feature1935', 'feature1936', 'feature1937', 'feature1938', 'feature1939', 'feature1940', 'feature1941', 'feature1942', 'feature1943', 'feature1944', 'feature1945', 'feature1946', 'feature1947', 'feature1948', 'feature1949', 'feature1950', 'feature1951', 'feature1952', 'feature1953', 'feature1954', 'feature1955', 'feature1956', 'feature1957', 'feature1958', 'feature1959', 'feature1960', 'feature1961', 'feature1962', 'feature1963', 'feature1964', 'feature1965', 'feature1966', 'feature1967', 'feature1968', 'feature1969', 'feature1970', 'feature1971', 'feature1972', 'feature1973', 'feature1974', 'feature1975', 'feature1976', 'feature1977', 'feature1978', 'feature1979', 'feature1980', 'feature1981', 'feature1982', 'feature1983', 'feature1984', 'feature1985', 'feature1986', 'feature1987', 'feature1988', 'feature1989', 'feature1990', 'feature1991', 'feature1992', 'feature1993', 'feature1994', 'feature1995', 'feature1996', 'feature1997', 'feature1998', 'feature1999', 'feature2000', 'feature2001', 'feature2002', 'feature2003', 'feature2004', 'feature2005', 'feature2006', 'feature2007', 'feature2008', 'feature2009', 'feature2010', 'feature2011', 'feature2012', 'feature2013', 'feature2014', 'feature2015', 'feature2016', 'feature2017', 'feature2018', 'feature2019', 'feature2020', 'feature2021', 'feature2022', 'feature2023', 'feature2024', 'feature2025', 'feature2026', 'feature2027', 'feature2028', 'feature2029', 'feature2030', 'feature2031', 'feature2032', 'feature2033', 'feature2034', 'feature2035', 'feature2036', 'feature2037', 'feature2038', 'feature2039', 'feature2040', 'feature2041', 'feature2042', 'feature2043', 'feature2044', 'feature2045', 'feature2046', 'feature2047', 'feature2048', 'feature2049', 'feature2050', 'feature2051', 'feature2052', 'feature2053', 'feature2054', 'feature2055', 'feature2056', 'feature2057', 'feature2058', 'feature2059', 'feature2060', 'feature2061', 'feature2062', 'feature2063', 'feature2064', 'feature2065', 'feature2066', 'feature2067', 'feature2068', 'feature2069', 'feature2070', 'feature2071', 'feature2072', 'feature2073', 'feature2074', 'feature2075', 'feature2076', 'feature2077', 'feature2078', 'feature2079', 'feature2080', 'feature2081', 'feature2082', 'feature2083', 'feature2084', 'feature2085', 'feature2086', 'feature2087', 'feature2088', 'feature2089', 'feature2090', 'feature2091', 'feature2092', 'feature2093', 'feature2094', 'feature2095', 'feature2096', 'feature2097', 'feature2098', 'feature2099', 'feature2100', 'feature2101', 'feature2102', 'feature2103', 'feature2104', 'feature2105', 'feature2106', 'feature2107', 'feature2108', 'feature2109', 'feature2110', 'feature2111', 'feature2112', 'feature2113', 'feature2114', 'feature2115', 'feature2116', 'feature2117', 'feature2118', 'feature2119', 'feature2120', 'feature2121', 'feature2122', 'feature2123', 'feature2124', 'feature2125', 'feature2126', 'feature2127', 'feature2128', 'feature2129', 'feature2130', 'feature2131', 'feature2132', 'feature2133', 'feature2134', 'feature2135', 'feature2136', 'feature2137', 'feature2138', 'feature2139', 'feature2140', 'feature2141', 'feature2142', 'feature2143', 'feature2144', 'feature2145', 'feature2146', 'feature2147', 'feature2148', 'feature2149', 'feature2150', 'feature2151', 'feature2152', 'feature2153', 'feature2154', 'feature2155', 'feature2156', 'feature2157', 'feature2158', 'feature2159', 'feature2160', 'feature2161', 'feature2162', 'feature2163', 'feature2164', 'feature2165', 'feature2166', 'feature2167', 'feature2168', 'feature2169', 'feature2170', 'feature2171', 'feature2172', 'feature2173', 'feature2174', 'feature2175', 'feature2176', 'feature2177', 'feature2178', 'feature2179', 'feature2180', 'feature2181', 'feature2182', 'feature2183', 'feature2184', 'feature2185', 'feature2186', 'feature2187', 'feature2188', 'feature2189', 'feature2190', 'feature2191', 'feature2192', 'feature2193', 'feature2194', 'feature2195', 'feature2196', 'feature2197', 'feature2198', 'feature2199', 'feature2200', 'feature2201', 'feature2202', 'feature2203', 'feature2204', 'feature2205', 'feature2206', 'feature2207', 'feature2208', 'feature2209', 'feature2210', 'feature2211', 'feature2212', 'feature2213', 'feature2214', 'feature2215', 'feature2216', 'feature2217', 'feature2218', 'feature2219', 'feature2220', 'feature2221', 'feature2222', 'feature2223', 'feature2224', 'feature2225', 'feature2226', 'feature2227', 'feature2228', 'feature2229', 'feature2230', 'feature2231', 'feature2232', 'feature2233', 'feature2234', 'feature2235', 'feature2236', 'feature2237', 'feature2238', 'feature2239', 'feature2240', 'feature2241', 'feature2242', 'feature2243', 'feature2244', 'feature2245', 'feature2246', 'feature2247', 'feature2248', 'feature2249', 'feature2250', 'feature2251', 'feature2252', 'feature2253', 'feature2254', 'feature2255', 'feature2256', 'feature2257', 'feature2258', 'feature2259', 'feature2260', 'feature2261', 'feature2262', 'feature2263', 'feature2264', 'feature2265', 'feature2266', 'feature2267', 'feature2268', 'feature2269', 'feature2270', 'feature2271', 'feature2272', 'feature2273', 'feature2274', 'feature2275', 'feature2276', 'feature2277', 'feature2278', 'feature2279', 'feature2280', 'feature2281', 'feature2282', 'feature2283', 'feature2284', 'feature2285', 'feature2286', 'feature2287', 'feature2288', 'feature2289', 'feature2290', 'feature2291', 'feature2292', 'feature2293', 'feature2294', 'feature2295', 'feature2296', 'feature2297', 'feature2298', 'feature2299', 'feature2300', 'feature2301', 'feature2302', 'feature2303', 'feature2304', 'feature2305', 'feature2306', 'feature2307', 'feature2308', 'feature2309', 'feature2310', 'feature2311', 'feature2312', 'feature2313', 'feature2314', 'feature2315', 'feature2316', 'feature2317', 'feature2318', 'feature2319', 'feature2320', 'feature2321', 'feature2322', 'feature2323', 'feature2324', 'feature2325', 'feature2326', 'feature2327', 'feature2328', 'feature2329', 'feature2330', 'feature2331', 'feature2332', 'feature2333', 'feature2334', 'feature2335', 'feature2336', 'feature2337', 'feature2338', 'feature2339', 'feature2340', 'feature2341', 'feature2342', 'feature2343', 'feature2344', 'feature2345', 'feature2346', 'feature2347', 'feature2348', 'feature2349', 'feature2350', 'feature2351', 'feature2352', 'feature2353', 'feature2354', 'feature2355', 'feature2356', 'feature2357', 'feature2358', 'feature2359', 'feature2360', 'feature2361', 'feature2362', 'feature2363', 'feature2364', 'feature2365', 'feature2366', 'feature2367', 'feature2368', 'feature2369', 'feature2370', 'feature2371', 'feature2372', 'feature2373', 'feature2374', 'feature2375', 'feature2376', 'feature2377', 'feature2378', 'feature2379', 'feature2380', 'feature2381', 'feature2382', 'feature2383', 'feature2384', 'feature2385', 'feature2386', 'feature2387', 'feature2388', 'feature2389', 'feature2390', 'feature2391', 'feature2392', 'feature2393', 'feature2394', 'feature2395', 'feature2396', 'feature2397', 'feature2398', 'feature2399', 'feature2400', 'feature2401', 'feature2402', 'feature2403', 'feature2404', 'feature2405', 'feature2406', 'feature2407', 'feature2408', 'feature2409', 'feature2410', 'feature2411', 'feature2412', 'feature2413', 'feature2414', 'feature2415', 'feature2416', 'feature2417', 'feature2418', 'feature2419', 'feature2420', 'feature2421', 'feature2422', 'feature2423', 'feature2424', 'feature2425', 'feature2426', 'feature2427', 'feature2428', 'feature2429', 'feature2430', 'feature2431', 'feature2432', 'feature2433', 'feature2434', 'feature2435', 'feature2436', 'feature2437', 'feature2438', 'feature2439', 'feature2440', 'feature2441', 'feature2442', 'feature2443', 'feature2444', 'feature2445', 'feature2446', 'feature2447', 'feature2448', 'feature2449', 'feature2450', 'feature2451', 'feature2452', 'feature2453', 'feature2454', 'feature2455', 'feature2456', 'feature2457', 'feature2458', 'feature2459', 'feature2460', 'feature2461', 'feature2462', 'feature2463', 'feature2464', 'feature2465', 'feature2466', 'feature2467', 'feature2468', 'feature2469', 'feature2470', 'feature2471', 'feature2472', 'feature2473', 'feature2474', 'feature2475', 'feature2476', 'feature2477', 'feature2478', 'feature2479', 'feature2480', 'feature2481', 'feature2482', 'feature2483', 'feature2484', 'feature2485', 'feature2486', 'feature2487', 'feature2488', 'feature2489', 'feature2490', 'feature2491', 'feature2492', 'feature2493', 'feature2494', 'feature2495', 'feature2496', 'feature2497', 'feature2498', 'feature2499', 'feature2500', 'feature2501', 'feature2502', 'feature2503', 'feature2504', 'feature2505', 'feature2506', 'feature2507', 'feature2508', 'feature2509', 'feature2510', 'feature2511', 'feature2512', 'feature2513', 'feature2514', 'feature2515', 'feature2516', 'feature2517', 'feature2518', 'feature2519', 'feature2520', 'feature2521', 'feature2522', 'feature2523', 'feature2524', 'feature2525', 'feature2526', 'feature2527', 'feature2528', 'feature2529', 'feature2530', 'feature2531', 'feature2532', 'feature2533', 'feature2534', 'feature2535', 'feature2536', 'feature2537', 'feature2538', 'feature2539', 'feature2540', 'feature2541', 'feature2542', 'feature2543', 'feature2544', 'feature2545', 'feature2546', 'feature2547', 'feature2548', 'feature2549', 'feature2550', 'feature2551', 'feature2552', 'feature2553', 'feature2554', 'feature2555', 'feature2556', 'feature2557', 'feature2558', 'feature2559', 'feature2560', 'feature2561', 'feature2562', 'feature2563', 'feature2564', 'feature2565', 'feature2566', 'feature2567', 'feature2568', 'feature2569', 'feature2570', 'feature2571', 'feature2572', 'feature2573', 'feature2574', 'feature2575', 'feature2576', 'feature2577', 'feature2578', 'feature2579', 'feature2580', 'feature2581', 'feature2582', 'feature2583', 'feature2584', 'feature2585', 'feature2586', 'feature2587', 'feature2588', 'feature2589', 'feature2590', 'feature2591', 'feature2592', 'feature2593', 'feature2594', 'feature2595', 'feature2596', 'feature2597', 'feature2598', 'feature2599', 'feature2600', 'feature2601', 'feature2602', 'feature2603', 'feature2604', 'feature2605', 'feature2606', 'feature2607', 'feature2608', 'feature2609', 'feature2610', 'feature2611', 'feature2612', 'feature2613', 'feature2614', 'feature2615', 'feature2616', 'feature2617', 'feature2618', 'feature2619', 'feature2620', 'feature2621', 'feature2622', 'feature2623', 'feature2624', 'feature2625', 'feature2626', 'feature2627', 'feature2628', 'feature2629', 'feature2630', 'feature2631', 'feature2632', 'feature2633', 'feature2634', 'feature2635', 'feature2636', 'feature2637', 'feature2638', 'feature2639', 'feature2640', 'feature2641', 'feature2642', 'feature2643', 'feature2644', 'feature2645', 'feature2646', 'feature2647', 'feature2648', 'feature2649', 'feature2650', 'feature2651', 'feature2652', 'feature2653', 'feature2654', 'feature2655', 'feature2656', 'feature2657', 'feature2658', 'feature2659', 'feature2660', 'feature2661', 'feature2662', 'feature2663', 'feature2664', 'feature2665', 'feature2666', 'feature2667', 'feature2668', 'feature2669', 'feature2670', 'feature2671', 'feature2672', 'feature2673', 'feature2674', 'feature2675', 'feature2676', 'feature2677', 'feature2678', 'feature2679', 'feature2680', 'feature2681', 'feature2682', 'feature2683', 'feature2684', 'feature2685', 'feature2686', 'feature2687', 'feature2688', 'feature2689', 'feature2690', 'feature2691', 'feature2692', 'feature2693', 'feature2694', 'feature2695', 'feature2696', 'feature2697', 'feature2698', 'feature2699', 'feature2700', 'feature2701', 'feature2702', 'feature2703', 'feature2704', 'feature2705', 'feature2706', 'feature2707', 'feature2708', 'feature2709', 'feature2710', 'feature2711', 'feature2712', 'feature2713', 'feature2714', 'feature2715', 'feature2716', 'feature2717', 'feature2718', 'feature2719', 'feature2720', 'feature2721', 'feature2722', 'feature2723', 'feature2724', 'feature2725', 'feature2726', 'feature2727', 'feature2728', 'feature2729', 'feature2730', 'feature2731', 'feature2732', 'feature2733', 'feature2734', 'feature2735', 'feature2736', 'feature2737', 'feature2738', 'feature2739', 'feature2740', 'feature2741', 'feature2742', 'feature2743', 'feature2744', 'feature2745', 'feature2746', 'feature2747', 'feature2748', 'feature2749', 'feature2750', 'feature2751', 'feature2752', 'feature2753', 'feature2754', 'feature2755', 'feature2756', 'feature2757', 'feature2758', 'feature2759', 'feature2760', 'feature2761', 'feature2762', 'feature2763', 'feature2764', 'feature2765', 'feature2766', 'feature2767', 'feature2768', 'feature2769', 'feature2770', 'feature2771', 'feature2772', 'feature2773', 'feature2774', 'feature2775', 'feature2776', 'feature2777', 'feature2778', 'feature2779', 'feature2780', 'feature2781', 'feature2782', 'feature2783', 'feature2784', 'feature2785', 'feature2786', 'feature2787', 'feature2788', 'feature2789', 'feature2790', 'feature2791', 'feature2792', 'feature2793', 'feature2794', 'feature2795', 'feature2796', 'feature2797', 'feature2798', 'feature2799', 'feature2800', 'feature2801', 'feature2802', 'feature2803', 'feature2804', 'feature2805', 'feature2806', 'feature2807', 'feature2808', 'feature2809', 'feature2810', 'feature2811', 'feature2812', 'feature2813', 'feature2814', 'feature2815', 'feature2816', 'feature2817', 'feature2818', 'feature2819', 'feature2820', 'feature2821', 'feature2822', 'feature2823', 'feature2824', 'feature2825', 'feature2826', 'feature2827', 'feature2828', 'feature2829', 'feature2830', 'feature2831', 'feature2832', 'feature2833', 'feature2834', 'feature2835', 'feature2836', 'feature2837', 'feature2838', 'feature2839', 'feature2840', 'feature2841', 'feature2842', 'feature2843', 'feature2844', 'feature2845', 'feature2846', 'feature2847', 'feature2848', 'feature2849', 'feature2850', 'feature2851', 'feature2852', 'feature2853', 'feature2854', 'feature2855', 'feature2856', 'feature2857', 'feature2858', 'feature2859', 'feature2860', 'feature2861', 'feature2862', 'feature2863', 'feature2864', 'feature2865', 'feature2866', 'feature2867', 'feature2868', 'feature2869', 'feature2870', 'feature2871', 'feature2872', 'feature2873', 'feature2874', 'feature2875', 'feature2876', 'feature2877', 'feature2878', 'feature2879', 'feature2880', 'feature2881', 'feature2882', 'feature2883', 'feature2884', 'feature2885', 'feature2886', 'feature2887', 'feature2888', 'feature2889', 'feature2890', 'feature2891', 'feature2892', 'feature2893', 'feature2894', 'feature2895', 'feature2896', 'feature2897', 'feature2898', 'feature2899', 'feature2900', 'feature2901', 'feature2902', 'feature2903', 'feature2904', 'feature2905', 'feature2906', 'feature2907', 'feature2908', 'feature2909', 'feature2910', 'feature2911', 'feature2912', 'feature2913', 'feature2914', 'feature2915', 'feature2916', 'feature2917', 'feature2918', 'feature2919', 'feature2920', 'feature2921', 'feature2922', 'feature2923', 'feature2924', 'feature2925', 'feature2926', 'feature2927', 'feature2928', 'feature2929', 'feature2930', 'feature2931', 'feature2932', 'feature2933', 'feature2934', 'feature2935', 'feature2936', 'feature2937', 'feature2938', 'feature2939', 'feature2940', 'feature2941', 'feature2942', 'feature2943', 'feature2944', 'feature2945', 'feature2946', 'feature2947', 'feature2948', 'feature2949', 'feature2950', 'feature2951', 'feature2952', 'feature2953', 'feature2954', 'feature2955', 'feature2956', 'feature2957', 'feature2958', 'feature2959', 'feature2960', 'feature2961', 'feature2962', 'feature2963', 'feature2964', 'feature2965', 'feature2966', 'feature2967', 'feature2968', 'feature2969', 'feature2970', 'feature2971', 'feature2972', 'feature2973', 'feature2974', 'feature2975', 'feature2976', 'feature2977', 'feature2978', 'feature2979', 'feature2980', 'feature2981', 'feature2982', 'feature2983', 'feature2984', 'feature2985', 'feature2986', 'feature2987', 'feature2988', 'feature2989', 'feature2990', 'feature2991', 'feature2992', 'feature2993', 'feature2994', 'feature2995', 'feature2996', 'feature2997', 'feature2998', 'feature2999', 'feature3000', 'feature3001', 'feature3002', 'feature3003', 'feature3004', 'feature3005', 'feature3006', 'feature3007', 'feature3008', 'feature3009', 'feature3010', 'feature3011', 'feature3012', 'feature3013', 'feature3014', 'feature3015', 'feature3016', 'feature3017', 'feature3018', 'feature3019', 'feature3020', 'feature3021', 'feature3022', 'feature3023', 'feature3024', 'feature3025', 'feature3026', 'feature3027', 'feature3028', 'feature3029', 'feature3030', 'feature3031', 'feature3032', 'feature3033', 'feature3034', 'feature3035', 'feature3036', 'feature3037', 'feature3038', 'feature3039', 'feature3040', 'feature3041', 'feature3042', 'feature3043', 'feature3044', 'feature3045', 'feature3046', 'feature3047', 'feature3048', 'feature3049', 'feature3050', 'feature3051', 'feature3052', 'feature3053', 'feature3054', 'feature3055', 'feature3056', 'feature3057', 'feature3058', 'feature3059', 'feature3060', 'feature3061', 'feature3062', 'feature3063', 'feature3064', 'feature3065', 'feature3066', 'feature3067', 'feature3068', 'feature3069', 'feature3070', 'feature3071', 'feature3072', 'feature3073', 'feature3074', 'feature3075', 'feature3076', 'feature3077', 'feature3078', 'feature3079', 'feature3080', 'feature3081', 'feature3082', 'feature3083', 'feature3084', 'feature3085', 'feature3086', 'feature3087', 'feature3088', 'feature3089', 'feature3090', 'feature3091', 'feature3092', 'feature3093', 'feature3094', 'feature3095', 'feature3096', 'feature3097', 'feature3098', 'feature3099', 'feature3100', 'feature3101', 'feature3102', 'feature3103', 'feature3104', 'feature3105', 'feature3106', 'feature3107', 'feature3108', 'feature3109', 'feature3110', 'feature3111', 'feature3112', 'feature3113', 'feature3114', 'feature3115', 'feature3116', 'feature3117', 'feature3118', 'feature3119', 'feature3120', 'feature3121', 'feature3122', 'feature3123', 'feature3124', 'feature3125', 'feature3126', 'feature3127', 'feature3128', 'feature3129', 'feature3130', 'feature3131', 'feature3132', 'feature3133', 'feature3134', 'feature3135', 'feature3136', 'feature3137', 'feature3138', 'feature3139', 'feature3140', 'feature3141', 'feature3142', 'feature3143', 'feature3144', 'feature3145', 'feature3146', 'feature3147', 'feature3148', 'feature3149', 'feature3150', 'feature3151', 'feature3152', 'feature3153', 'feature3154', 'feature3155', 'feature3156', 'feature3157', 'feature3158', 'feature3159', 'feature3160', 'feature3161', 'feature3162', 'feature3163', 'feature3164', 'feature3165', 'feature3166', 'feature3167', 'feature3168', 'feature3169', 'feature3170', 'feature3171', 'feature3172', 'feature3173', 'feature3174', 'feature3175', 'feature3176', 'feature3177', 'feature3178', 'feature3179', 'feature3180', 'feature3181', 'feature3182', 'feature3183', 'feature3184', 'feature3185', 'feature3186', 'feature3187', 'feature3188', 'feature3189', 'feature3190', 'feature3191', 'feature3192', 'feature3193', 'feature3194', 'feature3195', 'feature3196', 'feature3197', 'feature3198', 'feature3199', 'feature3200', 'feature3201', 'feature3202', 'feature3203', 'feature3204', 'feature3205', 'feature3206', 'feature3207', 'feature3208', 'feature3209', 'feature3210', 'feature3211', 'feature3212', 'feature3213', 'feature3214', 'feature3215', 'feature3216', 'feature3217', 'feature3218', 'feature3219', 'feature3220', 'feature3221', 'feature3222', 'feature3223', 'feature3224', 'feature3225', 'feature3226', 'feature3227', 'feature3228', 'feature3229', 'feature3230', 'feature3231', 'feature3232', 'feature3233', 'feature3234', 'feature3235', 'feature3236', 'feature3237', 'feature3238', 'feature3239', 'feature3240', 'feature3241', 'feature3242', 'feature3243', 'feature3244', 'feature3245', 'feature3246', 'feature3247', 'feature3248', 'feature3249', 'feature3250', 'feature3251', 'feature3252', 'feature3253', 'feature3254', 'feature3255', 'feature3256', 'feature3257', 'feature3258', 'feature3259', 'feature3260', 'feature3261', 'feature3262', 'feature3263', 'feature3264', 'feature3265', 'feature3266', 'feature3267', 'feature3268', 'feature3269', 'feature3270', 'feature3271', 'feature3272', 'feature3273', 'feature3274', 'feature3275', 'feature3276', 'feature3277', 'feature3278', 'feature3279', 'feature3280', 'feature3281', 'feature3282', 'feature3283', 'feature3284', 'feature3285', 'feature3286', 'feature3287', 'feature3288', 'feature3289', 'feature3290', 'feature3291', 'feature3292', 'feature3293', 'feature3294', 'feature3295', 'feature3296', 'feature3297', 'feature3298', 'feature3299', 'feature3300', 'feature3301', 'feature3302', 'feature3303', 'feature3304', 'feature3305', 'feature3306', 'feature3307', 'feature3308', 'feature3309', 'feature3310', 'feature3311', 'feature3312', 'feature3313', 'feature3314', 'feature3315', 'feature3316', 'feature3317', 'feature3318', 'feature3319', 'feature3320', 'feature3321', 'feature3322', 'feature3323', 'feature3324', 'feature3325', 'feature3326', 'feature3327', 'feature3328', 'feature3329', 'feature3330', 'feature3331', 'feature3332', 'feature3333', 'feature3334', 'feature3335', 'feature3336', 'feature3337', 'feature3338', 'feature3339', 'feature3340', 'feature3341', 'feature3342', 'feature3343', 'feature3344', 'feature3345', 'feature3346', 'feature3347', 'feature3348', 'feature3349', 'feature3350', 'feature3351', 'feature3352', 'feature3353', 'feature3354', 'feature3355', 'feature3356', 'feature3357', 'feature3358', 'feature3359', 'feature3360', 'feature3361', 'feature3362', 'feature3363', 'feature3364', 'feature3365', 'feature3366', 'feature3367', 'feature3368', 'feature3369', 'feature3370', 'feature3371', 'feature3372', 'feature3373', 'feature3374', 'feature3375', 'feature3376', 'feature3377', 'feature3378', 'feature3379', 'feature3380', 'feature3381', 'feature3382', 'feature3383', 'feature3384', 'feature3385', 'feature3386', 'feature3387', 'feature3388', 'feature3389', 'feature3390', 'feature3391', 'feature3392', 'feature3393', 'feature3394', 'feature3395', 'feature3396', 'feature3397', 'feature3398', 'feature3399', 'feature3400', 'feature3401', 'feature3402', 'feature3403', 'feature3404', 'feature3405', 'feature3406', 'feature3407', 'feature3408', 'feature3409', 'feature3410', 'feature3411', 'feature3412', 'feature3413', 'feature3414', 'feature3415', 'feature3416', 'feature3417', 'feature3418', 'feature3419', 'feature3420', 'feature3421', 'feature3422', 'feature3423', 'feature3424', 'feature3425', 'feature3426', 'feature3427', 'feature3428', 'feature3429', 'feature3430', 'feature3431', 'feature3432', 'feature3433', 'feature3434', 'feature3435', 'feature3436', 'feature3437', 'feature3438', 'feature3439', 'feature3440', 'feature3441', 'feature3442', 'feature3443', 'feature3444', 'feature3445', 'feature3446', 'feature3447', 'feature3448', 'feature3449', 'feature3450', 'feature3451', 'feature3452', 'feature3453', 'feature3454', 'feature3455', 'feature3456', 'feature3457', 'feature3458', 'feature3459', 'feature3460', 'feature3461', 'feature3462', 'feature3463', 'feature3464', 'feature3465', 'feature3466', 'feature3467', 'feature3468', 'feature3469', 'feature3470', 'feature3471', 'feature3472', 'feature3473', 'feature3474', 'feature3475', 'feature3476', 'feature3477', 'feature3478', 'feature3479', 'feature3480', 'feature3481', 'feature3482', 'feature3483', 'feature3484', 'feature3485', 'feature3486', 'feature3487', 'feature3488', 'feature3489', 'feature3490', 'feature3491', 'feature3492', 'feature3493', 'feature3494', 'feature3495', 'feature3496', 'feature3497', 'feature3498', 'feature3499', 'feature3500', 'feature3501', 'feature3502', 'feature3503', 'feature3504', 'feature3505', 'feature3506', 'feature3507', 'feature3508', 'feature3509', 'feature3510', 'feature3511', 'feature3512', 'feature3513', 'feature3514', 'feature3515', 'feature3516', 'feature3517', 'feature3518', 'feature3519', 'feature3520', 'feature3521', 'feature3522', 'feature3523', 'feature3524', 'feature3525', 'feature3526', 'feature3527', 'feature3528', 'feature3529', 'feature3530', 'feature3531', 'feature3532', 'feature3533', 'feature3534', 'feature3535', 'feature3536', 'feature3537', 'feature3538', 'feature3539', 'feature3540', 'feature3541', 'feature3542', 'feature3543', 'feature3544', 'feature3545', 'feature3546', 'feature3547', 'feature3548', 'feature3549', 'feature3550', 'feature3551', 'feature3552', 'feature3553', 'feature3554', 'feature3555', 'feature3556', 'feature3557', 'feature3558', 'feature3559', 'feature3560', 'feature3561', 'feature3562', 'feature3563', 'feature3564', 'feature3565', 'feature3566', 'feature3567', 'feature3568', 'feature3569', 'feature3570', 'feature3571', 'feature3572', 'feature3573', 'feature3574', 'feature3575', 'feature3576', 'feature3577', 'feature3578', 'feature3579', 'feature3580', 'feature3581', 'feature3582', 'feature3583', 'feature3584', 'feature3585', 'feature3586', 'feature3587', 'feature3588', 'feature3589', 'feature3590', 'feature3591', 'feature3592', 'feature3593', 'feature3594', 'feature3595', 'feature3596', 'feature3597', 'feature3598', 'feature3599', 'feature3600', 'feature3601', 'feature3602', 'feature3603', 'feature3604', 'feature3605', 'feature3606', 'feature3607', 'feature3608', 'feature3609', 'feature3610', 'feature3611', 'feature3612', 'feature3613', 'feature3614', 'feature3615', 'feature3616', 'feature3617', 'feature3618', 'feature3619', 'feature3620', 'feature3621', 'feature3622', 'feature3623', 'feature3624', 'feature3625', 'feature3626', 'feature3627', 'feature3628', 'feature3629', 'feature3630', 'feature3631', 'feature3632', 'feature3633', 'feature3634', 'feature3635', 'feature3636', 'feature3637', 'feature3638', 'feature3639', 'feature3640', 'feature3641', 'feature3642', 'feature3643', 'feature3644', 'feature3645', 'feature3646', 'feature3647', 'feature3648', 'feature3649', 'feature3650', 'feature3651', 'feature3652', 'feature3653', 'feature3654', 'feature3655', 'feature3656', 'feature3657', 'feature3658', 'feature3659', 'feature3660', 'feature3661', 'feature3662', 'feature3663', 'feature3664', 'feature3665', 'feature3666', 'feature3667', 'feature3668', 'feature3669', 'feature3670', 'feature3671', 'feature3672', 'feature3673', 'feature3674', 'feature3675', 'feature3676', 'feature3677', 'feature3678', 'feature3679', 'feature3680', 'feature3681', 'feature3682', 'feature3683', 'feature3684', 'feature3685', 'feature3686', 'feature3687', 'feature3688', 'feature3689', 'feature3690', 'feature3691', 'feature3692', 'feature3693', 'feature3694', 'feature3695', 'feature3696', 'feature3697', 'feature3698', 'feature3699', 'feature3700', 'feature3701', 'feature3702', 'feature3703', 'feature3704', 'feature3705', 'feature3706', 'feature3707', 'feature3708', 'feature3709', 'feature3710', 'feature3711', 'feature3712', 'feature3713', 'feature3714', 'feature3715', 'feature3716', 'feature3717', 'feature3718', 'feature3719', 'feature3720', 'feature3721', 'feature3722', 'feature3723', 'feature3724', 'feature3725', 'feature3726', 'feature3727', 'feature3728', 'feature3729', 'feature3730', 'feature3731', 'feature3732', 'feature3733', 'feature3734', 'feature3735', 'feature3736', 'feature3737', 'feature3738', 'feature3739', 'feature3740', 'feature3741', 'feature3742', 'feature3743', 'feature3744', 'feature3745', 'feature3746', 'feature3747', 'feature3748', 'feature3749', 'feature3750', 'feature3751', 'feature3752', 'feature3753', 'feature3754', 'feature3755', 'feature3756', 'feature3757', 'feature3758', 'feature3759', 'feature3760', 'feature3761', 'feature3762', 'feature3763', 'feature3764', 'feature3765', 'feature3766', 'feature3767', 'feature3768', 'feature3769', 'feature3770', 'feature3771', 'feature3772', 'feature3773', 'feature3774', 'feature3775', 'feature3776', 'feature3777', 'feature3778', 'feature3779', 'feature3780', 'feature3781', 'feature3782', 'feature3783', 'feature3784', 'feature3785', 'feature3786', 'feature3787', 'feature3788', 'feature3789', 'feature3790', 'feature3791', 'feature3792', 'feature3793', 'feature3794', 'feature3795', 'feature3796', 'feature3797', 'feature3798', 'feature3799', 'feature3800', 'feature3801', 'feature3802', 'feature3803', 'feature3804', 'feature3805', 'feature3806', 'feature3807', 'feature3808', 'feature3809', 'feature3810', 'feature3811', 'feature3812', 'feature3813', 'feature3814', 'feature3815', 'feature3816', 'feature3817', 'feature3818', 'feature3819', 'feature3820', 'feature3821', 'feature3822', 'feature3823', 'feature3824', 'feature3825', 'feature3826', 'feature3827', 'feature3828', 'feature3829', 'feature3830', 'feature3831', 'feature3832', 'feature3833', 'feature3834', 'feature3835', 'feature3836', 'feature3837', 'feature3838', 'feature3839', 'feature3840', 'feature3841', 'feature3842', 'feature3843', 'feature3844', 'feature3845', 'feature3846', 'feature3847', 'feature3848', 'feature3849', 'feature3850', 'feature3851', 'feature3852', 'feature3853', 'feature3854', 'feature3855', 'feature3856', 'feature3857', 'feature3858', 'feature3859', 'feature3860', 'feature3861', 'feature3862', 'feature3863', 'feature3864', 'feature3865', 'feature3866', 'feature3867', 'feature3868', 'feature3869', 'feature3870', 'feature3871', 'feature3872', 'feature3873', 'feature3874', 'feature3875', 'feature3876', 'feature3877', 'feature3878', 'feature3879', 'feature3880', 'feature3881', 'feature3882', 'feature3883', 'feature3884', 'feature3885', 'feature3886', 'feature3887', 'feature3888', 'feature3889', 'feature3890', 'feature3891', 'feature3892', 'feature3893', 'feature3894', 'feature3895', 'feature3896', 'feature3897', 'feature3898', 'feature3899', 'feature3900', 'feature3901', 'feature3902', 'feature3903', 'feature3904', 'feature3905', 'feature3906', 'feature3907', 'feature3908', 'feature3909', 'feature3910', 'feature3911', 'feature3912', 'feature3913', 'feature3914', 'feature3915', 'feature3916', 'feature3917', 'feature3918', 'feature3919', 'feature3920', 'feature3921', 'feature3922', 'feature3923', 'feature3924', 'feature3925', 'feature3926', 'feature3927', 'feature3928', 'feature3929', 'feature3930', 'feature3931', 'feature3932', 'feature3933', 'feature3934', 'feature3935', 'feature3936', 'feature3937', 'feature3938', 'feature3939', 'feature3940', 'feature3941', 'feature3942', 'feature3943', 'feature3944', 'feature3945', 'feature3946', 'feature3947', 'feature3948', 'feature3949', 'feature3950', 'feature3951', 'feature3952', 'feature3953', 'feature3954', 'feature3955', 'feature3956', 'feature3957', 'feature3958', 'feature3959', 'feature3960', 'feature3961', 'feature3962', 'feature3963', 'feature3964', 'feature3965', 'feature3966', 'feature3967', 'feature3968', 'feature3969', 'feature3970', 'feature3971', 'feature3972', 'feature3973', 'feature3974', 'feature3975', 'feature3976', 'feature3977', 'feature3978', 'feature3979', 'feature3980', 'feature3981', 'feature3982', 'feature3983', 'feature3984', 'feature3985', 'feature3986', 'feature3987', 'feature3988', 'feature3989', 'feature3990', 'feature3991', 'feature3992', 'feature3993', 'feature3994', 'feature3995', 'feature3996', 'feature3997', 'feature3998', 'feature3999', 'feature4000', 'feature4001', 'feature4002', 'feature4003', 'feature4004', 'feature4005', 'feature4006', 'feature4007', 'feature4008', 'feature4009', 'feature4010', 'feature4011', 'feature4012', 'feature4013', 'feature4014', 'feature4015', 'feature4016', 'feature4017', 'feature4018', 'feature4019', 'feature4020', 'feature4021', 'feature4022', 'feature4023', 'feature4024', 'feature4025', 'feature4026', 'feature4027', 'feature4028', 'feature4029', 'feature4030', 'feature4031', 'feature4032', 'feature4033', 'feature4034', 'feature4035', 'feature4036', 'feature4037', 'feature4038', 'feature4039', 'feature4040', 'feature4041', 'feature4042', 'feature4043', 'feature4044', 'feature4045', 'feature4046', 'feature4047', 'feature4048', 'feature4049', 'feature4050', 'feature4051', 'feature4052', 'feature4053', 'feature4054', 'feature4055', 'feature4056', 'feature4057', 'feature4058', 'feature4059', 'feature4060', 'feature4061', 'feature4062', 'feature4063', 'feature4064', 'feature4065', 'feature4066', 'feature4067', 'feature4068', 'feature4069', 'feature4070', 'feature4071', 'feature4072', 'feature4073', 'feature4074', 'feature4075', 'feature4076', 'feature4077', 'feature4078', 'feature4079', 'feature4080', 'feature4081', 'feature4082', 'feature4083', 'feature4084', 'feature4085', 'feature4086', 'feature4087', 'feature4088', 'feature4089', 'feature4090', 'feature4091', 'feature4092', 'feature4093', 'feature4094', 'feature4095', 'feature4096']
+
+
+GOAL:
+401    0
+533    1
+245    0
+856    1
+732    1
+676    1
+537    1
+761    1
+114    0
+249    0
+811    1
+835    1
+31     0
+340    0
+573    1
+708    1
+387    0
+675    1
+549    1
+169    0
+666    1
+73     0
+619    1
+719    1
+140    0
+328    0
+476    0
+11     0
+7      0
+27     0
+      ..
+45     0
+772    1
+865    1
+6      0
+24     0
+173    0
+658    1
+541    1
+613    1
+618    1
+872    1
+324    0
+810    1
+475    0
+201    0
+20     0
+263    0
+651    1
+489    1
+801    1
+869    1
+496    1
+129    0
+633    1
+67     0
+158    0
+139    0
+397    0
+583    1
+52     0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 1 0 1 1 1 1 1 0 0 1 0 0 0 0 1 0 1 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 1
+ 0 0 0 0 1 0 0 1 0 1 1 0 0 0 1 1 1 0 1 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 1 1 1
+ 0 1 0 1 0 0 0 0 1 1 0 0 0 0 0 1 0 1 1 1 1 0 1 0 0 1 1 0 1 0 0 0 0 0 0 0 0
+ 0 0 0 1 0 0 1 1 0 1 1 0 1 1 0 0 1 1 0 1 1 0 0 0 1 1 0 0 0 1 1 0 0 0 0 0 1
+ 1 0 0 0 1 1 1 1 1 0 1 0 0 0 0 1 1 1 1 1 1 1 0 0 0 0 1 0]
+Accuracy: 0.9375
+
+
+GOAL:
+379    0
+180    0
+144    0
+406    0
+161    0
+782    1
+801    1
+100    0
+780    1
+159    0
+555    1
+7      0
+531    1
+541    1
+32     0
+49     0
+808    1
+614    1
+220    0
+833    1
+554    1
+502    1
+640    1
+524    1
+784    1
+519    1
+158    0
+572    1
+613    1
+735    1
+      ..
+710    1
+851    1
+570    1
+732    1
+205    0
+61     0
+416    0
+847    1
+675    1
+653    1
+321    0
+543    1
+793    1
+837    1
+484    0
+40     0
+685    1
+378    0
+759    1
+649    1
+253    0
+397    0
+139    0
+798    1
+309    0
+724    1
+463    0
+246    0
+385    0
+595    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 0 0 0 1 1 0 1 0 1 0 1 1 0 0 1 1 0 1 1 1 1 1 1 1 0 1 1 1 1 0 0 0 0 1 0
+ 1 0 1 0 0 1 1 0 0 0 1 0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 0 1 1 0 0 0 0 0 0 0
+ 0 0 1 1 0 0 1 0 1 1 0 0 0 0 1 1 0 1 0 1 0 0 0 1 0 0 1 1 0 0 0 1 1 0 1 0 0
+ 1 1 0 1 1 1 0 1 1 0 1 0 0 1 0 0 0 1 0 1 0 1 0 0 0 0 0 1 1 0 1 0 0 1 1 1 1
+ 1 1 0 0 0 1 1 1 0 1 1 1 0 0 1 0 1 1 0 0 0 1 0 1 0 0 0 1]
+Accuracy: 0.9488636363636364
+
+
+GOAL:
+804    1
+592    1
+316    0
+379    0
+196    0
+382    0
+737    1
+86     0
+529    1
+380    0
+872    1
+761    1
+298    0
+667    1
+673    1
+806    1
+262    0
+423    0
+820    1
+1      0
+536    1
+130    0
+200    0
+467    0
+677    1
+22     0
+686    1
+265    0
+846    1
+100    0
+      ..
+623    1
+684    1
+288    0
+868    1
+296    0
+394    0
+611    1
+854    1
+680    1
+224    0
+28     0
+19     0
+85     0
+237    0
+453    0
+714    1
+513    1
+162    0
+125    0
+326    0
+556    1
+37     0
+774    1
+821    1
+281    0
+42     0
+302    0
+358    0
+239    0
+79     0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 1 0 0 0 0 1 0 1 0 1 1 0 1 1 1 0 0 1 0 1 0 0 0 1 0 1 0 1 0 1 0 0 0 0 1 0
+ 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 1 1 0 0 0 1 1 1 1 0 0 1 1 0 0 1 0 0 1
+ 0 0 0 0 1 1 0 1 0 0 0 1 1 1 0 0 0 0 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 0 1 1
+ 0 0 0 0 1 1 1 0 1 1 0 0 1 1 0 0 0 0 0 0 1 0 1 0 1 1 1 0 0 0 1 1 0 1 0 1 1
+ 0 1 0 0 1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 1 1 0 0 0 0 0 0]
+Accuracy: 0.9375
+
+
+GOAL:
+0      0
+596    1
+470    0
+418    0
+270    0
+430    0
+269    0
+582    1
+95     0
+175    0
+585    1
+641    1
+475    0
+415    0
+778    1
+505    1
+819    1
+216    0
+568    1
+721    1
+145    0
+709    1
+640    1
+821    1
+652    1
+301    0
+84     0
+529    1
+211    0
+740    1
+      ..
+773    1
+38     0
+520    1
+12     0
+453    0
+88     0
+108    0
+624    1
+870    1
+24     0
+497    1
+426    0
+521    1
+554    1
+705    1
+620    1
+561    1
+311    0
+867    1
+728    1
+813    1
+115    0
+769    1
+178    0
+590    1
+693    1
+562    1
+327    0
+630    1
+368    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 1 0 0 0 0 0 1 0 0 1 1 0 1 1 1 1 0 1 1 0 0 1 1 1 0 0 1 0 1 0 1 1 0 0 0 1
+ 1 0 0 1 1 1 0 1 0 0 0 0 0 1 1 0 1 1 0 0 0 1 0 0 1 0 0 1 0 1 0 1 0 0 0 0 0
+ 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 0 0 0 1 0 1 0 1 1 1 0 1 1 0 0 0 1 0
+ 0 1 0 1 0 1 1 0 0 0 0 0 0 0 1 1 0 1 0 0 0 1 1 0 1 0 0 1 1 0 0 1 1 1 1 1 0
+ 1 0 0 0 0 1 1 0 1 0 1 1 1 1 1 0 1 1 1 1 1 0 1 1 1 0 1 0]
+Accuracy: 0.9318181818181818
+
+
+GOAL:
+606    1
+602    1
+512    1
+444    0
+336    0
+191    0
+765    1
+688    1
+818    1
+727    1
+813    1
+390    0
+149    0
+293    0
+359    0
+854    1
+517    1
+640    1
+117    0
+581    1
+39     0
+160    0
+828    1
+642    1
+599    1
+694    1
+247    0
+766    1
+756    1
+102    0
+      ..
+259    0
+226    0
+321    0
+618    1
+305    0
+686    1
+181    0
+370    0
+783    1
+281    0
+771    1
+738    1
+547    1
+646    1
+457    0
+876    1
+817    1
+836    1
+356    0
+344    0
+44     0
+846    1
+240    0
+786    1
+92     0
+363    0
+326    0
+538    1
+392    0
+37     0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 0 1 0 0 0 1 1 1 1 1 0 0 0 0 1 1 1 0 1 0 0 1 1 1 1 0 1 1 0 0 0 1 0 1 0 0
+ 1 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 1 0 0 0 0 0 0 1 1 1 0 0 1 1
+ 0 0 1 1 1 1 0 1 0 0 0 1 1 0 0 1 0 0 1 1 1 1 0 0 1 1 0 0 0 0 1 0 0 0 1 0 0
+ 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 1 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 1 1 1 0 0
+ 0 0 0 1 0 0 1 0 1 1 1 1 0 1 1 1 0 0 0 0 0 1 0 0 0 1 0 0]
+Accuracy: 0.9602272727272727
+
+
+GOAL:
+221    0
+864    1
+5      0
+125    0
+85     0
+724    1
+570    1
+324    0
+562    1
+419    0
+615    1
+217    0
+600    1
+118    0
+687    1
+632    1
+639    1
+350    0
+422    0
+554    1
+241    0
+157    0
+322    0
+71     0
+737    1
+779    1
+762    1
+281    0
+3      0
+481    0
+      ..
+485    0
+29     0
+791    1
+704    1
+575    1
+233    0
+11     0
+526    1
+859    1
+628    1
+229    0
+692    1
+785    1
+89     0
+278    0
+116    0
+561    1
+9      0
+358    0
+848    1
+838    1
+784    1
+766    1
+135    0
+614    1
+829    1
+282    0
+42     0
+276    0
+385    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 1 0 0 0 1 1 0 1 0 1 0 1 0 0 1 1 0 0 1 0 0 0 0 1 1 1 0 0 0 1 1 0 0 0 1 1
+ 1 1 1 1 0 1 1 0 0 0 0 1 1 1 0 1 1 1 0 1 1 1 1 1 0 0 0 0 1 1 0 1 1 0 0 0 1
+ 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 1 0 0 1 0 1 1 1 1 0 0 0 0 0 0 0 1 1 1 1 0 0
+ 0 0 0 1 0 0 0 1 1 0 1 1 1 0 0 0 0 1 1 0 0 1 0 1 0 0 0 0 0 1 0 0 1 1 1 1 0
+ 1 1 1 0 0 1 1 1 0 1 1 0 0 0 1 0 0 1 1 1 1 0 1 1 0 0 0 0]
+Accuracy: 0.9375
+
+
+GOAL:
+18     0
+328    0
+735    1
+800    1
+268    0
+382    0
+411    0
+104    0
+756    1
+603    1
+68     0
+582    1
+273    0
+49     0
+393    0
+519    1
+497    1
+638    1
+399    0
+43     0
+740    1
+474    0
+409    0
+341    0
+11     0
+700    1
+707    1
+183    0
+321    0
+55     0
+      ..
+185    0
+365    0
+255    0
+812    1
+580    1
+345    0
+622    1
+388    0
+780    1
+135    0
+260    0
+804    1
+487    0
+252    0
+278    0
+130    0
+473    0
+85     0
+708    1
+19     0
+759    1
+227    0
+597    1
+610    1
+46     0
+254    0
+214    0
+416    0
+710    1
+755    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 1 1 0 0 0 0 1 1 0 1 0 0 0 1 1 1 1 0 1 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0
+ 0 1 0 0 0 0 1 0 1 0 0 0 0 0 0 1 0 1 0 0 1 0 0 1 1 0 1 0 1 1 1 1 1 1 0 0 1
+ 1 1 0 1 1 0 0 1 1 1 0 0 0 1 1 1 1 0 1 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 1 0 1
+ 1 0 1 0 0 0 1 0 0 0 0 0 1 0 0 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 0 0 0 0 1 0 0
+ 0 0 1 0 1 0 1 0 0 1 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 0 1 1]
+Accuracy: 0.9375
+
+
+GOAL:
+360    0
+190    0
+65     0
+825    1
+802    1
+467    0
+518    1
+432    0
+858    1
+21     0
+92     0
+576    1
+641    1
+58     0
+577    1
+806    1
+860    1
+656    1
+827    1
+389    0
+723    1
+255    0
+132    0
+111    0
+152    0
+453    0
+595    1
+170    0
+127    0
+584    1
+      ..
+728    1
+590    1
+626    1
+165    0
+238    0
+278    0
+194    0
+436    0
+43     0
+62     0
+232    0
+811    1
+411    0
+392    0
+678    1
+680    1
+654    1
+328    0
+835    1
+741    1
+639    1
+267    0
+873    1
+420    0
+215    0
+442    0
+531    1
+401    0
+105    0
+591    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 0 1 1 0 1 0 1 0 0 1 1 0 1 1 1 1 1 0 0 0 0 0 0 1 1 0 0 1 0 0 0 1 1 0 0
+ 1 1 1 0 1 1 0 0 1 0 1 1 0 0 0 0 1 0 1 0 1 1 0 0 1 1 1 0 0 0 1 1 1 0 1 0 0
+ 1 0 1 1 0 0 1 0 1 1 1 1 1 0 1 1 1 0 1 1 1 0 0 0 0 0 0 0 0 1 1 0 1 1 0 0 1
+ 0 0 0 1 0 1 0 1 1 0 0 0 0 0 1 0 0 0 0 1 1 0 0 1 0 0 0 1 0 1 0 1 0 0 0 1 1
+ 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 0 0 1 1 0 0 0 0 0 1 1 0 1]
+Accuracy: 0.9147727272727273
+
+
+GOAL:
+49     0
+34     0
+759    1
+383    0
+791    1
+621    1
+352    0
+663    1
+669    1
+125    0
+522    1
+10     0
+851    1
+598    1
+679    1
+859    1
+209    0
+47     0
+789    1
+677    1
+82     0
+516    1
+290    0
+95     0
+296    0
+703    1
+335    0
+298    0
+56     0
+613    1
+      ..
+709    1
+365    0
+442    0
+267    0
+105    0
+488    0
+76     0
+279    0
+560    1
+676    1
+448    0
+123    0
+254    0
+261    0
+675    1
+507    1
+278    0
+388    0
+830    1
+154    0
+46     0
+178    0
+655    1
+585    1
+444    0
+20     0
+723    1
+368    0
+61     0
+210    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 0 1 1 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 1 0
+ 1 0 1 1 1 1 0 0 0 1 0 1 1 0 0 1 1 1 0 0 0 1 0 0 1 1 0 1 1 1 0 1 1 0 0 1 1
+ 0 0 0 1 1 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 0 1 0 0 1 0 0 1 0
+ 1 1 0 0 1 1 0 0 1 0 1 0 1 1 0 1 1 0 1 0 0 1 1 1 0 1 1 1 0 1 1 0 0 1 1 1 0
+ 0 0 0 0 0 0 1 1 1 0 0 0 1 1 0 0 1 0 0 0 1 1 0 1 1 0 0 0]
+Accuracy: 0.9204545454545454
+
+
+GOAL:
+484    0
+580    1
+153    0
+437    0
+811    1
+793    1
+382    0
+875    1
+461    0
+599    1
+570    1
+714    1
+383    0
+603    1
+575    1
+425    0
+316    0
+483    0
+450    0
+305    0
+444    0
+148    0
+417    0
+831    1
+117    0
+778    1
+586    1
+94     0
+642    1
+667    1
+      ..
+286    0
+693    1
+380    0
+491    1
+598    1
+840    1
+805    1
+412    0
+130    0
+790    1
+457    0
+55     0
+125    0
+137    0
+635    1
+764    1
+833    1
+414    0
+662    1
+204    0
+677    1
+260    0
+705    1
+365    0
+539    1
+402    0
+505    1
+410    0
+477    0
+683    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 1 0 0 1 1 0 1 0 1 1 1 0 1 1 1 1 0 0 0 0 0 0 1 0 1 0 1 1 1 0 0 0 0 0 1 0
+ 0 0 0 1 0 1 0 0 1 0 1 0 1 0 0 0 1 1 0 1 0 0 0 1 0 0 0 1 0 0 1 1 1 0 0 1 1
+ 0 0 0 1 1 1 0 0 1 0 1 0 1 1 0 0 0 1 0 1 1 0 1 0 1 0 0 0 0 0 0 1 1 1 0 1 1
+ 1 0 1 1 0 0 1 1 1 0 0 0 0 1 0 0 1 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 1
+ 0 0 1 1 1 0 0 0 0 0 0 0 1 1 0 0 1 0 1 0 1 0 1 0 1 0 0 0]
+Accuracy: 0.9318181818181818
+
+
+GOAL:
+164    0
+242    0
+872    1
+612    1
+486    0
+684    1
+831    1
+718    1
+273    0
+141    0
+668    1
+31     0
+285    0
+667    1
+24     0
+856    1
+511    1
+299    0
+468    0
+338    0
+672    1
+392    0
+738    1
+194    0
+104    0
+809    1
+114    0
+507    1
+645    1
+195    0
+      ..
+604    1
+801    1
+802    1
+137    0
+647    1
+627    1
+594    1
+489    1
+799    1
+198    0
+193    0
+716    1
+108    0
+631    1
+700    1
+229    0
+454    0
+749    1
+53     0
+187    0
+479    0
+843    1
+429    0
+269    0
+876    1
+465    0
+222    0
+196    0
+317    0
+513    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 1 0 0 1 1 1 0 0 1 0 0 1 0 1 1 0 0 0 1 0 1 0 0 1 0 1 1 0 0 1 0 0 1 1 1
+ 0 0 0 0 0 1 1 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 0 0 0 1 1 1 1 0 0 0 0 1
+ 0 1 0 1 0 0 1 1 0 0 0 1 0 1 1 0 1 0 0 0 1 0 0 0 0 1 1 1 1 0 1 1 0 0 1 0 1
+ 1 0 0 1 1 0 0 0 1 0 0 1 1 1 1 0 1 0 0 1 1 1 0 0 0 0 1 0 0 1 1 0 0 0 0 1 1
+ 1 0 1 0 0 1 1 0 0 1 0 1 1 0 0 0 0 1 0 1 0 0 1 0 0 0 0 1]
+Accuracy: 0.9431818181818182
+
+
+GOAL:
+619    1
+427    0
+789    1
+434    0
+232    0
+866    1
+100    0
+774    1
+668    1
+307    0
+574    1
+77     0
+581    1
+295    0
+314    0
+739    1
+727    1
+102    0
+457    0
+377    0
+260    0
+182    0
+19     0
+393    0
+495    1
+671    1
+215    0
+617    1
+872    1
+181    0
+      ..
+729    1
+417    0
+400    0
+62     0
+406    0
+711    1
+606    1
+563    1
+223    0
+580    1
+302    0
+236    0
+674    1
+343    0
+783    1
+702    1
+293    0
+787    1
+586    1
+507    1
+165    0
+192    0
+63     0
+108    0
+779    1
+486    0
+438    0
+179    0
+756    1
+164    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 0 1 0 0 1 0 1 1 0 1 0 1 0 0 1 1 0 0 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 1 1
+ 1 0 0 0 0 0 0 1 1 0 1 0 1 0 0 0 0 1 1 1 1 1 0 1 0 0 0 0 0 0 0 1 1 0 1 0 1
+ 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 1 0 0 0 0 0 1 1 1 0 1 0 1 1 0
+ 0 0 1 1 0 0 0 0 0 0 0 1 0 0 1 0 0 1 1 1 1 0 1 1 0 0 1 1 0 0 0 0 0 0 0 1 0
+ 1 0 0 1 1 1 1 1 0 0 0 0 1 1 0 1 0 1 0 0 0 0 1 0 0 0 1 0]
+Accuracy: 0.9431818181818182
+
+
+GOAL:
+689    1
+647    1
+560    1
+342    0
+258    0
+608    1
+570    1
+355    0
+745    1
+780    1
+692    1
+407    0
+350    0
+262    0
+450    0
+7      0
+282    0
+741    1
+354    0
+487    0
+506    1
+841    1
+314    0
+835    1
+133    0
+329    0
+154    0
+348    0
+851    1
+365    0
+      ..
+509    1
+123    0
+858    1
+59     0
+158    0
+23     0
+235    0
+658    1
+400    0
+384    0
+363    0
+426    0
+156    0
+804    1
+589    1
+524    1
+849    1
+273    0
+288    0
+839    1
+551    1
+56     0
+577    1
+61     0
+618    1
+671    1
+572    1
+76     0
+725    1
+114    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 1 1 0 0 1 1 0 1 1 1 1 0 1 0 0 0 1 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1
+ 0 1 0 0 0 0 0 0 0 1 0 0 0 1 1 1 1 0 0 1 0 1 0 1 0 1 1 0 1 0 0 1 0 0 1 0 0
+ 1 0 0 0 0 0 1 0 1 1 0 1 0 0 1 1 0 0 0 0 1 1 0 1 1 0 0 0 1 1 1 0 1 0 0 0 0
+ 1 1 1 0 0 1 1 1 1 1 1 1 0 0 1 1 0 0 1 1 1 0 1 1 0 0 0 0 0 1 0 0 0 0 0 1 0
+ 1 0 0 0 0 1 1 0 0 0 1 1 1 1 1 0 0 1 1 0 1 0 0 1 1 0 1 0]
+Accuracy: 0.9261363636363636
+
+
+GOAL:
+362    0
+48     0
+88     0
+563    1
+698    1
+835    1
+635    1
+603    1
+411    0
+473    0
+723    1
+280    0
+869    1
+273    0
+206    0
+623    1
+544    1
+547    1
+303    0
+148    0
+110    0
+350    0
+751    1
+475    0
+847    1
+413    0
+595    1
+82     0
+311    0
+14     0
+      ..
+174    0
+2      0
+400    0
+787    1
+562    1
+121    0
+55     0
+594    1
+569    1
+90     0
+837    1
+868    1
+253    0
+19     0
+379    0
+115    0
+40     0
+45     0
+640    1
+52     0
+118    0
+278    0
+793    1
+535    1
+327    0
+59     0
+710    1
+742    1
+290    0
+753    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 0 1 1 0 1 1 0 0 0 0 1 0 0 1 1 1 0 0 0 0 1 0 1 0 1 0 0 0 1 0 1 0 0 1 1
+ 1 1 1 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 1 1 1 0 1 1 1 1 0 1 0 1 1 0 0
+ 0 1 0 0 0 1 1 1 0 1 0 0 1 0 1 0 1 0 1 1 1 0 0 0 1 0 1 0 0 0 0 1 1 0 1 0 0
+ 1 0 1 1 1 1 0 0 1 0 0 0 1 0 1 1 0 1 0 1 1 1 0 1 0 0 1 0 0 0 0 0 1 0 1 0 0
+ 0 1 1 0 0 0 1 0 1 1 0 0 0 1 0 0 1 0 0 0 1 1 0 0 1 1 0 0]
+Accuracy: 0.9431818181818182
+
+
+GOAL:
+588    1
+83     0
+816    1
+560    1
+240    0
+337    0
+217    0
+510    1
+250    0
+232    0
+854    1
+847    1
+313    0
+828    1
+71     0
+548    1
+271    0
+667    1
+520    1
+574    1
+143    0
+863    1
+593    1
+346    0
+705    1
+497    1
+333    0
+154    0
+715    1
+819    1
+      ..
+629    1
+818    1
+778    1
+314    0
+755    1
+609    1
+857    1
+676    1
+233    0
+568    1
+792    1
+535    1
+438    0
+798    1
+639    1
+652    1
+278    0
+266    0
+429    0
+749    1
+756    1
+837    1
+747    1
+195    0
+336    0
+205    0
+14     0
+669    1
+442    0
+602    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 0 1 1 0 0 0 0 0 0 1 1 0 1 0 1 0 1 1 1 0 1 1 0 1 1 0 0 1 1 0 0 0 1 1 0 0
+ 1 1 1 0 1 0 1 1 0 1 0 0 0 0 1 1 0 0 0 1 0 1 0 1 1 1 0 1 1 0 1 0 0 0 0 1 0
+ 0 1 0 1 0 1 1 1 0 0 1 0 0 0 1 0 1 1 0 0 0 1 0 1 1 0 0 1 0 1 0 1 0 1 1 1 0
+ 0 0 1 0 1 1 0 1 1 0 0 0 1 0 0 1 0 1 0 1 1 0 1 1 0 1 1 1 1 1 0 0 1 1 1 1 1
+ 1 0 1 1 1 1 0 1 1 1 0 1 1 1 0 0 0 0 1 1 1 0 0 0 0 1 0 0]
+Accuracy: 0.9318181818181818
+
+
+GOAL:
+580    1
+350    0
+558    1
+665    1
+351    0
+825    1
+808    1
+630    1
+70     0
+852    1
+596    1
+562    1
+380    0
+590    1
+440    0
+806    1
+765    1
+532    1
+359    0
+813    1
+274    0
+859    1
+612    1
+499    1
+186    0
+588    1
+426    0
+361    0
+773    1
+388    0
+      ..
+305    0
+860    1
+487    0
+610    1
+661    1
+405    0
+858    1
+463    0
+265    0
+378    0
+638    1
+5      0
+459    0
+304    0
+526    1
+79     0
+83     0
+6      0
+625    1
+276    0
+805    1
+721    1
+703    1
+10     0
+514    1
+709    1
+556    1
+519    1
+312    0
+454    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 0 1 1 0 1 1 1 0 0 1 1 0 1 0 1 1 1 0 1 0 1 1 1 0 1 0 0 1 0 0 1 0 0 0 0 1
+ 1 0 0 0 0 0 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 1 0 0 1 0 1 1 1 0 0 1 1 1 0 0 0
+ 0 1 1 0 0 1 1 1 1 0 0 1 0 0 0 0 0 1 0 1 1 0 1 0 1 0 1 0 1 0 0 0 1 0 0 1 1
+ 0 0 0 0 0 1 1 0 1 1 1 1 1 0 0 1 1 0 0 0 1 0 1 0 1 0 0 1 1 1 0 0 0 1 0 0 1
+ 0 1 0 1 1 0 0 0 1 0 0 0 1 0 0 0 1 0 1 1 1 0 1 0 0 1 0 0]
+Accuracy: 0.9375
+
+
+GOAL:
+215    0
+282    0
+572    1
+226    0
+862    1
+174    0
+207    0
+389    0
+835    1
+722    1
+191    0
+301    0
+107    0
+377    0
+39     0
+49     0
+802    1
+584    1
+446    0
+179    0
+104    0
+701    1
+743    1
+458    0
+755    1
+641    1
+725    1
+828    1
+391    0
+781    1
+      ..
+807    1
+321    0
+629    1
+851    1
+359    0
+694    1
+684    1
+433    0
+47     0
+764    1
+205    0
+518    1
+344    0
+180    0
+229    0
+541    1
+609    1
+691    1
+35     0
+305    0
+298    0
+805    1
+564    1
+700    1
+821    1
+580    1
+232    0
+461    0
+173    0
+386    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 1 1 0 1 1 1 1 1 1 1 0 0 1 0 0 1
+ 0 0 0 1 0 1 1 0 0 0 1 0 1 1 1 1 0 1 1 0 0 0 0 1 1 0 1 0 0 0 0 1 1 1 0 0 0
+ 1 0 0 0 0 1 0 0 1 1 1 1 0 0 1 1 1 1 1 0 0 1 1 0 0 1 0 1 1 1 1 1 1 0 0 0 1
+ 0 0 1 1 1 1 1 0 1 0 0 1 1 1 1 0 1 1 0 0 0 1 1 0 0 1 0 1 0 1 0 1 0 1 0 1 0
+ 1 1 0 1 1 0 0 1 0 1 0 0 0 1 1 1 0 0 0 1 1 1 1 1 0 0 0 0]
+Accuracy: 0.9318181818181818
+
+
+GOAL:
+56     0
+117    0
+834    1
+752    1
+329    0
+714    1
+811    1
+615    1
+327    0
+108    0
+587    1
+501    1
+678    1
+700    1
+666    1
+518    1
+417    0
+159    0
+737    1
+817    1
+451    0
+51     0
+84     0
+839    1
+145    0
+450    0
+569    1
+709    1
+525    1
+141    0
+      ..
+638    1
+0      0
+821    1
+59     0
+499    1
+258    0
+840    1
+797    1
+468    0
+60     0
+321    0
+138    0
+50     0
+79     0
+490    1
+191    0
+602    1
+672    1
+10     0
+522    1
+314    0
+770    1
+649    1
+18     0
+72     0
+218    0
+683    1
+816    1
+276    0
+202    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 1 1 0 1 1 1 0 0 1 1 1 1 1 1 0 0 1 1 0 0 0 1 0 0 1 1 1 0 0 0 1 1 0 1 1
+ 1 1 1 0 1 0 0 0 0 0 0 1 0 0 1 0 1 0 0 0 0 0 1 0 0 0 1 1 0 0 1 0 1 1 1 0 1
+ 0 0 0 0 0 1 1 0 0 0 1 1 0 0 1 0 1 1 1 0 0 1 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1
+ 1 0 0 0 1 1 1 0 0 0 0 1 0 0 0 1 1 1 0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 1 0 1 0
+ 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 1 0 1 0 1 1 0 0 0 0 1 0 0]
+Accuracy: 0.9602272727272727
+
+
+GOAL:
+619    1
+19     0
+650    1
+229    0
+584    1
+316    0
+714    1
+38     0
+484    0
+865    1
+626    1
+28     0
+10     0
+588    1
+824    1
+711    1
+657    1
+659    1
+815    1
+348    0
+675    1
+143    0
+194    0
+732    1
+460    0
+311    0
+261    0
+450    0
+220    0
+212    0
+      ..
+858    1
+519    1
+521    1
+583    1
+270    0
+235    0
+753    1
+124    0
+103    0
+697    1
+738    1
+864    1
+144    0
+94     0
+416    0
+587    1
+786    1
+548    1
+361    0
+693    1
+173    0
+368    0
+541    1
+782    1
+478    0
+1      0
+520    1
+421    0
+206    0
+848    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 0 1 0 1 1 1 0 0 1 1 0 0 1 1 1 1 1 1 1 1 0 0 1 0 0 0 0 0 0 1 0 0 0 1 1 0
+ 1 0 0 1 0 0 1 0 1 0 1 0 0 1 0 1 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0
+ 1 0 0 0 0 1 1 0 0 1 1 0 0 0 1 0 1 0 0 0 1 1 0 1 0 0 0 0 1 1 1 0 0 0 0 1 0
+ 1 1 0 0 1 0 0 1 0 1 0 1 0 1 0 1 1 0 0 0 1 1 1 1 0 0 1 1 1 0 0 1 0 0 0 1 1
+ 1 1 0 0 1 0 0 1 1 1 0 0 0 1 1 1 0 1 0 0 1 1 0 0 1 0 0 1]
+Accuracy: 0.9375
+
+
+GOAL:
+724    1
+796    1
+784    1
+818    1
+562    1
+482    0
+617    1
+14     0
+748    1
+765    1
+524    1
+847    1
+794    1
+612    1
+532    1
+845    1
+428    0
+470    0
+589    1
+743    1
+804    1
+791    1
+196    0
+564    1
+623    1
+800    1
+134    0
+656    1
+862    1
+375    0
+      ..
+336    0
+844    1
+708    1
+731    1
+515    1
+75     0
+110    0
+486    0
+695    1
+181    0
+286    0
+621    1
+387    0
+219    0
+609    1
+446    0
+647    1
+38     0
+418    0
+544    1
+670    1
+825    1
+274    0
+383    0
+432    0
+233    0
+306    0
+653    1
+501    1
+176    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 0 1 1 1 1 1 0 0 1 1 1 1 1 1 1 0 0 1 1 1 1 0 1 1 1 0 1 1 0 0 0 0 0 0 0 0
+ 0 1 0 0 0 1 0 1 0 0 1 0 1 1 0 0 1 1 1 0 0 0 0 1 0 1 0 1 1 0 0 1 1 0 0 1 1
+ 1 1 0 0 1 0 0 0 0 1 0 1 0 0 1 0 0 0 0 0 1 0 1 1 1 0 0 0 1 0 0 0 1 1 0 1 0
+ 1 0 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 1 0 0 1 1 0 0 1 0 1 1 1 0 0 1 0 1 1 0 1
+ 1 1 1 0 0 0 1 0 0 1 0 0 1 0 1 0 0 1 1 1 0 0 0 0 0 1 1 0]
+Accuracy: 0.9204545454545454
+
+
+GOAL:
+564    1
+91     0
+724    1
+34     0
+757    1
+474    0
+13     0
+793    1
+255    0
+699    1
+86     0
+631    1
+532    1
+310    0
+75     0
+187    0
+587    1
+387    0
+737    1
+563    1
+78     0
+855    1
+648    1
+615    1
+860    1
+151    0
+805    1
+213    0
+212    0
+627    1
+      ..
+287    0
+640    1
+633    1
+207    0
+419    0
+570    1
+643    1
+507    1
+569    1
+177    0
+339    0
+364    0
+156    0
+120    0
+784    1
+326    0
+390    0
+808    1
+2      0
+425    0
+270    0
+10     0
+158    0
+530    1
+848    1
+11     0
+317    0
+750    1
+233    0
+229    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 0 1 0 1 1 0 1 0 1 0 1 1 0 0 0 1 0 1 1 0 1 1 1 1 0 1 0 0 0 0 0 0 0 1 0 0
+ 0 0 0 1 1 0 1 1 0 0 1 1 0 0 1 1 1 0 1 1 0 0 1 0 1 0 0 1 0 1 0 0 0 0 0 1 0
+ 0 0 0 0 0 1 0 1 0 0 0 0 0 1 0 1 0 1 1 0 0 0 0 0 1 1 0 0 0 0 1 1 1 1 0 0 0
+ 0 0 1 0 0 0 0 0 0 0 1 0 1 0 0 1 0 1 0 1 0 0 0 0 1 1 0 0 0 1 0 0 1 1 0 0 1
+ 1 0 0 1 1 1 1 0 0 0 1 0 1 0 0 1 0 1 0 0 0 1 1 0 0 1 0 0]
+Accuracy: 0.9375
+
+
+GOAL:
+599    1
+796    1
+804    1
+729    1
+500    1
+77     0
+16     0
+102    0
+93     0
+523    1
+621    1
+3      0
+474    0
+611    1
+748    1
+789    1
+521    1
+191    0
+724    1
+139    0
+207    0
+394    0
+338    0
+83     0
+115    0
+826    1
+491    1
+225    0
+294    0
+365    0
+      ..
+368    0
+27     0
+496    1
+670    1
+757    1
+281    0
+40     0
+381    0
+302    0
+588    1
+59     0
+449    0
+561    1
+148    0
+761    1
+622    1
+126    0
+374    0
+198    0
+142    0
+484    0
+846    1
+149    0
+753    1
+135    0
+707    1
+659    1
+447    0
+522    1
+143    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 0 1 1 1 0 0 0 0 1 1 0 1 1 0 1 1 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 1 0 0
+ 1 0 1 1 0 0 0 0 1 0 0 0 1 1 0 1 0 0 1 0 0 1 0 1 1 1 1 0 1 1 0 1 1 1 1 0 0
+ 1 0 1 1 1 0 0 0 1 0 1 0 1 1 0 0 0 0 1 0 1 0 1 0 0 1 1 1 1 0 1 1 1 1 0 1 0
+ 0 0 0 0 1 1 0 0 0 0 1 1 1 0 0 0 0 0 0 0 1 0 0 1 1 1 0 1 0 0 0 0 1 0 0 0 0
+ 1 1 1 0 0 0 0 1 0 0 1 1 1 1 0 0 0 0 0 1 0 1 0 1 1 0 1 0]
+Accuracy: 0.9318181818181818
+
+
+GOAL:
+771    1
+400    0
+767    1
+779    1
+406    0
+679    1
+495    1
+126    0
+138    0
+502    1
+21     0
+581    1
+816    1
+129    0
+29     0
+78     0
+717    1
+186    0
+813    1
+655    1
+795    1
+628    1
+12     0
+372    0
+426    0
+376    0
+238    0
+244    0
+42     0
+173    0
+      ..
+445    0
+708    1
+480    0
+850    1
+459    0
+540    1
+865    1
+522    1
+287    0
+474    0
+636    1
+192    0
+593    1
+378    0
+344    0
+74     0
+222    0
+361    0
+292    0
+325    0
+504    1
+307    0
+109    0
+548    1
+115    0
+110    0
+213    0
+466    0
+62     0
+748    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 0 1 1 0 1 1 0 0 1 0 1 1 1 0 0 1 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+ 1 1 1 0 0 0 1 0 1 0 0 1 0 1 0 1 0 0 0 1 0 1 1 1 0 0 1 0 0 1 1 1 0 1 0 0 1
+ 1 0 0 0 1 1 0 1 1 0 1 1 1 0 0 0 0 0 1 0 1 0 1 1 1 0 0 0 0 0 1 1 0 0 0 0 1
+ 1 0 1 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 1 0 0 1 1 0 1 1 0 1 1 0 0 1
+ 0 1 0 1 1 1 0 1 1 0 1 0 0 0 0 0 0 0 1 0 0 1 1 0 0 0 0 0]
+Accuracy: 0.9147727272727273
+
+
+GOAL:
+238    0
+746    1
+611    1
+230    0
+307    0
+431    0
+800    1
+572    1
+391    0
+201    0
+30     0
+731    1
+457    0
+537    1
+127    0
+825    1
+25     0
+147    0
+528    1
+730    1
+24     0
+799    1
+91     0
+271    0
+813    1
+209    0
+100    0
+360    0
+571    1
+352    0
+      ..
+609    1
+148    0
+372    0
+126    0
+666    1
+557    1
+500    1
+350    0
+252    0
+523    1
+393    0
+108    0
+143    0
+259    0
+772    1
+3      0
+111    0
+399    0
+150    0
+459    0
+673    1
+536    1
+168    0
+690    1
+309    0
+347    0
+83     0
+222    0
+587    1
+397    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 1 1 0 0 0 1 1 1 0 0 1 0 1 0 1 0 0 1 1 0 1 0 0 1 0 0 0 1 0 0 0 0 0 1 1 0
+ 0 0 1 1 0 0 0 0 1 1 0 0 0 0 0 1 1 0 1 0 1 1 0 0 0 0 1 0 1 0 1 1 0 0 0 1 0
+ 1 1 0 1 0 1 0 0 0 0 0 1 0 1 0 0 0 0 1 1 0 1 1 0 1 1 1 0 1 0 1 0 1 1 1 1 0
+ 0 0 0 1 0 0 0 1 1 0 0 1 0 0 1 1 0 1 0 0 1 0 0 0 1 0 1 1 0 1 1 1 0 1 0 1 1
+ 0 0 1 1 1 0 0 1 0 0 0 0 1 0 0 1 0 0 1 1 0 1 0 0 0 0 1 0]
+Accuracy: 0.9375
+
+
+GOAL:
+324    0
+490    1
+184    0
+758    1
+425    0
+446    0
+778    1
+199    0
+532    1
+621    1
+248    0
+449    0
+833    1
+740    1
+482    0
+107    0
+474    0
+719    1
+673    1
+855    1
+196    0
+852    1
+263    0
+410    0
+116    0
+826    1
+743    1
+100    0
+96     0
+6      0
+      ..
+853    1
+845    1
+780    1
+158    0
+570    1
+843    1
+191    0
+623    1
+708    1
+8      0
+652    1
+615    1
+126    0
+358    0
+286    0
+839    1
+221    0
+152    0
+32     0
+502    1
+768    1
+534    1
+491    1
+795    1
+382    0
+176    0
+525    1
+340    0
+830    1
+727    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 1 0 1 1 0 1 0 1 1 0 0 1 1 1 0 1 1 1 1 0 0 0 0 0 1 1 0 0 0 0 1 1 1 0 1 0
+ 1 0 0 1 0 1 0 0 1 0 0 1 0 0 0 0 1 1 1 1 0 1 1 0 0 0 0 1 0 1 0 1 0 1 0 1 1
+ 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 1 1 0 0 0 1 0 0 0 0 1 1 0 1 0 0 0 0
+ 0 0 0 0 0 1 0 1 0 0 1 0 1 1 0 0 1 0 0 1 0 0 1 0 1 1 1 0 0 1 0 1 0 0 1 1 1
+ 1 0 1 1 0 1 1 0 1 1 0 0 0 1 0 0 0 1 1 1 0 1 0 0 1 1 1 1]
+Accuracy: 0.9034090909090909
+
+
+GOAL:
+627    1
+121    0
+47     0
+531    1
+137    0
+697    1
+237    0
+539    1
+240    0
+573    1
+124    0
+836    1
+5      0
+44     0
+322    0
+303    0
+547    1
+16     0
+529    1
+616    1
+434    0
+796    1
+309    0
+540    1
+635    1
+770    1
+145    0
+202    0
+400    0
+382    0
+      ..
+394    0
+673    1
+846    1
+821    1
+166    0
+228    0
+653    1
+31     0
+462    0
+350    0
+799    1
+833    1
+543    1
+537    1
+840    1
+119    0
+27     0
+844    1
+518    1
+11     0
+743    1
+353    0
+242    0
+84     0
+6      0
+194    0
+273    0
+75     0
+363    0
+411    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 0 1 0 1 0 1 0 0 0 1 0 0 0 0 1 0 1 1 0 0 0 1 1 1 0 0 0 0 1 0 1 0 0 1 0
+ 0 1 0 0 1 1 0 1 1 0 0 0 0 1 0 0 0 1 1 1 0 1 1 0 0 0 0 1 1 1 1 1 1 0 0 1 0
+ 1 0 1 0 1 1 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 1 0 0 1 0 0 0 1 0 0 0 0 1
+ 0 0 1 0 0 1 0 1 0 0 0 1 0 1 0 0 1 0 1 0 0 0 0 0 1 1 0 1 1 0 0 1 0 1 1 0 1
+ 0 1 0 0 1 0 0 0 1 1 1 1 1 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0]
+Accuracy: 0.9318181818181818
+
+
+GOAL:
+594    1
+89     0
+646    1
+458    0
+601    1
+673    1
+97     0
+58     0
+743    1
+300    0
+678    1
+426    0
+348    0
+303    0
+512    1
+294    0
+602    1
+412    0
+235    0
+664    1
+503    1
+843    1
+753    1
+588    1
+5      0
+406    0
+686    1
+472    0
+0      0
+519    1
+      ..
+195    0
+712    1
+695    1
+66     0
+188    0
+497    1
+269    0
+589    1
+152    0
+21     0
+721    1
+383    0
+670    1
+795    1
+599    1
+361    0
+600    1
+643    1
+561    1
+558    1
+578    1
+352    0
+88     0
+91     0
+865    1
+338    0
+208    0
+142    0
+227    0
+205    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 1 0 1 1 0 0 1 0 1 0 1 0 1 0 0 0 0 1 1 1 0 1 0 0 1 0 0 1 0 1 0 0 0 0 0
+ 0 0 0 1 0 1 0 1 0 1 0 1 1 1 1 1 0 1 0 0 1 1 0 1 1 0 1 1 1 1 1 0 0 0 0 0 0
+ 0 0 1 1 1 1 0 0 0 0 0 1 1 0 0 0 1 1 0 0 1 1 0 1 1 1 1 0 0 1 1 0 0 1 0 0 1
+ 1 1 1 0 0 0 0 1 0 0 0 0 0 0 1 1 0 1 0 1 0 0 1 1 1 0 1 0 0 0 1 1 1 0 1 0 1
+ 1 0 0 1 0 1 0 0 1 0 1 1 1 0 1 1 1 1 1 0 0 0 1 0 0 0 0 0]
+Accuracy: 0.9431818181818182
+
+
+GOAL:
+401    0
+267    0
+406    0
+454    0
+605    1
+585    1
+69     0
+158    0
+307    0
+201    0
+284    0
+797    1
+600    1
+864    1
+167    0
+435    0
+748    1
+72     0
+84     0
+650    1
+439    0
+318    0
+827    1
+713    1
+812    1
+837    1
+627    1
+455    0
+820    1
+99     0
+      ..
+644    1
+822    1
+417    0
+474    0
+726    1
+778    1
+285    0
+293    0
+770    1
+796    1
+87     0
+134    0
+784    1
+676    1
+557    1
+61     0
+209    0
+415    0
+674    1
+680    1
+396    0
+805    1
+295    0
+507    1
+479    0
+518    1
+622    1
+395    0
+234    0
+670    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 0 0 0 1 1 0 0 0 0 0 1 1 1 0 1 0 0 0 1 0 0 1 1 0 1 0 0 1 0 0 0 1 1 0 1 1
+ 0 0 0 0 0 1 1 0 0 1 1 0 1 1 1 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+ 1 1 1 0 0 0 1 0 1 1 1 0 0 0 1 1 1 0 0 1 0 0 1 1 0 1 1 1 1 1 0 0 0 0 0 1 1
+ 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 0 0 0 1 1
+ 0 1 1 1 0 0 1 0 0 0 1 1 1 0 0 1 0 0 1 1 0 1 0 1 1 1 0 1]
+Accuracy: 0.8920454545454546
+
+
+GOAL:
+404    0
+747    1
+430    0
+869    1
+829    1
+843    1
+248    0
+187    0
+194    0
+687    1
+792    1
+14     0
+204    0
+45     0
+645    1
+469    0
+563    1
+735    1
+197    0
+376    0
+41     0
+702    1
+350    0
+598    1
+223    0
+269    0
+321    0
+806    1
+575    1
+558    1
+      ..
+824    1
+778    1
+492    1
+50     0
+287    0
+761    1
+508    1
+629    1
+673    1
+165    0
+336    0
+28     0
+538    1
+241    0
+583    1
+734    1
+297    0
+162    0
+60     0
+152    0
+261    0
+462    0
+624    1
+119    0
+164    0
+301    0
+339    0
+97     0
+779    1
+324    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 1 0 1 1 1 0 0 0 0 1 0 0 0 1 0 1 1 0 0 0 1 0 1 1 0 0 1 1 1 0 0 1 0 1 0 0
+ 1 0 0 0 1 0 1 1 1 0 0 0 0 0 0 1 0 1 0 1 1 0 0 1 0 0 1 1 1 0 0 1 0 0 1 1 0
+ 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 0 1 1 0 0 1 1 0 0 0 1 1 0 0 1 1 1 1 0 1 1 1
+ 0 0 1 0 0 0 0 1 0 1 1 0 0 0 1 0 0 1 1 0 0 0 0 0 1 0 1 0 1 1 1 0 1 1 0 1 1
+ 1 0 0 1 1 1 1 0 0 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0]
+Accuracy: 0.9318181818181818
+
+
+GOAL:
+100    0
+460    0
+90     0
+130    0
+175    0
+267    0
+659    1
+611    1
+341    0
+582    1
+129    0
+767    1
+148    0
+447    0
+281    0
+585    1
+352    0
+303    0
+519    1
+581    1
+802    1
+210    0
+331    0
+31     0
+707    1
+506    1
+578    1
+596    1
+159    0
+681    1
+      ..
+42     0
+825    1
+628    1
+229    0
+845    1
+469    0
+26     0
+191    0
+389    0
+597    1
+244    0
+654    1
+21     0
+847    1
+14     0
+626    1
+149    0
+555    1
+826    1
+760    1
+589    1
+283    0
+701    1
+784    1
+55     0
+348    0
+113    0
+126    0
+383    0
+675    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 0 0 0 0 1 1 0 1 0 1 0 0 0 1 0 0 1 1 1 0 0 0 1 1 1 1 0 1 0 0 0 1 0 0 1
+ 1 1 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 0 1
+ 1 0 1 1 0 0 1 0 0 1 1 1 0 0 1 1 0 1 1 0 1 1 1 0 0 0 0 0 0 0 1 0 0 1 1 1 0
+ 0 0 0 1 0 1 0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 1 0 0 1 0 0 1
+ 1 0 1 0 0 0 0 0 0 1 0 1 0 1 0 1 1 1 1 0 1 1 0 1 0 0 0 1]
+Accuracy: 0.9318181818181818
+
+
+GOAL:
+413    0
+840    1
+619    1
+604    1
+96     0
+556    1
+421    0
+71     0
+860    1
+438    0
+304    0
+305    0
+29     0
+476    0
+784    1
+804    1
+771    1
+584    1
+547    1
+44     0
+689    1
+191    0
+450    0
+196    0
+72     0
+802    1
+821    1
+470    0
+424    0
+32     0
+      ..
+611    1
+588    1
+400    0
+368    0
+731    1
+792    1
+171    0
+331    0
+448    0
+697    1
+638    1
+612    1
+70     0
+740    1
+789    1
+531    1
+339    0
+170    0
+758    1
+471    0
+269    0
+41     0
+484    0
+216    0
+220    0
+641    1
+654    1
+710    1
+231    0
+469    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 1 1 1 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 0 1 0 0 0 0 1 1 0 0 0 1 0 1 1 0 1 1
+ 1 1 0 0 0 1 0 1 1 0 0 1 0 0 1 1 0 0 0 1 1 1 0 0 0 0 0 0 1 1 1 1 1 0 0 0 1
+ 1 0 1 0 1 0 1 0 1 0 0 1 0 0 0 0 1 1 1 0 1 1 1 1 1 1 0 0 1 1 0 0 1 0 1 0 0
+ 0 0 1 1 1 0 0 1 0 1 1 0 1 0 1 1 1 0 1 1 0 0 0 1 0 0 0 0 0 0 1 1 1 0 0 1 1
+ 1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 1 1 0 0 0 0 0 1 1 1 0 1]
+Accuracy: 0.9034090909090909
+
+
+GOAL:
+78     0
+269    0
+860    1
+697    1
+815    1
+669    1
+763    1
+76     0
+205    0
+548    1
+102    0
+50     0
+863    1
+46     0
+736    1
+367    0
+98     0
+855    1
+84     0
+82     0
+304    0
+156    0
+668    1
+686    1
+266    0
+646    1
+29     0
+421    0
+193    0
+497    1
+      ..
+132    0
+430    0
+213    0
+159    0
+51     0
+695    1
+355    0
+418    0
+641    1
+237    0
+524    1
+195    0
+742    1
+369    0
+574    1
+666    1
+22     0
+231    0
+345    0
+364    0
+545    1
+202    0
+49     0
+428    0
+511    1
+340    0
+712    1
+222    0
+732    1
+737    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 1 1 1 1 1 0 0 1 0 0 1 0 1 0 0 1 0 0 0 1 1 1 0 1 0 0 0 1 0 1 0 0 1 1 0
+ 1 0 1 0 1 1 0 0 0 0 0 1 0 0 1 0 1 1 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0
+ 1 0 0 1 0 0 1 0 0 0 0 1 1 1 0 1 1 0 0 0 0 1 0 0 1 1 0 0 0 0 1 0 1 0 0 0 0
+ 0 1 1 0 0 1 1 1 1 0 1 0 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 0 1 0 0 1 1 1 0 0
+ 0 0 0 1 0 0 1 0 1 0 1 0 1 1 0 0 0 0 1 0 0 0 1 1 1 0 1 1]
+Accuracy: 0.9431818181818182
+
+
+GOAL:
+28     0
+391    0
+654    1
+237    0
+454    0
+287    0
+294    0
+466    0
+272    0
+31     0
+142    0
+450    0
+206    0
+337    0
+329    0
+404    0
+855    1
+299    0
+122    0
+783    1
+441    0
+10     0
+211    0
+566    1
+374    0
+452    0
+741    1
+346    0
+736    1
+508    1
+      ..
+749    1
+869    1
+813    1
+510    1
+662    1
+667    1
+194    0
+231    0
+319    0
+375    0
+303    0
+464    0
+795    1
+92     0
+295    0
+636    1
+235    0
+470    0
+494    1
+622    1
+610    1
+2      0
+514    1
+109    0
+113    0
+39     0
+222    0
+43     0
+650    1
+572    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 0 0 1 0 0 1 0 1 1 0 0 0 1 0 0 1
+ 1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 1 0 1 0 1 0 0 1 1 1 1 0 1 1 0 1 0 0 0 1 0 1
+ 0 0 0 0 0 0 1 0 1 1 0 1 0 0 0 1 0 1 0 0 1 1 1 1 1 1 0 1 1 0 0 0 0 0 0 0 1
+ 1 1 1 0 1 0 1 0 0 1 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 0 0 0 1
+ 1 0 1 1 0 0 0 0 0 0 1 0 0 1 0 0 1 1 1 0 1 0 0 0 0 0 1 1]
+Accuracy: 0.9318181818181818
+
+
+GOAL:
+297    0
+286    0
+734    1
+547    1
+488    0
+662    1
+206    0
+49     0
+618    1
+822    1
+646    1
+714    1
+243    0
+478    0
+216    0
+191    0
+321    0
+517    1
+852    1
+5      0
+84     0
+560    1
+816    1
+462    0
+684    1
+424    0
+660    1
+347    0
+472    0
+238    0
+      ..
+116    0
+344    0
+710    1
+139    0
+140    0
+602    1
+67     0
+394    0
+813    1
+47     0
+115    0
+246    0
+62     0
+613    1
+851    1
+859    1
+492    1
+387    0
+778    1
+441    0
+867    1
+79     0
+59     0
+675    1
+253    0
+183    0
+72     0
+19     0
+682    1
+90     0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 1 1 0 1 0 0 1 1 1 1 0 0 0 0 0 1 0 0 0 1 1 0 1 0 1 0 0 0 0 1 0 1 1 1 1
+ 0 1 1 0 0 0 0 1 1 0 1 0 0 1 0 0 0 1 1 1 0 1 1 1 0 1 0 0 1 1 0 1 1 0 1 1 1
+ 1 0 0 1 1 1 1 0 0 1 0 0 1 1 0 1 0 0 0 0 0 1 0 0 0 1 1 1 1 1 0 0 0 1 1 1 0
+ 1 0 0 1 1 0 0 0 1 0 1 0 1 1 0 0 1 0 0 0 1 0 1 1 0 0 0 0 1 0 1 1 0 1 0 0 0
+ 1 0 0 0 0 0 1 0 1 0 0 1 1 1 1 0 1 0 1 0 0 1 0 0 0 0 1 0]
+Accuracy: 0.9545454545454546
+
+
+GOAL:
+369    0
+418    0
+352    0
+232    0
+385    0
+605    1
+541    1
+668    1
+675    1
+528    1
+182    0
+412    0
+25     0
+150    0
+660    1
+289    0
+607    1
+738    1
+74     0
+459    0
+575    1
+445    0
+819    1
+631    1
+386    0
+329    0
+143    0
+538    1
+405    0
+218    0
+      ..
+62     0
+548    1
+824    1
+833    1
+829    1
+242    0
+823    1
+230    0
+691    1
+102    0
+463    0
+365    0
+684    1
+265    0
+88     0
+139    0
+780    1
+164    0
+590    1
+588    1
+640    1
+732    1
+868    1
+757    1
+583    1
+618    1
+153    0
+60     0
+462    0
+748    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 0 0 0 1 1 1 1 1 0 0 0 0 1 0 0 1 0 0 1 0 1 1 0 0 0 1 1 0 0 0 1 1 0 0 1
+ 0 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 1 1 0 0 1 0 1 1 1 0 1 1 1 1 1 0
+ 0 1 0 0 0 0 1 0 1 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 1 0 0 0 1 1 1 1 1 1 0 0 0
+ 0 0 0 1 0 1 1 1 1 0 1 1 0 0 0 1 1 0 0 0 0 1 1 1 0 1 0 0 0 1 0 1 1 0 1 0 1
+ 1 0 1 0 1 0 1 0 0 0 1 0 0 0 1 0 1 1 1 1 1 1 1 1 0 0 0 0]
+Accuracy: 0.9375
+
+
+GOAL:
+261    0
+421    0
+846    1
+230    0
+704    1
+200    0
+841    1
+411    0
+870    1
+685    1
+573    1
+602    1
+340    0
+167    0
+16     0
+338    0
+60     0
+262    0
+227    0
+305    0
+467    0
+627    1
+677    1
+277    0
+718    1
+584    1
+128    0
+119    0
+749    1
+490    1
+      ..
+13     0
+551    1
+311    0
+59     0
+623    1
+715    1
+655    1
+555    1
+876    1
+520    1
+281    0
+775    1
+790    1
+764    1
+652    1
+292    0
+857    1
+94     0
+333    0
+140    0
+0      0
+729    1
+294    0
+253    0
+239    0
+57     0
+162    0
+831    1
+375    0
+109    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 0 0 1 0 1 0 1 1 0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 1 0 0 0 1 0 0 0 1 0 0 0
+ 0 1 1 0 1 0 1 1 0 1 1 0 0 1 1 1 0 0 1 0 0 0 1 0 0 0 0 1 1 0 0 0 1 1 1 0 1
+ 0 1 1 1 0 0 0 0 1 1 0 0 1 1 1 1 0 0 1 1 0 0 1 0 0 0 0 1 0 0 1 0 0 1 0 0 1
+ 0 0 0 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 1 0 1 0 1 0 1 0 0 0 0 1 1 1 0 1 1 0 1
+ 0 0 1 1 1 1 1 1 0 1 0 1 1 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0]
+Accuracy: 0.9375
+
+
+GOAL:
+138    0
+263    0
+330    0
+587    1
+342    0
+77     0
+623    1
+613    1
+618    1
+374    0
+485    0
+315    0
+43     0
+540    1
+87     0
+599    1
+626    1
+805    1
+807    1
+797    1
+409    0
+173    0
+786    1
+205    0
+866    1
+180    0
+410    0
+541    1
+655    1
+481    0
+      ..
+102    0
+729    1
+512    1
+778    1
+29     0
+538    1
+490    1
+700    1
+497    1
+222    0
+387    0
+420    0
+160    0
+842    1
+271    0
+698    1
+793    1
+547    1
+864    1
+241    0
+663    1
+406    0
+35     0
+253    0
+32     0
+291    0
+335    0
+184    0
+564    1
+252    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 0 1 0 0 1 1 1 0 1 0 0 1 0 1 1 1 1 1 0 0 1 0 1 0 0 1 1 0 0 0 1 0 1 1 0
+ 0 1 0 0 1 0 0 1 0 0 1 0 1 1 1 0 1 0 0 1 1 0 0 1 1 0 1 0 0 1 0 0 0 0 1 0 1
+ 1 1 1 0 1 1 1 1 1 1 0 0 0 0 0 0 1 1 1 1 0 1 1 1 0 1 0 0 1 0 0 0 0 0 0 1 1
+ 0 0 1 1 1 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 1 1 0 0 0 1
+ 1 1 0 1 1 1 1 0 0 0 0 1 0 1 1 1 1 0 1 0 0 0 0 0 0 0 1 0]
+Accuracy: 0.9602272727272727
+
+
+GOAL:
+625    1
+40     0
+1      0
+469    0
+519    1
+383    0
+706    1
+508    1
+133    0
+674    1
+339    0
+101    0
+185    0
+151    0
+629    1
+413    0
+432    0
+20     0
+824    1
+533    1
+711    1
+741    1
+440    0
+329    0
+801    1
+554    1
+602    1
+775    1
+528    1
+24     0
+      ..
+871    1
+409    0
+712    1
+860    1
+509    1
+574    1
+589    1
+107    0
+335    0
+371    0
+645    1
+821    1
+305    0
+565    1
+74     0
+863    1
+164    0
+246    0
+110    0
+163    0
+174    0
+139    0
+111    0
+790    1
+767    1
+436    0
+19     0
+13     0
+128    0
+650    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 0 0 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 1 1 1 1 0 0 1 1 0 1 1 0 0 1 1 0 1 0 0
+ 0 1 0 1 0 0 1 0 0 1 0 1 0 1 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 1
+ 1 0 0 1 1 1 1 0 0 1 1 0 0 0 0 0 1 0 0 1 1 0 0 1 1 1 1 1 0 1 1 0 0 0 1 1 1
+ 0 1 0 0 0 0 1 1 0 1 0 1 1 1 1 0 1 0 1 1 0 1 1 1 1 1 0 0 0 0 0 0 1 1 0 0 0
+ 1 1 1 1 1 0 0 0 1 1 0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 1]
+Accuracy: 0.9431818181818182
+
+
+GOAL:
+726    1
+458    0
+157    0
+278    0
+332    0
+559    1
+281    0
+833    1
+675    1
+325    0
+784    1
+238    0
+494    1
+770    1
+420    0
+192    0
+782    1
+866    1
+501    1
+624    1
+588    1
+460    0
+311    0
+367    0
+96     0
+247    0
+451    0
+436    0
+765    1
+480    0
+      ..
+713    1
+735    1
+104    0
+732    1
+773    1
+370    0
+437    0
+16     0
+475    0
+800    1
+523    1
+486    0
+158    0
+831    1
+610    1
+361    0
+755    1
+439    0
+453    0
+601    1
+394    0
+584    1
+669    1
+435    0
+7      0
+497    1
+234    0
+3      0
+573    1
+536    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 0 0 0 0 1 0 1 1 0 1 0 1 1 0 0 1 1 1 1 1 0 0 0 0 0 0 0 1 0 0 0 1 1 1 1 1
+ 1 1 0 0 1 1 0 1 1 0 0 1 0 0 1 0 0 0 0 1 1 0 1 0 1 1 0 0 0 0 1 0 1 1 0 0 0
+ 0 1 1 1 0 0 1 1 0 0 1 1 0 0 1 1 0 1 1 0 1 0 1 1 1 0 0 1 1 0 0 1 1 0 0 0 0
+ 1 1 0 1 0 0 0 0 0 1 0 0 1 0 1 0 0 0 0 1 0 0 1 1 1 0 1 1 1 0 0 0 0 1 1 1 1
+ 0 1 1 0 0 0 0 1 1 0 0 1 0 0 1 0 0 1 0 1 1 1 0 1 0 0 0 1]
+Accuracy: 0.9431818181818182
+
+
+GOAL:
+772    1
+404    0
+142    0
+631    1
+98     0
+396    0
+804    1
+766    1
+833    1
+467    0
+785    1
+537    1
+428    0
+653    1
+160    0
+111    0
+81     0
+143    0
+226    0
+801    1
+62     0
+669    1
+755    1
+871    1
+434    0
+843    1
+137    0
+491    1
+577    1
+342    0
+      ..
+251    0
+53     0
+419    0
+589    1
+297    0
+414    0
+632    1
+4      0
+321    0
+83     0
+210    0
+65     0
+56     0
+344    0
+364    0
+221    0
+38     0
+555    1
+688    1
+336    0
+303    0
+527    1
+516    1
+540    1
+219    0
+531    1
+872    1
+332    0
+767    1
+628    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 1 0 1 0 1 1 1 1 0 1 1 0 1 0 0 0 0 0 1 0 1 1 0 0 1 0 0 1 0 1 0 1 1 0 1 1
+ 1 0 0 1 0 1 0 0 1 0 0 0 1 0 1 0 0 1 0 0 1 1 1 0 0 0 1 1 0 1 0 0 0 0 0 1 1
+ 1 0 0 1 0 1 1 0 0 1 0 1 1 1 0 1 1 1 1 1 1 1 0 0 0 1 1 1 1 1 0 0 0 0 0 1 1
+ 0 1 0 1 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 1 1 1 1 0 1 0 1 0 1 1 0 0 0 1 1 0 0
+ 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 1 0 1 1 0 1 1]
+Accuracy: 0.9375
+
+
+GOAL:
+599    1
+114    0
+47     0
+817    1
+316    0
+85     0
+446    0
+806    1
+637    1
+322    0
+141    0
+368    0
+781    1
+95     0
+616    1
+715    1
+477    0
+292    0
+531    1
+238    0
+35     0
+374    0
+779    1
+219    0
+764    1
+630    1
+445    0
+427    0
+291    0
+829    1
+      ..
+645    1
+737    1
+488    0
+457    0
+623    1
+100    0
+356    0
+690    1
+475    0
+836    1
+815    1
+549    1
+201    0
+19     0
+492    1
+617    1
+443    0
+542    1
+702    1
+253    0
+204    0
+845    1
+773    1
+481    0
+837    1
+161    0
+527    1
+281    0
+757    1
+440    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 0 0 1 1 0 0 1 1 0 0 0 1 0 1 1 0 0 1 0 0 0 1 0 1 1 0 0 0 1 1 1 0 1 0 0 0
+ 0 0 1 0 1 0 1 1 1 0 0 1 0 0 0 1 0 1 0 1 1 1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1
+ 0 0 1 0 0 0 0 1 1 0 1 0 1 1 1 0 1 1 0 1 0 0 0 1 1 0 0 0 0 0 0 0 1 0 0 0 1
+ 0 0 1 0 1 1 0 1 0 1 0 0 0 1 0 0 0 1 0 1 1 0 1 0 1 1 0 1 1 0 0 1 1 0 1 1 1
+ 0 0 1 0 0 1 0 1 1 1 0 0 1 1 1 1 1 0 0 1 1 0 1 0 1 0 1 0]
+Accuracy: 0.9318181818181818
+
+
+GOAL:
+693    1
+473    0
+606    1
+839    1
+859    1
+153    0
+439    0
+510    1
+218    0
+114    0
+22     0
+830    1
+423    0
+157    0
+745    1
+229    0
+709    1
+10     0
+682    1
+406    0
+466    0
+109    0
+101    0
+130    0
+659    1
+590    1
+245    0
+804    1
+168    0
+793    1
+      ..
+43     0
+599    1
+364    0
+272    0
+661    1
+21     0
+315    0
+647    1
+78     0
+491    1
+360    0
+630    1
+44     0
+8      0
+531    1
+796    1
+595    1
+295    0
+100    0
+748    1
+313    0
+86     0
+759    1
+662    1
+123    0
+498    1
+112    0
+684    1
+589    1
+179    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 0 1 1 1 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 1 0 1 0 1 0 0 1 1 0
+ 0 0 1 0 0 0 1 0 1 0 1 1 0 1 0 0 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+ 1 1 0 1 0 0 0 0 1 1 0 1 0 0 0 1 0 1 0 0 0 1 0 1 0 0 1 1 1 1 1 1 1 0 0 1 0
+ 0 0 0 0 1 0 1 0 0 1 0 1 0 0 0 1 1 1 0 0 0 1 0 0 1 1 0 1 1 0 1 0 0 1 0 0 1
+ 0 0 0 0 0 1 0 0 0 1 0 0 1 0 1 0 0 0 0 0 1 1 0 1 0 1 1 0]
+Accuracy: 0.9090909090909091
+
+
+GOAL:
+225    0
+465    0
+323    0
+710    1
+408    0
+651    1
+355    0
+673    1
+52     0
+828    1
+683    1
+275    0
+257    0
+71     0
+542    1
+629    1
+258    0
+765    1
+719    1
+397    0
+142    0
+617    1
+716    1
+459    0
+266    0
+855    1
+469    0
+157    0
+705    1
+348    0
+      ..
+552    1
+12     0
+717    1
+289    0
+315    0
+588    1
+519    1
+559    1
+29     0
+320    0
+750    1
+528    1
+550    1
+471    0
+366    0
+768    1
+378    0
+124    0
+396    0
+523    1
+785    1
+247    0
+119    0
+791    1
+171    0
+335    0
+96     0
+689    1
+22     0
+224    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 0 1 0 1 0 1 0 1 0 0 0 0 1 1 0 1 1 0 0 1 1 0 0 1 0 0 1 0 0 0 1 1 0 0 1
+ 1 0 0 0 0 1 0 1 0 1 1 1 0 1 0 1 0 0 0 0 0 1 0 0 1 0 0 1 1 1 1 0 0 0 0 0 1
+ 0 1 1 1 1 1 1 0 0 1 1 0 0 1 0 0 0 0 1 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 1 0
+ 1 0 1 0 1 0 0 1 1 1 0 0 0 1 1 0 0 1 0 1 0 0 0 0 0 1 1 0 1 0 1 0 0 1 0 1 0
+ 1 0 0 1 1 1 0 0 1 1 1 0 0 1 0 0 1 1 1 0 0 1 0 0 0 1 0 0]
+Accuracy: 0.9602272727272727
+
+
+GOAL:
+238    0
+778    1
+826    1
+206    0
+393    0
+268    0
+748    1
+259    0
+379    0
+277    0
+120    0
+129    0
+87     0
+875    1
+725    1
+155    0
+727    1
+189    0
+378    0
+690    1
+77     0
+188    0
+645    1
+436    0
+775    1
+328    0
+696    1
+579    1
+587    1
+388    0
+      ..
+376    0
+735    1
+78     0
+135    0
+780    1
+362    0
+723    1
+275    0
+425    0
+625    1
+873    1
+618    1
+75     0
+751    1
+504    1
+740    1
+66     0
+777    1
+831    1
+0      0
+799    1
+221    0
+25     0
+55     0
+824    1
+210    0
+240    0
+439    0
+792    1
+867    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 1 0 0 1 0 1 0 1 1 1 0 1 1 0 0 1 0 0
+ 0 1 0 0 0 1 1 1 1 0 0 1 0 1 1 0 1 0 0 0 1 1 0 1 0 1 1 1 0 1 0 1 0 0 0 1 1
+ 1 1 1 0 1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 0
+ 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 1 1 1 0 0 0 1 0 0 0 1
+ 0 0 1 0 0 0 1 1 0 0 0 1 1 1 0 0 1 0 1 0 0 0 1 0 0 0 1 1]
+Accuracy: 0.9318181818181818
+
+
+GOAL:
+758    1
+782    1
+332    0
+872    1
+810    1
+343    0
+136    0
+710    1
+46     0
+359    0
+282    0
+639    1
+414    0
+73     0
+725    1
+4      0
+615    1
+554    1
+224    0
+405    0
+52     0
+854    1
+35     0
+506    1
+674    1
+230    0
+536    1
+428    0
+60     0
+188    0
+      ..
+215    0
+766    1
+267    0
+612    1
+707    1
+393    0
+690    1
+386    0
+584    1
+514    1
+561    1
+205    0
+451    0
+751    1
+802    1
+873    1
+231    0
+2      0
+824    1
+694    1
+551    1
+1      0
+381    0
+296    0
+861    1
+601    1
+11     0
+233    0
+711    1
+572    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 1 0 1 1 0 0 1 0 0 0 1 0 0 1 0 1 1 0 1 0 1 0 1 0 0 1 0 0 0 0 1 0 0 0 1 1
+ 1 0 1 0 0 0 1 0 1 1 1 1 1 0 1 1 1 1 0 0 1 1 1 0 1 1 0 0 1 1 0 0 0 0 0 1 0
+ 0 0 0 0 0 0 0 1 1 1 0 1 0 1 1 0 0 1 0 0 0 0 1 0 0 1 1 0 1 0 0 1 0 0 0 0 0
+ 1 1 1 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 1 0 0 1 0 1
+ 0 1 1 0 1 0 1 1 1 0 0 1 1 0 0 0 1 1 1 0 0 0 1 1 0 0 1 1]
+Accuracy: 0.9261363636363636
+
+
+GOAL:
+327    0
+230    0
+844    1
+169    0
+304    0
+556    1
+845    1
+91     0
+794    1
+826    1
+30     0
+209    0
+366    0
+604    1
+37     0
+83     0
+387    0
+371    0
+206    0
+677    1
+335    0
+325    0
+88     0
+383    0
+173    0
+464    0
+856    1
+21     0
+839    1
+261    0
+      ..
+481    0
+812    1
+318    0
+202    0
+582    1
+154    0
+518    1
+454    0
+71     0
+214    0
+474    0
+598    1
+517    1
+287    0
+867    1
+703    1
+514    1
+479    0
+512    1
+797    1
+711    1
+641    1
+95     0
+599    1
+848    1
+510    1
+618    1
+232    0
+709    1
+468    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 1 0 0 0 1 0 1 1 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 1 1 0 0 0 0 1
+ 0 1 0 1 1 1 0 1 0 0 1 1 0 1 0 0 0 0 1 0 0 0 1 0 1 0 0 1 1 1 1 1 0 1 1 0 1
+ 1 1 0 1 1 0 1 1 0 0 0 1 0 1 1 1 1 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 1 1 0 0
+ 0 1 1 1 0 0 0 1 0 1 1 1 0 0 1 1 0 0 0 1 0 0 1 1 0 0 0 1 0 0 0 1 1 0 0 0 0
+ 0 0 1 0 1 0 0 0 1 1 1 0 1 1 1 0 1 1 1 1 0 1 1 0 1 0 1 0]
+Accuracy: 0.9375
+
+
+GOAL:
+782    1
+143    0
+475    0
+692    1
+713    1
+137    0
+545    1
+281    0
+575    1
+807    1
+673    1
+764    1
+138    0
+525    1
+248    0
+618    1
+815    1
+228    0
+448    0
+161    0
+622    1
+646    1
+178    0
+843    1
+722    1
+751    1
+527    1
+434    0
+734    1
+502    1
+      ..
+558    1
+299    0
+104    0
+323    0
+292    0
+262    0
+189    0
+613    1
+759    1
+667    1
+146    0
+329    0
+288    0
+358    0
+845    1
+689    1
+184    0
+725    1
+243    0
+492    1
+392    0
+833    1
+738    1
+69     0
+402    0
+847    1
+24     0
+465    0
+597    1
+22     0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 0 0 1 1 0 1 0 1 1 1 1 0 1 0 0 1 0 1 0 1 1 0 1 1 1 1 0 1 1 0 1 0 1 0 0 1
+ 0 1 1 0 0 1 0 0 0 1 0 0 0 1 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 0 0 0 1 0 1 0 1
+ 0 1 0 0 0 1 1 1 0 0 1 0 0 0 1 0 0 0 0 1 0 1 1 0 1 0 1 0 0 0 1 0 0 0 0 1 0
+ 1 0 0 0 0 1 0 1 1 1 0 0 0 1 0 0 1 0 0 1 1 0 0 0 1 0 0 0 0 1 0 0 1 0 0 1 0
+ 0 0 0 1 0 1 1 1 0 0 0 0 1 1 0 1 0 1 0 1 1 0 0 1 0 0 0 0]
+Accuracy: 0.9261363636363636
+
+
+GOAL:
+318    0
+9      0
+537    1
+709    1
+747    1
+547    1
+521    1
+297    0
+1      0
+226    0
+668    1
+830    1
+778    1
+443    0
+478    0
+636    1
+755    1
+569    1
+76     0
+479    0
+727    1
+405    0
+671    1
+204    0
+589    1
+859    1
+817    1
+439    0
+579    1
+644    1
+      ..
+498    1
+610    1
+328    0
+475    0
+126    0
+687    1
+361    0
+202    0
+127    0
+269    0
+657    1
+134    0
+683    1
+306    0
+834    1
+65     0
+375    0
+359    0
+324    0
+264    0
+828    1
+704    1
+113    0
+773    1
+728    1
+787    1
+678    1
+57     0
+357    0
+456    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 1 1 1 1 1 0 0 0 1 1 1 1 0 1 1 1 0 0 1 1 1 0 1 1 1 0 1 1 1 0 0 1 0 1 1
+ 1 0 1 0 0 1 0 1 1 0 0 0 0 0 0 1 0 1 1 0 0 1 1 1 0 0 1 0 0 1 0 1 1 1 1 1 1
+ 1 0 0 1 1 1 1 1 1 1 0 0 1 0 1 0 0 1 1 0 0 0 0 1 0 0 0 1 0 1 0 0 0 1 1 0 0
+ 0 1 0 0 1 0 0 0 0 0 0 1 0 1 1 0 0 0 1 1 0 0 0 1 1 0 0 1 0 1 1 1 1 0 0 1 0
+ 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 1 1 0 0 1 1 1 0 0 0]
+Accuracy: 0.9261363636363636
+
+
+GOAL:
+846    1
+1      0
+12     0
+707    1
+817    1
+307    0
+524    1
+663    1
+130    0
+187    0
+514    1
+473    0
+240    0
+665    1
+194    0
+583    1
+807    1
+478    0
+589    1
+309    0
+124    0
+156    0
+800    1
+451    0
+866    1
+326    0
+202    0
+745    1
+32     0
+623    1
+      ..
+266    0
+717    1
+2      0
+20     0
+363    0
+328    0
+236    0
+93     0
+0      0
+771    1
+62     0
+95     0
+69     0
+697    1
+155    0
+303    0
+311    0
+353    0
+612    1
+569    1
+251    0
+776    1
+597    1
+306    0
+188    0
+748    1
+334    0
+4      0
+487    0
+219    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 0 0 1 1 0 1 1 0 0 1 0 0 1 0 1 1 0 1 0 0 1 1 0 1 0 0 1 0 1 1 0 0 0 1 1 0
+ 0 0 0 0 1 1 0 0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 1
+ 1 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 0 1 0 1 1 1 0 0 0 0 0 1 0
+ 0 0 1 0 0 0 0 1 0 0 1 1 0 0 1 1 0 0 0 1 0 1 0 1 1 1 1 1 1 1 0 1 0 0 0 0 1
+ 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0]
+Accuracy: 0.9375
+
+
+GOAL:
+345    0
+339    0
+483    0
+479    0
+735    1
+40     0
+243    0
+532    1
+466    0
+873    1
+61     0
+349    0
+506    1
+609    1
+825    1
+254    0
+425    0
+322    0
+514    1
+643    1
+467    0
+154    0
+11     0
+822    1
+655    1
+86     0
+608    1
+269    0
+649    1
+624    1
+      ..
+336    0
+732    1
+434    0
+590    1
+419    0
+808    1
+710    1
+334    0
+644    1
+757    1
+574    1
+100    0
+447    0
+464    0
+591    1
+424    0
+364    0
+750    1
+705    1
+311    0
+682    1
+114    0
+784    1
+2      0
+848    1
+557    1
+523    1
+546    1
+231    0
+362    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 0 0 1 0 0 1 0 0 0 0 1 1 1 0 1 0 1 1 0 0 0 1 1 0 1 0 1 1 1 0 0 0 1 1 0
+ 0 1 1 0 0 0 0 1 0 0 0 1 0 1 1 0 0 1 0 0 0 0 0 0 1 0 1 1 1 0 1 0 1 0 0 0 0
+ 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 0 1 0 0 0 0 0 1 0 1 0 1 0 0 0 1 1 0 0
+ 1 0 1 0 0 1 0 1 0 0 0 0 0 0 1 0 1 0 0 0 1 0 1 0 0 0 0 1 0 0 1 1 1 0 1 0 1
+ 0 1 0 1 1 0 1 1 1 0 0 0 1 0 0 1 1 0 1 0 1 0 1 1 1 1 0 0]
+Accuracy: 0.9261363636363636
+
+
+GOAL:
+85     0
+5      0
+866    1
+526    1
+775    1
+417    0
+769    1
+575    1
+834    1
+541    1
+135    0
+233    0
+276    0
+391    0
+128    0
+414    0
+29     0
+538    1
+88     0
+434    0
+479    0
+52     0
+348    0
+257    0
+367    0
+38     0
+191    0
+554    1
+728    1
+843    1
+      ..
+304    0
+186    0
+405    0
+764    1
+149    0
+412    0
+542    1
+141    0
+695    1
+32     0
+784    1
+80     0
+614    1
+630    1
+746    1
+416    0
+321    0
+714    1
+489    1
+256    0
+369    0
+113    0
+379    0
+795    1
+120    0
+636    1
+872    1
+709    1
+444    0
+203    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 1 1 1 0 1 1 1 1 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 0 1 1 1 1 0 0 1 1 0 0
+ 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 1 1 0 1 1 0 0 0 0 1
+ 1 1 1 1 0 1 0 0 1 1 0 1 1 1 0 0 1 1 1 0 1 1 1 1 1 0 0 1 0 1 1 0 0 0 0 0 0
+ 0 0 1 0 0 1 0 1 0 1 0 0 1 0 1 1 0 0 0 1 0 0 1 0 1 0 0 1 0 0 0 1 0 1 0 0 0
+ 1 1 0 0 1 0 1 0 1 0 1 1 1 0 0 1 1 0 0 0 0 1 0 1 1 1 0 0]
+Accuracy: 0.9545454545454546
+
+
+GOAL:
+216    0
+689    1
+288    0
+280    0
+74     0
+28     0
+381    0
+453    0
+218    0
+473    0
+435    0
+350    0
+40     0
+340    0
+506    1
+782    1
+199    0
+571    1
+779    1
+531    1
+612    1
+210    0
+545    1
+610    1
+613    1
+871    1
+753    1
+353    0
+287    0
+99     0
+      ..
+409    0
+642    1
+412    0
+468    0
+239    0
+530    1
+148    0
+395    0
+22     0
+283    0
+513    1
+182    0
+297    0
+837    1
+510    1
+83     0
+45     0
+347    0
+110    0
+416    0
+853    1
+770    1
+189    0
+699    1
+323    0
+514    1
+439    0
+805    1
+322    0
+833    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 1 0 0 0 0 0 0 0 0 1 0 0 0 1 1 0 1 1 1 1 0 1 1 1 0 1 0 0 0 1 1 0 1 0 0 0
+ 1 1 1 0 0 0 1 1 1 1 0 1 1 0 1 1 0 0 0 0 1 1 0 1 1 1 1 0 0 0 0 1 1 1 1 1 0
+ 0 0 1 0 0 1 1 0 0 0 1 0 1 0 1 0 1 0 1 0 1 0 0 0 0 0 1 0 1 0 0 1 0 0 0 1 1
+ 0 1 0 1 0 1 0 1 1 1 0 1 0 0 1 1 0 0 1 1 1 0 1 1 0 0 1 0 1 0 0 0 0 0 1 0 1
+ 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 1 0 1 0 1 0 1 0 1]
+Accuracy: 0.9204545454545454
+
+
+GOAL:
+443    0
+812    1
+297    0
+806    1
+136    0
+706    1
+529    1
+475    0
+86     0
+232    0
+41     0
+582    1
+311    0
+730    1
+786    1
+396    0
+97     0
+508    1
+839    1
+26     0
+631    1
+434    0
+751    1
+218    0
+181    0
+110    0
+790    1
+497    1
+759    1
+378    0
+      ..
+489    1
+236    0
+173    0
+739    1
+549    1
+227    0
+600    1
+196    0
+23     0
+566    1
+406    0
+573    1
+632    1
+80     0
+78     0
+652    1
+135    0
+619    1
+665    1
+199    0
+51     0
+190    0
+403    0
+836    1
+307    0
+92     0
+542    1
+176    0
+61     0
+83     0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 0 0 1 0 0 1 0 0 0 0 1 0 1 1 1 0 1 1 0 1 0 1 1 0 0 0 1 1 0 0 0 1 0 0 0 0
+ 1 0 0 1 0 0 0 1 1 1 0 1 0 0 1 0 1 0 1 1 0 1 0 0 0 0 0 1 1 0 0 0 1 0 1 0 0
+ 1 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 1 0 0 1 1 0 0 1 1 1 1 1 1 0 1 0 1
+ 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 1 0 0 1 1 1 1 1 1 1 0 0 1 0 1 1 1 1 0
+ 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 1 0 0 1 0 0 0]
+Accuracy: 0.9147727272727273
+
+
+GOAL:
+21     0
+569    1
+352    0
+787    1
+134    0
+436    0
+441    0
+179    0
+229    0
+647    1
+289    0
+657    1
+608    1
+847    1
+444    0
+406    0
+590    1
+674    1
+538    1
+394    0
+361    0
+555    1
+402    0
+519    1
+375    0
+839    1
+536    1
+340    0
+605    1
+153    0
+      ..
+141    0
+870    1
+315    0
+554    1
+317    0
+242    0
+214    0
+503    1
+259    0
+824    1
+102    0
+206    0
+293    0
+345    0
+282    0
+716    1
+69     0
+855    1
+342    0
+5      0
+54     0
+869    1
+385    0
+245    0
+388    0
+181    0
+547    1
+784    1
+9      0
+132    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 1 0 1 0 0 0 0 0 1 0 1 1 1 0 0 1 0 1 0 0 1 0 1 0 1 1 1 1 0 1 1 0 0 0 0 1
+ 0 1 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 1 1 0 0 1
+ 1 0 0 1 0 0 1 0 1 1 0 0 1 0 0 0 0 0 0 1 1 1 0 0 0 0 1 1 0 1 0 1 1 1 1 0 1
+ 0 0 1 1 1 0 0 0 1 1 0 1 0 0 0 1 0 0 1 1 0 1 0 1 0 1 0 1 0 0 1 0 0 0 1 0 1
+ 0 1 0 0 0 1 0 1 0 0 0 0 0 1 0 1 0 0 1 1 0 0 0 0 1 1 0 0]
+Accuracy: 0.9715909090909091
+
+
+GOAL:
+721    1
+6      0
+729    1
+486    0
+715    1
+393    0
+554    1
+207    0
+842    1
+297    0
+407    0
+423    0
+635    1
+284    0
+371    0
+411    0
+306    0
+805    1
+93     0
+537    1
+829    1
+181    0
+15     0
+602    1
+260    0
+859    1
+587    1
+476    0
+765    1
+391    0
+      ..
+875    1
+427    0
+160    0
+173    0
+280    0
+71     0
+276    0
+82     0
+609    1
+847    1
+242    0
+104    0
+267    0
+674    1
+273    0
+694    1
+623    1
+539    1
+856    1
+655    1
+709    1
+247    0
+80     0
+348    0
+494    1
+749    1
+863    1
+811    1
+312    0
+738    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 0 1 0 1 0 1 0 1 0 1 0 1 0 0 0 0 1 0 1 1 0 0 0 0 1 1 0 1 1 0 1 0 0 1 0 0
+ 0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 1 0 1 0 0 0 1 0 1 0 1 1 0 1 1 1 1 0 0 1
+ 0 1 1 0 1 0 1 0 1 1 1 1 0 0 1 1 1 1 1 0 0 0 0 1 0 1 0 0 0 1 1 1 1 0 1 1 1
+ 0 0 0 1 0 1 0 1 1 1 1 0 1 1 1 0 0 0 0 1 1 0 0 1 1 0 1 0 1 1 0 0 0 0 1 1 0
+ 0 0 0 0 0 0 1 1 0 0 0 0 0 1 1 1 1 1 1 0 0 0 1 1 1 1 0 1]
+Accuracy: 0.9431818181818182
+
+
+GOAL:
+508    1
+399    0
+677    1
+424    0
+562    1
+336    0
+726    1
+286    0
+291    0
+306    0
+683    1
+639    1
+754    1
+670    1
+767    1
+144    0
+789    1
+609    1
+185    0
+257    0
+519    1
+855    1
+792    1
+540    1
+712    1
+65     0
+627    1
+159    0
+528    1
+763    1
+      ..
+558    1
+638    1
+18     0
+1      0
+435    0
+661    1
+748    1
+410    0
+624    1
+355    0
+136    0
+561    1
+433    0
+798    1
+695    1
+535    1
+313    0
+847    1
+241    0
+148    0
+649    1
+158    0
+133    0
+465    0
+296    0
+239    0
+827    1
+182    0
+744    1
+86     0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 1 1 0 1 0 1 0 0 0 0 1 0 1 1 0 1 1 0 0 1 1 1 1 1 0 0 0 1 1 1 0 0 0 0 1 1
+ 0 0 1 1 1 0 0 1 0 1 1 0 0 1 0 1 0 0 0 0 0 1 0 1 1 1 0 1 1 0 1 0 0 0 0 0 1
+ 0 1 1 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 0 1 1 0 1 1 1 1 0 1 1 1 1 1 1 0 0 1 0
+ 0 1 0 1 0 0 0 1 1 0 0 0 0 0 1 0 1 0 1 1 1 0 0 1 1 0 1 1 0 0 1 1 1 1 1 1 1
+ 0 0 1 0 0 0 1 0 0 1 0 1 1 1 0 1 0 1 1 0 0 0 0 0 1 0 1 0]
+Accuracy: 0.9204545454545454
+
+
+GOAL:
+471    0
+574    1
+334    0
+590    1
+624    1
+557    1
+80     0
+1      0
+207    0
+783    1
+50     0
+511    1
+405    0
+796    1
+569    1
+718    1
+59     0
+364    0
+496    1
+127    0
+744    1
+383    0
+390    0
+320    0
+675    1
+601    1
+252    0
+400    0
+643    1
+236    0
+      ..
+875    1
+120    0
+823    1
+345    0
+336    0
+745    1
+795    1
+674    1
+267    0
+254    0
+217    0
+256    0
+113    0
+116    0
+77     0
+408    0
+8      0
+454    0
+657    1
+163    0
+12     0
+335    0
+161    0
+602    1
+25     0
+326    0
+660    1
+168    0
+832    1
+62     0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 1 0 1 0 1 0 0 0 1 0 1 1 0 1 1 0 0 1 0 1 0 0 0 1 1 0 0 1 0 0 1 0 0 0 0 1
+ 0 0 1 0 1 1 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 1 1 1 0 1 0 0 0 0 1 0 0 1 0
+ 1 0 0 1 1 0 0 0 0 1 0 0 1 1 1 0 0 1 1 0 1 1 0 1 0 1 1 0 1 0 0 0 0 0 1 0 0
+ 0 1 1 0 0 0 1 0 0 1 1 1 1 1 1 0 1 0 0 0 1 1 1 0 1 1 0 1 0 0 1 0 0 1 1 1 0
+ 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 1 0]
+Accuracy: 0.9204545454545454
+
+
+GOAL:
+719    1
+853    1
+614    1
+243    0
+478    0
+759    1
+514    1
+691    1
+836    1
+875    1
+47     0
+557    1
+844    1
+268    0
+139    0
+846    1
+28     0
+531    1
+457    0
+462    0
+551    1
+82     0
+739    1
+368    0
+84     0
+68     0
+133    0
+636    1
+177    0
+45     0
+      ..
+752    1
+512    1
+120    0
+602    1
+722    1
+392    0
+489    1
+670    1
+597    1
+625    1
+426    0
+412    0
+378    0
+352    0
+23     0
+138    0
+121    0
+508    1
+453    0
+307    0
+829    1
+839    1
+388    0
+105    0
+827    1
+711    1
+710    1
+39     0
+534    1
+129    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 1 1 0 0 1 1 1 1 1 0 1 1 0 0 0 0 1 0 0 1 0 1 0 0 0 0 1 0 0 0 1 1 1 0 0 0
+ 0 1 0 0 1 1 1 0 1 1 0 1 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 1 0 1 0 1 1 0 1 0
+ 1 0 1 1 0 1 0 0 1 0 0 0 0 1 0 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 1
+ 1 0 1 1 0 0 0 1 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 0 0 0 0 0 0 0 1 0 0 0 1 1 1
+ 0 0 1 0 1 1 0 1 0 0 0 0 0 0 0 1 1 0 1 1 0 0 1 1 1 0 1 1]
+Accuracy: 0.9375
+
+
+GOAL:
+340    0
+457    0
+701    1
+591    1
+690    1
+655    1
+691    1
+163    0
+539    1
+648    1
+113    0
+155    0
+607    1
+761    1
+440    0
+614    1
+63     0
+625    1
+435    0
+51     0
+551    1
+580    1
+74     0
+688    1
+730    1
+811    1
+396    0
+473    0
+600    1
+735    1
+      ..
+430    0
+839    1
+727    1
+525    1
+282    0
+87     0
+112    0
+359    0
+467    0
+32     0
+626    1
+598    1
+424    0
+246    0
+822    1
+479    0
+167    0
+649    1
+714    1
+823    1
+732    1
+824    1
+590    1
+676    1
+14     0
+813    1
+238    0
+299    0
+713    1
+421    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 0 1 1 1 1 1 0 1 1 0 0 0 1 0 1 0 1 1 0 1 0 0 1 1 1 1 0 1 1 0 0 1 0 0 1 1
+ 1 0 0 0 1 0 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 1 0 0 0 0 1 1
+ 1 0 0 1 0 0 1 1 0 0 0 1 1 0 0 1 1 0 0 0 1 1 0 0 1 1 0 1 1 1 1 1 1 1 0 0 0
+ 1 1 0 1 0 1 1 0 1 1 0 0 0 1 1 1 1 0 1 0 0 0 1 0 1 1 0 1 0 0 0 1 0 1 0 0 1
+ 1 1 0 0 0 0 0 0 1 1 0 0 1 0 0 1 1 1 1 1 1 1 0 1 0 0 1 0]
+Accuracy: 0.9090909090909091
+
+
+GOAL:
+81     0
+689    1
+38     0
+244    0
+130    0
+82     0
+809    1
+167    0
+816    1
+582    1
+700    1
+554    1
+581    1
+790    1
+599    1
+71     0
+574    1
+666    1
+20     0
+336    0
+820    1
+684    1
+196    0
+109    0
+610    1
+752    1
+8      0
+436    0
+640    1
+180    0
+      ..
+460    0
+228    0
+515    1
+26     0
+161    0
+753    1
+156    0
+557    1
+420    0
+592    1
+628    1
+322    0
+482    0
+10     0
+4      0
+561    1
+60     0
+435    0
+834    1
+651    1
+691    1
+441    0
+159    0
+658    1
+286    0
+675    1
+171    0
+34     0
+248    0
+437    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 1 0 0 0 0 1 0 1 1 1 1 1 0 1 0 1 1 0 0 1 1 0 0 1 1 0 0 1 0 0 1 0 0 0 0 0
+ 0 0 0 1 1 0 1 0 0 1 0 0 0 0 1 0 0 1 0 0 0 1 1 1 0 1 1 0 0 0 0 0 1 1 1 0 0
+ 0 0 0 1 0 1 0 1 0 0 0 0 1 0 0 1 1 1 1 1 1 0 1 1 1 0 1 0 1 0 0 0 0 1 0 1 1
+ 0 0 0 0 0 1 0 1 0 0 0 1 1 0 0 0 0 0 1 1 1 1 0 0 0 1 1 0 0 1 1 1 0 0 0 0 0
+ 1 0 0 1 1 1 0 1 1 0 1 0 0 1 0 1 1 1 1 0 0 1 0 1 0 0 0 0]
+Accuracy: 0.9431818181818182
+
+
+GOAL:
+498    1
+420    0
+448    0
+752    1
+625    1
+235    0
+697    1
+671    1
+543    1
+739    1
+283    0
+250    0
+848    1
+831    1
+402    0
+681    1
+861    1
+452    0
+773    1
+516    1
+680    1
+132    0
+169    0
+515    1
+45     0
+156    0
+348    0
+287    0
+151    0
+547    1
+      ..
+434    0
+662    1
+409    0
+712    1
+72     0
+836    1
+93     0
+665    1
+491    1
+361    0
+586    1
+701    1
+236    0
+599    1
+382    0
+609    1
+363    0
+390    0
+541    1
+99     0
+872    1
+650    1
+177    0
+154    0
+563    1
+771    1
+826    1
+190    0
+76     0
+385    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 0 1 1 1 0 1 1 1 1 0 0 1 1 0 1 1 0 1 1 0 0 0 1 0 1 1 0 0 1 0 0 0 0 1 1 0
+ 0 1 1 0 0 0 0 0 1 0 1 0 1 1 0 1 1 0 1 1 0 0 0 1 1 0 0 0 0 0 0 1 1 0 0 0 0
+ 1 0 1 0 0 0 0 1 0 1 0 1 0 1 0 1 1 1 0 1 0 1 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0
+ 0 0 1 0 1 0 1 0 0 0 1 0 0 0 1 0 0 1 0 1 0 1 0 0 1 1 0 0 1 0 0 0 1 0 0 0 1
+ 0 1 0 1 0 1 0 0 0 1 0 1 0 1 0 0 1 0 1 1 0 0 1 1 1 0 0 0]
+Accuracy: 0.9261363636363636
+
+
+GOAL:
+872    1
+122    0
+808    1
+490    1
+307    0
+317    0
+522    1
+595    1
+350    0
+352    0
+84     0
+13     0
+663    1
+20     0
+685    1
+244    0
+850    1
+765    1
+534    1
+42     0
+265    0
+574    1
+646    1
+357    0
+285    0
+645    1
+820    1
+276    0
+675    1
+294    0
+      ..
+827    1
+123    0
+51     0
+858    1
+471    0
+175    0
+41     0
+144    0
+609    1
+340    0
+799    1
+189    0
+636    1
+215    0
+618    1
+750    1
+24     0
+478    0
+373    0
+201    0
+108    0
+381    0
+351    0
+755    1
+752    1
+229    0
+92     0
+701    1
+671    1
+10     0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 0 1 1 0 0 1 1 0 0 0 0 1 0 1 0 1 1 1 0 0 1 1 0 0 1 1 0 1 0 1 0 0 0 0 1 0
+ 0 0 0 0 1 0 0 1 1 1 0 1 1 0 0 0 0 0 1 0 0 1 0 0 1 1 1 1 1 0 1 0 1 0 1 0 0
+ 0 1 0 0 1 1 1 0 0 0 0 1 1 1 0 0 1 0 1 0 1 0 1 0 1 1 0 1 0 1 0 1 1 1 1 0 0
+ 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 1 0 1 0 1 1 1 1 0 0 1 1 0 0 0 1 0 0 0 0 1 0
+ 0 1 1 0 0 0 1 0 1 0 1 0 1 1 0 0 0 0 0 0 0 1 1 0 0 0 1 0]
+Accuracy: 0.9375
+
+
+GOAL:
+135    0
+484    0
+655    1
+329    0
+845    1
+856    1
+253    0
+707    1
+114    0
+233    0
+447    0
+611    1
+166    0
+807    1
+384    0
+168    0
+8      0
+312    0
+0      0
+741    1
+564    1
+124    0
+875    1
+860    1
+219    0
+334    0
+284    0
+165    0
+449    0
+550    1
+      ..
+258    0
+819    1
+366    0
+767    1
+298    0
+572    1
+307    0
+844    1
+275    0
+650    1
+16     0
+286    0
+205    0
+296    0
+336    0
+311    0
+28     0
+706    1
+680    1
+157    0
+283    0
+154    0
+237    0
+301    0
+517    1
+186    0
+228    0
+109    0
+672    1
+292    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 1 0 1 1 0 1 0 0 0 1 0 1 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 1 1 0 1 1 0 1 1
+ 0 1 0 1 0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 1 1 0 1 0 1 0 1 1 1 1 1 0 1 0
+ 0 0 0 0 1 0 0 1 0 0 1 0 1 0 1 0 0 1 1 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1 0 0 0
+ 1 0 0 1 0 0 0 0 1 1 1 1 0 0 0 0 0 0 1 1 1 0 1 0 1 1 0 0 0 0 0 1 1 0 0 0 1
+ 0 1 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0]
+Accuracy: 0.9261363636363636
+
+
+GOAL:
+610    1
+66     0
+670    1
+204    0
+698    1
+301    0
+680    1
+97     0
+847    1
+452    0
+241    0
+50     0
+574    1
+846    1
+438    0
+47     0
+539    1
+448    0
+267    0
+640    1
+154    0
+148    0
+20     0
+238    0
+629    1
+485    0
+80     0
+857    1
+443    0
+842    1
+      ..
+553    1
+67     0
+192    0
+231    0
+473    0
+388    0
+584    1
+392    0
+436    0
+548    1
+543    1
+586    1
+58     0
+383    0
+91     0
+341    0
+258    0
+73     0
+801    1
+526    1
+351    0
+348    0
+13     0
+46     0
+457    0
+679    1
+101    0
+587    1
+257    0
+620    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 1 0 1 0 0 0 1 0 0 0 1 0 0 0 1 1 0 1 0 0 1 0 1 1 0 1 1 1 1 1 1 0 1 1 1
+ 0 1 0 0 1 0 0 0 1 1 0 0 0 0 0 1 1 0 1 1 0 0 0 1 0 1 1 0 0 1 1 0 0 1 0 1 0
+ 0 1 1 0 0 0 1 0 1 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 1 1 0 0 1 1
+ 1 0 0 1 1 1 1 1 1 1 1 0 0 1 0 1 0 1 0 0 0 0 0 1 0 1 0 0 0 0 1 0 0 0 0 1 0
+ 0 0 0 0 1 0 0 1 1 0 0 0 0 0 0 0 1 1 0 1 0 0 0 1 0 1 0 1]
+Accuracy: 0.9090909090909091
+
+
+GOAL:
+672    1
+264    0
+485    0
+577    1
+511    1
+334    0
+125    0
+419    0
+494    1
+309    0
+220    0
+694    1
+11     0
+424    0
+455    0
+167    0
+287    0
+405    0
+198    0
+760    1
+488    0
+129    0
+336    0
+211    0
+121    0
+778    1
+377    0
+89     0
+60     0
+769    1
+      ..
+670    1
+596    1
+427    0
+839    1
+351    0
+83     0
+799    1
+845    1
+578    1
+117    0
+553    1
+297    0
+396    0
+639    1
+249    0
+434    0
+165    0
+439    0
+369    0
+625    1
+284    0
+712    1
+559    1
+657    1
+238    0
+755    1
+97     0
+420    0
+800    1
+837    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 0 1 1 1 0 0 0 1 0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 1
+ 1 0 0 1 0 0 0 0 1 0 0 1 0 1 1 1 0 1 0 0 0 0 1 0 0 0 1 0 1 1 1 0 0 1 0 0 0
+ 0 0 0 1 1 0 0 1 0 1 1 1 0 0 0 0 0 0 0 1 1 0 1 0 0 0 1 0 0 1 1 0 0 1 0 1 1
+ 0 0 0 0 0 1 0 1 0 1 1 1 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 1 1 1
+ 0 1 0 0 1 1 1 0 1 0 1 1 0 0 0 0 0 1 0 1 1 1 0 1 0 0 1 1]
+Accuracy: 0.9261363636363636
+
+
+GOAL:
+44     0
+826    1
+227    0
+391    0
+789    1
+274    0
+514    1
+572    1
+477    0
+304    0
+371    0
+630    1
+835    1
+772    1
+594    1
+873    1
+556    1
+159    0
+272    0
+342    0
+127    0
+816    1
+819    1
+468    0
+121    0
+184    0
+482    0
+353    0
+676    1
+328    0
+      ..
+876    1
+395    0
+504    1
+670    1
+149    0
+435    0
+112    0
+234    0
+605    1
+532    1
+416    0
+534    1
+748    1
+21     0
+415    0
+270    0
+401    0
+559    1
+650    1
+132    0
+326    0
+51     0
+479    0
+154    0
+4      0
+295    0
+231    0
+193    0
+658    1
+602    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 1 0 1 1 0 1 1 0 0 0 1 0 1 1 0 0 0 0 0 0 1 1 0 0 0 1 0 1 0 1 1 1 1 0 1 1
+ 1 0 1 1 1 1 0 0 0 1 1 0 0 1 0 0 1 1 0 1 1 0 1 0 0 0 1 1 1 0 0 0 0 0 0 1 0
+ 0 1 0 0 1 0 0 0 0 1 1 1 0 0 0 0 1 0 1 0 0 1 0 1 0 1 0 0 1 0 0 0 1 0 0 1 0
+ 0 0 1 1 0 1 0 0 0 0 1 0 0 0 1 1 0 1 0 1 1 0 0 0 1 0 0 0 0 1 0 0 1 1 1 1 1
+ 1 1 0 1 0 0 1 1 0 1 0 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 1 0]
+Accuracy: 0.9090909090909091
+
+
+GOAL:
+302    0
+211    0
+353    0
+644    1
+30     0
+656    1
+590    1
+530    1
+324    0
+746    1
+133    0
+35     0
+84     0
+484    0
+205    0
+168    0
+289    0
+190    0
+195    0
+792    1
+370    0
+143    0
+186    0
+34     0
+197    0
+215    0
+673    1
+858    1
+67     0
+122    0
+      ..
+380    0
+203    0
+476    0
+107    0
+347    0
+247    0
+483    0
+46     0
+297    0
+39     0
+771    1
+845    1
+109    0
+41     0
+810    1
+629    1
+627    1
+698    1
+240    0
+116    0
+298    0
+17     0
+389    0
+100    0
+700    1
+511    1
+232    0
+96     0
+797    1
+145    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 0 1 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 1
+ 0 0 1 1 0 1 1 1 1 0 1 1 0 1 0 1 1 0 1 0 0 0 1 0 0 1 0 0 0 1 1 1 0 1 0 1 0
+ 0 0 1 1 1 1 1 0 1 1 1 0 1 0 0 1 0 0 0 0 0 1 1 0 0 1 0 1 1 0 1 0 0 1 0 0 0
+ 1 1 1 0 0 1 0 1 0 1 0 1 0 0 0 1 0 0 0 1 1 0 1 0 0 0 0 1 1 0 0 1 1 0 0 0 0
+ 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 1 0 0 0 0 0 0 1 1 0 0 1 0]
+Accuracy: 0.9147727272727273
+
+
+GOAL:
+427    0
+243    0
+719    1
+636    1
+7      0
+433    0
+32     0
+690    1
+221    0
+675    1
+448    0
+710    1
+15     0
+154    0
+103    0
+431    0
+421    0
+286    0
+96     0
+563    1
+394    0
+736    1
+768    1
+504    1
+627    1
+728    1
+798    1
+671    1
+215    0
+528    1
+      ..
+52     0
+457    0
+663    1
+634    1
+436    0
+257    0
+609    1
+106    0
+566    1
+765    1
+725    1
+750    1
+87     0
+132    0
+849    1
+687    1
+479    0
+834    1
+494    1
+201    0
+791    1
+128    0
+499    1
+308    0
+359    0
+195    0
+305    0
+741    1
+110    0
+859    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 1 1 0 0 0 1 0 1 1 1 0 0 0 0 0 0 0 1 0 1 1 1 0 1 1 1 0 1 1 0 1 0 1 0 0
+ 1 0 0 1 1 0 0 0 0 1 0 0 1 1 1 0 1 0 1 1 0 0 0 0 1 0 1 1 0 1 1 0 0 0 0 0 1
+ 1 1 1 0 1 0 0 1 1 0 1 1 0 0 0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 0 1 0 1 0 0 0
+ 1 0 0 0 1 0 1 1 1 0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 0 0 1 0 1 0 1 0 0 1 0 0
+ 1 1 0 0 1 1 1 1 1 1 0 0 1 0 0 1 1 0 1 0 1 0 0 0 0 1 0 1]
+Accuracy: 0.9375
+
+
+GOAL:
+48     0
+862    1
+248    0
+232    0
+863    1
+186    0
+816    1
+73     0
+867    1
+41     0
+495    1
+623    1
+767    1
+523    1
+166    0
+768    1
+302    0
+670    1
+562    1
+777    1
+200    0
+788    1
+160    0
+411    0
+2      0
+674    1
+518    1
+503    1
+371    0
+831    1
+      ..
+431    0
+764    1
+10     0
+750    1
+590    1
+361    0
+828    1
+288    0
+242    0
+645    1
+697    1
+621    1
+465    0
+124    0
+0      0
+829    1
+803    1
+425    0
+551    1
+52     0
+493    1
+751    1
+134    0
+504    1
+221    0
+612    1
+598    1
+452    0
+188    0
+5      0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 1 0 0 1 0 1 0 1 0 1 1 1 1 0 1 0 1 1 0 0 1 0 0 0 0 1 1 0 1 0 1 1 0 0 0 0
+ 1 0 1 0 0 1 1 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 1 0 0 0 1 0 1 0 0 0 1 1 1 0 0
+ 0 0 0 1 1 1 0 1 0 1 0 0 0 1 0 0 0 1 1 0 1 0 1 1 0 0 1 0 1 0 1 1 0 0 0 1 0
+ 0 1 0 0 1 1 0 1 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 1 1 1 0 0 0 1 0 1
+ 0 1 1 0 1 0 0 1 1 1 0 0 0 1 0 1 1 0 1 1 0 1 0 1 1 0 0 0]
+Accuracy: 0.9147727272727273
+
+
+GOAL:
+55     0
+781    1
+288    0
+39     0
+849    1
+838    1
+679    1
+243    0
+551    1
+837    1
+811    1
+465    0
+772    1
+253    0
+309    0
+775    1
+373    0
+590    1
+862    1
+633    1
+199    0
+812    1
+820    1
+537    1
+738    1
+476    0
+210    0
+500    1
+63     0
+640    1
+      ..
+25     0
+379    0
+234    0
+715    1
+734    1
+415    0
+245    0
+198    0
+393    0
+451    0
+178    0
+254    0
+157    0
+138    0
+453    0
+571    1
+184    0
+442    0
+865    1
+617    1
+400    0
+179    0
+697    1
+334    0
+385    0
+751    1
+252    0
+730    1
+405    0
+741    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 1 0 0 1 1 1 0 1 1 1 0 1 0 0 1 0 1 1 1 0 0 1 1 1 0 0 1 0 1 0 1 0 1 1 1 0
+ 1 1 1 1 1 0 0 0 1 0 1 0 0 0 1 0 0 1 0 1 0 0 0 1 1 1 0 0 1 0 1 0 0 0 1 1 0
+ 0 0 0 0 0 1 1 1 0 0 1 0 1 0 1 1 0 0 1 0 0 1 0 1 1 1 1 0 0 0 0 1 0 0 0 0 0
+ 1 0 0 1 0 1 1 1 1 1 0 0 0 1 1 0 1 0 0 0 1 0 1 1 1 1 1 0 1 1 0 0 1 1 0 0 0
+ 0 1 1 1 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 0 1 0 0 1 0 1 1 1]
+Accuracy: 0.9602272727272727
+
+
+GOAL:
+275    0
+489    1
+339    0
+458    0
+823    1
+283    0
+800    1
+551    1
+854    1
+591    1
+308    0
+384    0
+684    1
+861    1
+253    0
+146    0
+564    1
+319    0
+492    1
+304    0
+183    0
+368    0
+464    0
+440    0
+876    1
+143    0
+842    1
+5      0
+660    1
+578    1
+      ..
+629    1
+479    0
+574    1
+244    0
+99     0
+513    1
+285    0
+321    0
+311    0
+436    0
+0      0
+328    0
+675    1
+784    1
+334    0
+719    1
+815    1
+51     0
+678    1
+235    0
+626    1
+225    0
+179    0
+90     0
+456    0
+830    1
+510    1
+693    1
+832    1
+439    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 1 0 0 1 0 1 1 1 1 0 0 1 1 0 0 1 0 1 0 0 0 0 0 1 0 1 0 1 1 1 1 1 0 1 0 0
+ 1 1 0 0 0 1 1 0 1 0 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 0 0 1 1 0 0 1 0 0
+ 1 1 1 1 0 0 1 1 0 1 1 1 1 0 1 1 1 0 0 0 0 1 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0
+ 0 1 1 1 1 1 0 1 0 0 0 0 0 0 1 0 1 0 0 0 0 0 1 1 0 1 0 0 1 0 1 1 1 1 0 1 0
+ 1 0 0 1 0 0 0 0 0 0 1 1 0 1 1 0 1 0 1 0 0 0 0 1 0 1 1 0]
+Accuracy: 0.9545454545454546
+
+
+GOAL:
+401    0
+166    0
+443    0
+1      0
+600    1
+710    1
+172    0
+115    0
+237    0
+243    0
+726    1
+529    1
+833    1
+425    0
+61     0
+4      0
+844    1
+551    1
+829    1
+190    0
+624    1
+651    1
+224    0
+302    0
+652    1
+9      0
+140    0
+574    1
+670    1
+154    0
+      ..
+636    1
+773    1
+274    0
+478    0
+455    0
+596    1
+832    1
+255    0
+218    0
+500    1
+794    1
+562    1
+290    0
+52     0
+495    1
+206    0
+614    1
+718    1
+770    1
+360    0
+315    0
+792    1
+477    0
+680    1
+634    1
+584    1
+95     0
+133    0
+137    0
+876    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 0 1 0 1 1 0 1 0 0 1 1 0 1 0 0 1 1 1 0 1 1 0 0 1 0 0 1 1 0 0 1 1 0 0 0 1
+ 0 0 0 1 0 1 0 0 0 1 0 1 1 1 0 0 1 0 0 0 1 0 0 0 1 1 1 1 0 1 0 0 0 0 0 1 1
+ 0 0 0 1 0 1 1 0 0 0 0 0 0 0 1 1 1 0 0 1 1 0 1 0 1 0 1 1 0 1 0 1 0 1 0 1 1
+ 0 1 1 1 0 0 0 0 0 0 1 0 0 0 1 1 0 1 1 0 1 1 1 1 0 0 0 1 0 1 1 1 0 0 0 1 0
+ 0 0 0 1 1 0 0 1 1 1 0 0 1 0 1 1 1 0 0 1 0 0 1 1 0 0 0 1]
+Accuracy: 0.9034090909090909
+
+
+GOAL:
+498    1
+367    0
+591    1
+706    1
+9      0
+362    0
+110    0
+688    1
+275    0
+270    0
+345    0
+159    0
+188    0
+771    1
+702    1
+507    1
+592    1
+405    0
+864    1
+514    1
+753    1
+711    1
+35     0
+854    1
+126    0
+464    0
+260    0
+333    0
+416    0
+363    0
+      ..
+487    0
+206    0
+841    1
+733    1
+241    0
+379    0
+139    0
+678    1
+684    1
+543    1
+654    1
+470    0
+6      0
+299    0
+724    1
+546    1
+58     0
+87     0
+403    0
+566    1
+294    0
+582    1
+608    1
+802    1
+833    1
+555    1
+576    1
+778    1
+147    0
+450    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 0 1 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 1 0 0 0 0 0 0 1 0 0 1 0 0 0
+ 1 1 1 1 0 1 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 1 1 1 0 0 1 0 1
+ 0 0 1 1 0 0 0 0 1 0 1 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 1 0 1 1 0 1 1 0 1
+ 0 1 1 0 1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 0 0 0 0 0
+ 1 1 0 0 0 1 1 1 1 0 0 0 1 1 0 0 0 1 0 1 1 1 1 1 1 1 0 0]
+Accuracy: 0.9545454545454546
+
+
+GOAL:
+250    0
+190    0
+56     0
+361    0
+640    1
+110    0
+871    1
+433    0
+829    1
+381    0
+151    0
+453    0
+674    1
+463    0
+448    0
+672    1
+458    0
+246    0
+41     0
+416    0
+270    0
+771    1
+698    1
+207    0
+581    1
+562    1
+867    1
+639    1
+532    1
+292    0
+      ..
+330    0
+765    1
+268    0
+54     0
+109    0
+352    0
+349    0
+293    0
+573    1
+764    1
+638    1
+320    0
+681    1
+319    0
+827    1
+388    0
+27     0
+482    0
+612    1
+363    0
+265    0
+202    0
+327    0
+654    1
+778    1
+118    0
+152    0
+344    0
+396    0
+503    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 0 0 1 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 1 1 0 1 1 1 1 1 0 1 0 0 0 1 0 1
+ 0 0 0 1 1 1 0 0 1 1 0 0 1 0 1 0 0 1 0 0 0 0 0 1 0 0 1 0 0 1 1 0 0 1 0 1 1
+ 1 0 1 0 1 0 0 1 0 0 1 0 1 1 1 1 1 0 1 0 0 0 1 0 0 0 0 1 1 0 1 1 0 0 0 1 0
+ 0 0 0 0 1 0 1 0 1 1 1 1 0 0 1 0 1 0 0 0 0 0 0 0 1 1 0 1 1 0 0 1 0 1 1 0 1
+ 0 0 0 0 0 0 0 1 1 0 1 0 1 0 0 1 1 0 0 0 0 1 1 0 0 0 1 1]
+Accuracy: 0.9431818181818182
+
+
+GOAL:
+394    0
+708    1
+557    1
+284    0
+783    1
+188    0
+255    0
+784    1
+846    1
+652    1
+36     0
+480    0
+860    1
+364    0
+313    0
+770    1
+581    1
+33     0
+639    1
+797    1
+371    0
+261    0
+73     0
+861    1
+463    0
+116    0
+662    1
+572    1
+308    0
+384    0
+      ..
+635    1
+281    0
+444    0
+743    1
+16     0
+504    1
+449    0
+710    1
+695    1
+703    1
+101    0
+67     0
+165    0
+689    1
+89     0
+610    1
+716    1
+136    0
+534    1
+163    0
+567    1
+486    0
+37     0
+642    1
+672    1
+177    0
+346    0
+192    0
+658    1
+27     0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 1 1 0 1 0 0 1 0 1 0 0 1 0 0 1 1 0 1 1 0 0 0 1 0 0 1 1 0 0 1 1 0 1 1 0 1
+ 1 0 0 1 1 0 0 1 0 0 1 0 0 0 0 0 1 1 0 1 1 0 1 0 1 0 0 0 0 1 0 0 0 0 0 1 0
+ 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 0 0 1 0 1 0 0 1 0 0 1 0 0 0 1 0 0 0 0 1
+ 1 0 0 0 0 1 1 0 1 0 0 0 1 1 0 0 1 1 0 1 0 0 1 1 1 0 0 0 0 0 1 1 1 0 1 1 0
+ 0 1 0 1 0 1 1 1 0 0 0 1 0 0 1 0 1 0 1 0 0 1 1 0 0 0 1 0]
+Accuracy: 0.9261363636363636
+
+
+GOAL:
+662    1
+253    0
+543    1
+550    1
+34     0
+534    1
+572    1
+504    1
+631    1
+302    0
+346    0
+134    0
+597    1
+46     0
+689    1
+702    1
+52     0
+821    1
+262    0
+428    0
+571    1
+842    1
+412    0
+5      0
+321    0
+110    0
+419    0
+810    1
+798    1
+825    1
+      ..
+153    0
+846    1
+368    0
+574    1
+654    1
+215    0
+219    0
+727    1
+544    1
+231    0
+85     0
+617    1
+841    1
+492    1
+158    0
+372    0
+763    1
+206    0
+92     0
+429    0
+645    1
+22     0
+546    1
+457    0
+670    1
+774    1
+323    0
+707    1
+510    1
+375    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 0 1 1 0 1 1 1 1 0 0 0 0 0 1 1 0 1 1 0 1 1 0 0 0 0 0 1 1 1 1 0 0 1 0 0 1
+ 1 0 0 0 0 0 0 1 0 1 1 0 0 1 0 0 0 1 0 0 1 1 1 1 0 0 1 0 1 1 1 0 0 1 1 0 1
+ 0 1 0 1 1 0 1 1 1 0 1 0 0 0 0 1 1 1 0 0 1 0 0 1 1 1 0 0 1 1 1 1 1 0 1 1 1
+ 0 0 0 1 0 0 1 0 1 1 0 1 1 0 0 0 0 0 0 1 0 1 1 0 0 0 1 0 1 0 0 1 1 1 0 0 0
+ 0 1 1 0 0 1 1 0 0 1 1 1 0 0 1 0 0 0 1 0 1 0 1 1 0 1 0 0]
+Accuracy: 0.9375
+
+
+GOAL:
+461    0
+213    0
+502    1
+111    0
+540    1
+271    0
+232    0
+9      0
+715    1
+11     0
+191    0
+766    1
+161    0
+147    0
+202    0
+558    1
+546    1
+528    1
+452    0
+412    0
+589    1
+463    0
+785    1
+446    0
+422    0
+373    0
+823    1
+486    0
+391    0
+413    0
+      ..
+710    1
+631    1
+42     0
+155    0
+169    0
+742    1
+645    1
+415    0
+478    0
+35     0
+285    0
+345    0
+728    1
+811    1
+70     0
+493    1
+511    1
+714    1
+236    0
+874    1
+116    0
+695    1
+871    1
+367    0
+353    0
+148    0
+14     0
+812    1
+801    1
+541    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 1 0 1 0 0 0 1 0 0 1 0 0 0 1 1 1 0 0 1 0 1 0 0 0 1 0 0 0 0 1 1 0 0 1 0
+ 0 1 0 0 1 0 0 0 0 0 1 0 1 0 0 1 1 1 1 0 1 0 0 0 0 1 0 1 1 0 1 0 0 1 1 1 0
+ 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 1 1 1 0 0 0 1 0 1 1 1 1 1 0 0 1 0 0 0 1 0
+ 0 0 0 1 1 0 1 0 0 0 1 1 0 0 0 1 1 1 0 0 0 0 0 1 1 0 1 1 0 1 0 1 0 1 1 1 1
+ 0 1 0 1 1 1 0 0 0 0 1 1 0 1 1 1 0 1 0 1 0 0 0 0 0 0 1 1]
+Accuracy: 0.9318181818181818
+
+
+GOAL:
+320    0
+564    1
+177    0
+555    1
+627    1
+276    0
+695    1
+654    1
+732    1
+306    0
+271    0
+346    0
+392    0
+606    1
+441    0
+20     0
+662    1
+446    0
+796    1
+190    0
+226    0
+388    0
+84     0
+874    1
+259    0
+664    1
+282    0
+237    0
+600    1
+222    0
+      ..
+218    0
+19     0
+689    1
+518    1
+144    0
+349    0
+857    1
+133    0
+720    1
+503    1
+2      0
+681    1
+790    1
+155    0
+818    1
+432    0
+822    1
+479    0
+434    0
+460    0
+576    1
+834    1
+726    1
+384    0
+715    1
+382    0
+618    1
+610    1
+92     0
+290    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 1 0 1 0 0 1 1 1 0 0 0 0 1 0 1 1 0 0 0 0 0 0 1 0 1 0 0 1 0 1 0 0 1 1 0 1
+ 0 1 1 0 1 0 1 1 1 1 1 0 1 0 1 0 1 0 0 0 1 1 0 1 0 1 0 1 0 1 1 0 1 1 1 1 0
+ 1 1 0 0 0 0 1 1 1 0 0 1 0 0 1 0 1 1 0 0 0 1 1 0 1 0 0 1 0 1 1 0 1 1 1 1 0
+ 0 1 0 1 1 0 0 0 0 0 0 1 1 0 1 0 1 1 1 1 1 1 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0
+ 1 1 0 0 1 0 1 1 0 1 0 1 1 0 1 0 0 0 1 1 1 0 1 0 1 0 0 0]
+Accuracy: 0.9204545454545454
+
+
+GOAL:
+331    0
+267    0
+199    0
+1      0
+289    0
+835    1
+400    0
+269    0
+791    1
+149    0
+462    0
+557    1
+449    0
+839    1
+264    0
+374    0
+860    1
+446    0
+113    0
+342    0
+715    1
+627    1
+777    1
+262    0
+29     0
+485    0
+233    0
+865    1
+230    0
+872    1
+      ..
+781    1
+509    1
+105    0
+667    1
+417    0
+248    0
+555    1
+30     0
+742    1
+157    0
+696    1
+593    1
+466    0
+459    0
+10     0
+450    0
+79     0
+591    1
+256    0
+469    0
+17     0
+162    0
+644    1
+510    1
+787    1
+89     0
+456    0
+662    1
+556    1
+720    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 0 0 0 0 1 0 1 0 0 1 0 1 0 0 1 0 0 0 1 0 1 1 0 1 0 1 0 1 0 0 1 1 0 1 0
+ 0 1 0 1 1 1 0 0 1 0 1 1 1 0 1 1 1 0 0 1 0 1 0 1 0 0 1 0 0 0 1 0 1 1 0 0 0
+ 1 0 1 0 0 0 1 1 1 0 1 1 1 0 1 1 1 0 0 0 1 0 0 1 1 1 1 0 0 1 1 1 1 1 1 1 0
+ 1 1 0 0 1 1 0 0 0 1 0 0 1 0 1 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 1 1
+ 0 1 0 0 1 0 1 0 1 1 0 0 0 0 0 1 0 0 0 0 1 0 1 0 0 1 0 1]
+Accuracy: 0.9431818181818182
+
+
+GOAL:
+323    0
+63     0
+802    1
+224    0
+58     0
+136    0
+743    1
+601    1
+36     0
+782    1
+552    1
+548    1
+150    0
+434    0
+194    0
+151    0
+196    0
+690    1
+297    0
+269    0
+81     0
+13     0
+414    0
+93     0
+97     0
+243    0
+160    0
+356    0
+684    1
+768    1
+      ..
+295    0
+107    0
+438    0
+470    0
+790    1
+598    1
+219    0
+38     0
+402    0
+252    0
+130    0
+577    1
+560    1
+260    0
+640    1
+623    1
+710    1
+436    0
+704    1
+43     0
+304    0
+708    1
+360    0
+120    0
+778    1
+166    0
+831    1
+96     0
+534    1
+480    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 1 0 0 0 1 1 0 1 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 0 0 0
+ 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 1 1 0 0 0 1 0 0 1 0 1 1 1 0 1 0 0 1 0 1 1 1
+ 1 0 0 0 0 1 1 1 0 1 0 0 0 0 1 1 1 1 0 0 1 0 0 0 1 1 1 0 1 0 0 1 1 1 1 1 1
+ 1 0 0 1 1 1 0 1 1 1 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 1 1 1 0 0 0 0 0
+ 0 0 0 1 0 0 0 0 0 1 1 0 1 1 1 0 1 0 0 1 0 0 1 0 1 0 1 0]
+Accuracy: 0.9545454545454546
+
+
+GOAL:
+341    0
+235    0
+340    0
+577    1
+404    0
+394    0
+424    0
+215    0
+126    0
+560    1
+409    0
+703    1
+843    1
+386    0
+624    1
+759    1
+307    0
+468    0
+208    0
+475    0
+466    0
+603    1
+839    1
+49     0
+84     0
+4      0
+773    1
+836    1
+871    1
+589    1
+      ..
+47     0
+484    0
+821    1
+114    0
+124    0
+81     0
+150    0
+100    0
+273    0
+188    0
+718    1
+534    1
+501    1
+784    1
+490    1
+840    1
+132    0
+397    0
+626    1
+579    1
+548    1
+166    0
+262    0
+674    1
+835    1
+782    1
+511    1
+599    1
+760    1
+33     0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 0 1 1 0 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 1 1 0 0 0 1 1 0 1 1 0 1 1 0 1 1
+ 1 1 1 1 0 0 0 0 1 0 0 1 1 1 1 0 1 0 1 1 0 0 1 1 1 0 0 0 1 0 1 0 0 1 1 0 0
+ 0 0 1 0 0 0 0 1 1 0 1 0 1 0 1 1 0 1 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 0
+ 0 1 1 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 1 1 0 1 0 0 0 1 1 0 0 0
+ 1 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 1 1 1 0 1 0 0 1 1 1 1 0]
+Accuracy: 0.9375
+
+
+GOAL:
+823    1
+57     0
+664    1
+423    0
+737    1
+195    0
+225    0
+212    0
+500    1
+480    0
+402    0
+576    1
+372    0
+3      0
+600    1
+505    1
+700    1
+322    0
+726    1
+388    0
+478    0
+63     0
+590    1
+629    1
+788    1
+805    1
+264    0
+227    0
+364    0
+648    1
+      ..
+287    0
+515    1
+481    0
+439    0
+20     0
+568    1
+404    0
+846    1
+486    0
+77     0
+298    0
+153    0
+521    1
+259    0
+24     0
+852    1
+391    0
+52     0
+811    1
+829    1
+493    1
+593    1
+609    1
+119    0
+23     0
+483    0
+211    0
+161    0
+750    1
+550    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 0 1 1 1 0 0 0 1 0 0 1 0 0 1 1 1 0 1 0 0 0 1 1 1 1 0 0 0 1 0 1 1 0 1 1 1
+ 0 0 0 1 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 1 1 0 0 1 1 0 0 1 1 1 1 1 0 1 0 1 0
+ 1 0 1 0 1 0 0 0 1 1 1 0 0 1 0 0 1 1 0 1 0 0 0 0 0 1 0 1 1 1 0 0 1 1 0 0 0
+ 0 0 1 0 1 1 1 1 0 1 1 1 0 0 0 0 1 1 0 0 0 1 0 0 1 1 0 0 0 0 0 0 0 0 1 0 1
+ 0 0 0 1 1 0 0 0 0 0 1 0 0 0 1 0 1 1 1 1 1 0 0 0 0 0 1 1]
+Accuracy: 0.8920454545454546
+
+
+GOAL:
+436    0
+573    1
+443    0
+426    0
+199    0
+330    0
+760    1
+589    1
+665    1
+145    0
+748    1
+54     0
+675    1
+420    0
+24     0
+590    1
+281    0
+607    1
+744    1
+287    0
+656    1
+262    0
+871    1
+535    1
+147    0
+388    0
+49     0
+597    1
+606    1
+766    1
+      ..
+360    0
+373    0
+852    1
+381    0
+684    1
+863    1
+769    1
+807    1
+417    0
+377    0
+593    1
+835    1
+762    1
+134    0
+249    0
+203    0
+158    0
+87     0
+644    1
+648    1
+652    1
+617    1
+430    0
+267    0
+181    0
+572    1
+536    1
+22     0
+576    1
+29     0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 1 0 0 0 1 1 1 1 0 1 1 0 0 1 0 0 1 0 1 1 0 1 0 0 0 0 1 1 1 0 0 0 1 0 0
+ 0 1 1 1 1 0 0 0 1 0 1 0 0 1 0 1 0 1 0 1 0 0 0 0 1 0 1 1 0 0 1 0 1 0 1 1 1
+ 0 0 0 0 0 0 1 0 0 1 1 0 1 0 0 1 0 1 1 0 0 0 0 1 1 1 0 1 1 1 0 1 0 0 1 0 0
+ 0 0 0 1 1 1 0 0 1 1 0 1 0 1 0 0 1 1 0 0 0 1 1 0 0 0 1 0 0 1 1 0 0 0 0 0 0
+ 0 0 1 1 1 1 0 0 1 0 1 0 0 0 0 0 1 1 1 1 0 0 0 1 1 0 1 0]
+Accuracy: 0.9147727272727273
+
+
+GOAL:
+47     0
+738    1
+92     0
+291    0
+669    1
+487    0
+788    1
+847    1
+686    1
+706    1
+382    0
+123    0
+344    0
+324    0
+683    1
+812    1
+596    1
+717    1
+145    0
+401    0
+866    1
+354    0
+81     0
+298    0
+626    1
+398    0
+327    0
+552    1
+707    1
+113    0
+      ..
+864    1
+153    0
+491    1
+640    1
+525    1
+489    1
+575    1
+348    0
+229    0
+558    1
+150    0
+295    0
+472    0
+591    1
+651    1
+542    1
+567    1
+433    0
+739    1
+290    0
+647    1
+874    1
+337    0
+466    0
+424    0
+592    1
+642    1
+543    1
+338    0
+506    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 1 0 0 1 0 1 1 1 0 0 0 0 0 0 0 1 1 0 1 1 0 0 0 1 0 0 1 1 0 1 1 1 0 0 1 1
+ 1 0 0 1 0 0 1 0 1 1 0 1 1 1 1 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 0 0 1 0 0
+ 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 1 0 1 1 0 1 0 1 0 0 0 0
+ 0 0 0 1 1 1 0 0 0 0 1 1 1 0 0 0 1 1 1 1 0 0 0 1 1 0 1 0 1 0 0 1 1 1 1 1 0
+ 0 1 1 1 1 0 0 1 0 0 0 1 1 1 1 0 1 0 1 1 0 0 0 1 1 1 0 1]
+Accuracy: 0.9034090909090909
+
+
+GOAL:
+432    0
+461    0
+360    0
+237    0
+574    1
+357    0
+843    1
+278    0
+122    0
+709    1
+59     0
+441    0
+800    1
+245    0
+272    0
+320    0
+232    0
+83     0
+68     0
+259    0
+483    0
+714    1
+309    0
+214    0
+39     0
+673    1
+827    1
+744    1
+44     0
+217    0
+      ..
+35     0
+429    0
+659    1
+594    1
+306    0
+669    1
+820    1
+490    1
+492    1
+610    1
+139    0
+803    1
+269    0
+65     0
+680    1
+61     0
+277    0
+500    1
+358    0
+493    1
+288    0
+440    0
+21     0
+64     0
+369    0
+93     0
+56     0
+392    0
+743    1
+450    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 0 0 1 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 1 1 1 0 0 0 0 1 1 0 1 1
+ 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 0 1 1 1 1 1 0 1 0 0 1 0 1 0 1 1 0 1 0 0 0 0
+ 0 1 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 1 0 1 1 0 1 1 0 1 1 1 0 1 0 0 1
+ 1 0 0 1 1 0 1 1 0 0 0 0 1 1 0 1 0 0 0 1 1 1 1 1 0 0 0 1 1 0 0 0 0 1 1 0 0
+ 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0]
+Accuracy: 0.9318181818181818
+
+
+GOAL:
+556    1
+177    0
+255    0
+755    1
+38     0
+327    0
+66     0
+593    1
+630    1
+486    0
+80     0
+158    0
+429    0
+607    1
+3      0
+796    1
+850    1
+270    0
+104    0
+737    1
+643    1
+557    1
+605    1
+235    0
+392    0
+603    1
+380    0
+63     0
+262    0
+348    0
+      ..
+595    1
+606    1
+334    0
+17     0
+818    1
+806    1
+8      0
+27     0
+789    1
+65     0
+699    1
+680    1
+547    1
+64     0
+279    0
+179    0
+282    0
+142    0
+743    1
+89     0
+511    1
+875    1
+233    0
+541    1
+288    0
+502    1
+342    0
+415    0
+730    1
+341    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 1 0 0 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 0 0
+ 0 0 0 0 0 1 0 1 1 1 1 0 1 0 1 1 0 0 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 1 0 1 0
+ 0 0 0 1 0 0 0 0 1 1 0 1 1 0 1 1 1 1 0 0 1 1 1 1 0 1 1 1 0 1 0 1 1 0 0 1 1
+ 0 0 1 0 0 1 1 0 1 1 0 0 1 0 1 0 1 0 0 1 1 0 0 1 0 0 0 0 0 0 1 1 0 0 1 1 1
+ 0 0 1 1 0 0 1 0 1 1 1 0 0 0 0 0 1 0 1 1 0 1 0 1 0 1 1 0]
+Accuracy: 0.9034090909090909
+
+
+GOAL:
+313    0
+135    0
+476    0
+202    0
+306    0
+741    1
+816    1
+395    0
+672    1
+48     0
+505    1
+526    1
+411    0
+154    0
+479    0
+462    0
+340    0
+115    0
+276    0
+704    1
+150    0
+39     0
+307    0
+685    1
+854    1
+657    1
+87     0
+763    1
+785    1
+289    0
+      ..
+566    1
+602    1
+532    1
+278    0
+702    1
+406    0
+365    0
+651    1
+186    0
+41     0
+339    0
+300    0
+549    1
+384    0
+78     0
+453    0
+420    0
+171    0
+397    0
+285    0
+696    1
+169    0
+449    0
+436    0
+759    1
+253    0
+332    0
+654    1
+777    1
+262    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 0 0 0 1 1 1 1 0 1 1 0 0 0 0 0 1 0 1 0 0 0 1 1 1 0 1 1 0 0 1 0 1 1 0 0
+ 1 1 1 0 0 1 0 1 0 0 0 0 1 1 0 0 1 0 1 1 0 1 0 0 1 0 0 0 0 1 1 0 1 0 0 1 1
+ 1 0 0 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 1 0 1 1 1 1 1 1 1 0 0 0 0 0 0 1 0 1
+ 0 0 1 1 0 0 0 1 1 1 0 0 0 0 1 0 0 0 0 0 1 1 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0
+ 1 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 1 0 0 1 1 1]
+Accuracy: 0.9375
+
+
+GOAL:
+434    0
+74     0
+413    0
+40     0
+279    0
+362    0
+538    1
+230    0
+125    0
+869    1
+554    1
+484    0
+519    1
+281    0
+146    0
+539    1
+476    0
+184    0
+847    1
+830    1
+599    1
+117    0
+178    0
+246    0
+62     0
+747    1
+849    1
+224    0
+452    0
+214    0
+      ..
+654    1
+114    0
+469    0
+492    1
+490    1
+871    1
+873    1
+750    1
+30     0
+83     0
+576    1
+172    0
+134    0
+860    1
+812    1
+583    1
+375    0
+675    1
+867    1
+802    1
+151    0
+76     0
+124    0
+63     0
+737    1
+324    0
+666    1
+864    1
+440    0
+467    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 0 0 0 0 1 0 0 1 1 0 1 0 0 1 0 0 1 1 1 0 0 0 0 1 1 0 0 0 1 0 1 1 1 0 0
+ 1 1 1 0 0 1 0 0 1 0 0 1 0 0 1 1 1 0 0 0 1 0 1 0 0 1 1 1 0 1 0 0 0 1 1 0 1
+ 0 0 1 1 1 0 0 1 1 1 0 1 1 0 1 0 1 0 0 0 1 0 0 1 1 1 0 0 0 1 0 1 1 0 0 0 0
+ 1 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0 0 1 1 0 1 0 0 1 0 1 0 0 0 1 0
+ 0 1 1 0 0 1 0 0 1 0 0 1 0 1 0 1 1 1 0 0 0 0 1 0 1 1 0 0]
+Accuracy: 0.9375
+
+
+GOAL:
+139    0
+508    1
+824    1
+122    0
+834    1
+537    1
+366    0
+289    0
+24     0
+78     0
+802    1
+666    1
+184    0
+463    0
+401    0
+726    1
+672    1
+362    0
+22     0
+77     0
+79     0
+376    0
+0      0
+691    1
+434    0
+293    0
+423    0
+539    1
+279    0
+442    0
+      ..
+500    1
+545    1
+868    1
+476    0
+781    1
+814    1
+34     0
+595    1
+35     0
+659    1
+214    0
+163    0
+557    1
+96     0
+440    0
+714    1
+761    1
+701    1
+777    1
+793    1
+758    1
+174    0
+658    1
+396    0
+585    1
+31     0
+467    0
+240    0
+668    1
+175    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 1 1 0 1 1 0 0 0 0 1 1 0 0 1 1 1 0 0 0 0 0 0 1 0 0 1 1 0 0 0 0 1 1 0 0 1
+ 0 0 0 1 1 0 0 1 1 0 1 0 1 0 0 0 0 1 0 1 1 0 0 0 1 0 1 1 0 0 0 1 0 0 0 1 1
+ 1 0 0 1 1 1 0 1 0 0 0 0 1 0 1 0 0 1 0 1 1 0 0 0 1 0 0 0 1 1 0 1 1 1 1 1 0
+ 0 1 0 1 0 0 1 0 1 0 0 0 1 0 1 1 1 0 1 0 0 1 1 0 1 1 1 1 1 0 0 0 0 1 1 1 1
+ 1 0 1 1 0 1 0 1 0 0 1 0 0 1 1 1 0 1 1 0 1 1 1 0 0 0 1 0]
+Accuracy: 0.9488636363636364
+
+
+GOAL:
+0      0
+466    0
+599    1
+150    0
+847    1
+769    1
+132    0
+650    1
+561    1
+573    1
+273    0
+3      0
+636    1
+323    0
+519    1
+216    0
+325    0
+319    0
+50     0
+654    1
+788    1
+77     0
+145    0
+412    0
+90     0
+718    1
+114    0
+199    0
+728    1
+58     0
+      ..
+68     0
+624    1
+296    0
+831    1
+505    1
+340    0
+588    1
+173    0
+249    0
+512    1
+262    0
+699    1
+384    0
+841    1
+317    0
+863    1
+521    1
+795    1
+732    1
+424    0
+202    0
+518    1
+113    0
+741    1
+622    1
+228    0
+311    0
+612    1
+873    1
+835    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 1 0 1 1 0 1 1 0 0 0 1 0 1 0 0 0 0 1 1 0 0 0 0 1 0 0 1 0 0 1 0 1 0 0 1
+ 0 0 1 1 0 1 0 0 1 0 1 0 1 0 1 0 0 1 1 0 0 0 1 1 1 0 0 0 1 1 0 0 0 0 1 0 0
+ 1 1 1 0 1 0 1 1 1 1 0 1 0 1 0 0 0 1 0 0 1 1 1 0 1 0 0 1 0 0 1 1 0 0 1 1 0
+ 1 1 1 1 0 0 0 1 0 0 1 0 1 1 0 0 0 0 0 0 1 0 0 1 1 1 0 0 0 0 0 1 0 0 0 0 1
+ 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 1 1 0 0 1 0 1 1 0 0 1 1 0]
+Accuracy: 0.9375
+
+
+GOAL:
+270    0
+278    0
+195    0
+846    1
+6      0
+199    0
+864    1
+697    1
+478    0
+862    1
+566    1
+93     0
+589    1
+771    1
+805    1
+287    0
+127    0
+352    0
+274    0
+692    1
+509    1
+687    1
+627    1
+316    0
+8      0
+37     0
+644    1
+528    1
+18     0
+138    0
+      ..
+243    0
+605    1
+844    1
+344    0
+813    1
+728    1
+829    1
+477    0
+386    0
+412    0
+144    0
+431    0
+308    0
+626    1
+293    0
+533    1
+179    0
+400    0
+563    1
+489    1
+186    0
+855    1
+519    1
+455    0
+2      0
+715    1
+525    1
+357    0
+24     0
+714    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 0 0 0 0 1 1 0 1 1 0 1 1 1 0 0 0 0 1 1 0 0 0 0 0 1 1 0 0 1 1 0 0 0 0 1
+ 1 1 0 0 0 0 1 0 0 1 1 0 0 0 1 0 1 0 0 0 0 1 1 1 1 1 0 0 0 0 0 1 0 1 1 0 0
+ 1 0 1 1 0 0 0 0 0 0 1 0 0 1 0 1 0 0 0 0 1 0 0 1 0 0 0 1 0 0 0 1 1 0 1 1 0
+ 1 1 1 1 1 1 1 1 1 1 0 0 1 0 1 1 0 0 1 1 0 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 1
+ 1 0 1 1 1 0 0 0 0 0 0 1 0 1 0 0 1 1 0 1 1 0 0 1 1 0 0 1]
+Accuracy: 0.9318181818181818
+
+
+GOAL:
+766    1
+251    0
+241    0
+267    0
+662    1
+740    1
+543    1
+515    1
+312    0
+164    0
+551    1
+862    1
+56     0
+243    0
+51     0
+762    1
+612    1
+407    0
+870    1
+426    0
+591    1
+165    0
+44     0
+132    0
+38     0
+170    0
+750    1
+28     0
+271    0
+604    1
+      ..
+601    1
+542    1
+676    1
+429    0
+15     0
+161    0
+8      0
+242    0
+361    0
+809    1
+303    0
+11     0
+337    0
+849    1
+846    1
+266    0
+821    1
+564    1
+370    0
+722    1
+706    1
+345    0
+14     0
+70     0
+31     0
+214    0
+527    1
+788    1
+188    0
+424    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 0 0 0 1 1 1 1 0 0 1 1 0 0 0 1 1 1 1 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0 1 1 0
+ 1 1 1 0 0 0 1 1 0 0 1 1 0 1 1 0 1 1 1 1 1 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0
+ 1 0 0 1 1 1 1 1 1 1 1 0 1 0 1 1 1 0 0 1 0 1 0 0 1 0 0 1 1 1 1 0 0 0 0 0 1
+ 0 0 1 0 1 0 0 0 0 0 1 1 0 0 1 1 0 0 0 1 1 1 1 1 0 0 1 1 0 1 0 0 1 0 1 1 1
+ 1 0 0 0 0 0 0 1 0 0 0 1 0 0 1 1 0 1 1 0 0 0 0 0 1 1 0 0]
+Accuracy: 0.9488636363636364
+
+
+GOAL:
+577    1
+353    0
+165    0
+287    0
+46     0
+428    0
+868    1
+175    0
+408    0
+588    1
+787    1
+226    0
+817    1
+454    0
+399    0
+543    1
+754    1
+59     0
+731    1
+171    0
+132    0
+393    0
+749    1
+681    1
+664    1
+546    1
+282    0
+567    1
+127    0
+648    1
+      ..
+499    1
+874    1
+179    0
+470    0
+597    1
+70     0
+64     0
+23     0
+72     0
+484    0
+361    0
+469    0
+753    1
+401    0
+328    0
+735    1
+11     0
+340    0
+55     0
+508    1
+647    1
+2      0
+677    1
+443    0
+747    1
+386    0
+738    1
+593    1
+862    1
+291    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 0 0 0 0 0 1 0 0 1 1 0 1 0 1 1 0 0 1 0 0 0 0 1 1 1 0 1 0 1 1 1 0 1 0 1 0
+ 0 0 0 1 0 1 0 1 1 1 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 0
+ 1 1 1 1 1 0 1 1 0 0 0 0 1 0 0 0 1 1 1 0 1 0 0 0 0 0 0 1 1 1 0 1 0 1 1 1 1
+ 0 1 0 1 0 1 0 0 0 1 1 1 0 1 0 1 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0 0 1 1
+ 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 1 1 0 1 1 1 0 1 1 1 0]
+Accuracy: 0.9204545454545454
+
+
+GOAL:
+603    1
+302    0
+485    0
+276    0
+682    1
+751    1
+423    0
+304    0
+260    0
+641    1
+744    1
+244    0
+561    1
+516    1
+371    0
+131    0
+581    1
+119    0
+185    0
+40     0
+488    0
+509    1
+780    1
+676    1
+777    1
+651    1
+736    1
+215    0
+723    1
+709    1
+      ..
+831    1
+427    0
+495    1
+504    1
+867    1
+574    1
+186    0
+297    0
+619    1
+289    0
+246    0
+320    0
+600    1
+192    0
+300    0
+674    1
+68     0
+521    1
+531    1
+860    1
+285    0
+592    1
+771    1
+254    0
+197    0
+842    1
+174    0
+328    0
+727    1
+607    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 0 1 0 1 1 1 0 0 1 1 0 1 1 0 0 1 0 0 0 0 1 1 1 0 1 1 0 0 1 1 1 0 1 1 1 0
+ 1 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 1 1 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 1 0 0
+ 1 1 0 1 0 0 0 0 1 1 0 1 0 0 1 0 1 0 0 0 0 1 1 0 0 0 1 1 1 1 0 1 1 0 0 1 0
+ 0 1 1 1 0 1 0 0 0 0 1 0 0 0 1 0 0 1 1 0 1 0 1 0 0 0 1 1 1 0 0 1 0 0 0 1 0
+ 1 1 1 1 0 0 1 0 0 0 1 0 0 0 0 1 1 1 0 1 1 0 0 1 0 0 1 0]
+Accuracy: 0.9318181818181818
+
+
+GOAL:
+850    1
+107    0
+681    1
+88     0
+862    1
+189    0
+532    1
+520    1
+840    1
+374    0
+573    1
+2      0
+185    0
+630    1
+276    0
+244    0
+575    1
+822    1
+853    1
+258    0
+545    1
+397    0
+230    0
+618    1
+487    0
+257    0
+726    1
+259    0
+173    0
+169    0
+      ..
+599    1
+868    1
+429    0
+759    1
+279    0
+431    0
+238    0
+463    0
+715    1
+550    1
+100    0
+830    1
+391    0
+660    1
+708    1
+380    0
+811    1
+449    0
+734    1
+72     0
+204    0
+301    0
+416    0
+202    0
+857    1
+418    0
+504    1
+495    1
+518    1
+426    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 0 1 0 1 0 1 1 1 0 0 0 0 1 0 0 1 1 1 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 1
+ 1 1 0 0 1 1 0 1 0 0 1 1 0 0 0 1 0 1 0 0 0 0 0 1 0 0 1 1 1 1 1 0 1 1 1 0 0
+ 1 0 1 1 0 0 0 1 1 1 0 1 0 1 1 0 1 1 0 1 1 1 1 0 1 0 1 0 0 1 0 1 1 0 0 1 0
+ 1 0 1 1 0 0 1 0 1 0 0 0 0 1 1 0 1 1 0 1 1 0 1 1 1 1 1 1 1 0 1 1 0 0 0 1 1
+ 0 1 0 0 0 0 1 1 0 1 0 1 1 0 1 0 1 0 0 0 0 0 1 0 1 1 1 0]
+Accuracy: 0.9715909090909091
+
+
+GOAL:
+201    0
+800    1
+268    0
+117    0
+97     0
+725    1
+251    0
+634    1
+860    1
+488    0
+823    1
+401    0
+531    1
+269    0
+161    0
+772    1
+876    1
+585    1
+788    1
+673    1
+169    0
+617    1
+51     0
+825    1
+696    1
+551    1
+137    0
+708    1
+619    1
+349    0
+      ..
+566    1
+813    1
+614    1
+420    0
+379    0
+688    1
+444    0
+492    1
+424    0
+353    0
+710    1
+569    1
+664    1
+16     0
+219    0
+31     0
+818    1
+13     0
+844    1
+816    1
+148    0
+7      0
+702    1
+861    1
+501    1
+596    1
+541    1
+809    1
+482    0
+408    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 1 0 0 0 1 0 1 1 0 1 1 1 0 0 1 1 1 1 1 0 1 0 1 1 1 0 1 1 0 0 0 0 0 1 0 0
+ 0 1 0 0 0 0 0 0 1 0 1 0 1 0 0 1 1 0 0 0 1 0 1 0 0 1 0 1 1 0 1 0 1 0 0 0 0
+ 0 1 1 0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 1 0 0 1 1 0 1 0 0 0
+ 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 1 1 0 1 1 1 0 1 0 0 1 0 1 1 0 0 1 0 0 1 1
+ 1 0 0 1 0 1 0 0 1 1 1 0 0 0 1 0 1 1 1 0 1 1 1 1 1 1 1 0]
+Accuracy: 0.9488636363636364
+
+
+GOAL:
+770    1
+824    1
+591    1
+718    1
+667    1
+702    1
+300    0
+580    1
+130    0
+282    0
+327    0
+311    0
+417    0
+624    1
+736    1
+425    0
+716    1
+851    1
+314    0
+750    1
+807    1
+64     0
+446    0
+771    1
+40     0
+368    0
+638    1
+369    0
+835    1
+730    1
+      ..
+343    0
+644    1
+501    1
+243    0
+345    0
+164    0
+603    1
+212    0
+194    0
+832    1
+84     0
+547    1
+559    1
+337    0
+844    1
+301    0
+248    0
+789    1
+175    0
+208    0
+444    0
+25     0
+455    0
+245    0
+450    0
+739    1
+204    0
+699    1
+620    1
+241    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 1 1 1 1 1 0 1 0 0 0 0 0 1 1 1 1 1 0 1 1 0 0 1 0 0 1 0 0 1 1 1 0 1 0 0 0
+ 1 0 1 0 1 0 1 0 0 0 1 0 0 0 0 1 0 0 0 0 1 1 1 1 0 0 0 1 1 0 1 0 0 1 1 0 1
+ 1 1 1 0 0 0 1 0 1 1 1 0 0 0 0 0 1 1 1 0 1 0 1 1 0 0 0 1 1 0 1 0 0 0 0 0 1
+ 1 1 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 1 1 0 0 0 1 1 0 1 0 1 0 1
+ 1 0 0 0 1 0 0 1 0 1 1 0 1 0 0 1 0 0 0 0 0 0 0 1 0 1 1 0]
+Accuracy: 0.9602272727272727
+
+
+GOAL:
+120    0
+447    0
+479    0
+229    0
+743    1
+284    0
+731    1
+428    0
+666    1
+765    1
+260    0
+606    1
+874    1
+532    1
+574    1
+498    1
+860    1
+615    1
+792    1
+424    0
+538    1
+392    0
+435    0
+190    0
+557    1
+750    1
+747    1
+814    1
+502    1
+838    1
+      ..
+406    0
+579    1
+831    1
+414    0
+517    1
+798    1
+291    0
+525    1
+522    1
+413    0
+427    0
+849    1
+16     0
+426    0
+169    0
+768    1
+764    1
+438    0
+581    1
+350    0
+419    0
+835    1
+354    0
+307    0
+431    0
+511    1
+245    0
+444    0
+492    1
+319    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 0 0 1 0 1 0 1 1 0 1 1 1 1 1 1 1 1 0 1 0 1 0 1 1 1 1 1 1 0 1 1 1 0 0 0
+ 0 0 0 0 0 1 1 0 0 1 0 1 0 0 0 0 0 1 0 0 0 1 1 1 0 1 1 0 0 1 1 0 1 1 1 0 0
+ 0 0 0 0 1 1 0 1 0 0 0 1 0 0 0 1 0 0 1 1 0 1 1 0 0 1 0 0 1 0 0 1 0 0 1 1 0
+ 0 0 1 1 0 0 1 0 0 1 0 0 0 1 0 0 1 0 0 1 0 0 1 0 1 1 1 1 1 0 0 0 0 1 1 0 1
+ 1 0 1 1 0 1 1 0 0 1 0 0 0 1 1 0 1 0 0 0 0 0 0 1 0 0 1 0]
+Accuracy: 0.9602272727272727
+
+
+GOAL:
+259    0
+144    0
+552    1
+420    0
+319    0
+291    0
+819    1
+536    1
+162    0
+548    1
+577    1
+863    1
+823    1
+588    1
+793    1
+519    1
+317    0
+44     0
+845    1
+722    1
+85     0
+98     0
+69     0
+671    1
+168    0
+78     0
+405    0
+858    1
+546    1
+715    1
+      ..
+803    1
+750    1
+851    1
+170    0
+357    0
+296    0
+84     0
+403    0
+400    0
+832    1
+780    1
+339    0
+29     0
+725    1
+762    1
+399    0
+735    1
+591    1
+605    1
+779    1
+16     0
+331    0
+660    1
+837    1
+461    0
+226    0
+792    1
+634    1
+745    1
+3      0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[0 0 1 0 0 0 1 1 0 1 1 1 1 1 1 1 0 0 1 1 0 0 0 1 0 0 1 1 1 1 0 1 0 1 0 0 0
+ 0 1 1 1 1 0 1 0 1 0 1 0 1 0 1 1 0 0 0 1 0 0 0 1 0 1 1 1 1 0 1 1 1 1 1 0 1
+ 0 0 1 1 0 1 0 1 0 1 0 1 1 1 1 0 0 1 0 1 1 0 0 1 1 0 1 0 0 1 1 0 1 0 0 0 1
+ 0 0 1 1 0 0 1 0 0 0 1 0 1 1 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 0 0 1 0 0 1
+ 1 0 0 0 0 0 0 1 1 0 0 1 1 1 1 1 1 1 0 0 1 1 0 0 1 1 1 0]
+Accuracy: 0.9431818181818182
+
+
+GOAL:
+537    1
+281    0
+333    0
+589    1
+660    1
+683    1
+393    0
+563    1
+180    0
+125    0
+338    0
+521    1
+261    0
+70     0
+9      0
+228    0
+189    0
+325    0
+809    1
+344    0
+592    1
+317    0
+770    1
+757    1
+160    0
+620    1
+420    0
+159    0
+723    1
+53     0
+      ..
+218    0
+350    0
+388    0
+797    1
+737    1
+450    0
+52     0
+263    0
+346    0
+449    0
+643    1
+400    0
+40     0
+212    0
+675    1
+109    0
+413    0
+290    0
+756    1
+211    0
+347    0
+22     0
+594    1
+633    1
+417    0
+613    1
+506    1
+731    1
+365    0
+136    0
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 0 0 1 1 1 0 1 0 0 0 1 0 0 0 0 0 0 1 0 1 0 1 1 0 1 0 0 0 0 1 1 0 1 0 0 0
+ 1 0 0 0 1 0 0 0 1 1 1 0 1 1 1 0 0 0 0 0 1 0 0 1 1 0 0 1 0 1 1 0 1 1 1 0 1
+ 1 0 0 0 1 0 1 0 0 0 1 0 1 0 1 1 0 1 1 0 0 1 0 1 0 1 1 0 0 1 0 0 1 1 1 1 0
+ 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 1 0 0 1 1 0 0 0 0 0 1 0
+ 0 1 1 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 1 0 1 1 1 0 0]
+Accuracy: 0.9431818181818182
+
+
+GOAL:
+719    1
+814    1
+656    1
+195    0
+620    1
+405    0
+800    1
+672    1
+347    0
+793    1
+525    1
+105    0
+527    1
+14     0
+577    1
+727    1
+717    1
+26     0
+177    0
+704    1
+824    1
+496    1
+412    0
+1      0
+2      0
+111    0
+476    0
+396    0
+135    0
+700    1
+      ..
+436    0
+640    1
+481    0
+807    1
+699    1
+90     0
+266    0
+473    0
+850    1
+644    1
+386    0
+667    1
+650    1
+652    1
+847    1
+91     0
+190    0
+101    0
+531    1
+666    1
+182    0
+493    1
+686    1
+544    1
+701    1
+58     0
+311    0
+854    1
+523    1
+819    1
+Name: class, Length: 176, dtype: int64
+
+
+PREDICTED:
+[1 1 1 0 1 1 1 1 0 1 1 0 1 0 1 1 1 0 0 1 1 1 0 0 0 0 0 1 0 1 0 0 1 0 0 0 1
+ 0 1 1 0 1 0 1 0 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 1 0
+ 1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 1 1 1 1 1 0 0 1 1 0 0 1 1 0 0 0
+ 0 0 0 1 0 0 0 0 1 0 0 0 1 1 0 0 1 1 0 1 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 1
+ 0 1 1 0 0 0 0 1 0 1 1 1 1 0 0 0 1 1 0 1 1 1 1 0 0 1 1 1]
+Accuracy: 0.9261363636363636
+Average accuracy is: 0.9428977272727273
