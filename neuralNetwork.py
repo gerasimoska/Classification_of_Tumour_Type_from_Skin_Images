@@ -39,5 +39,5 @@ for i in range(0,101):
   results.write("PREDICTED:"+"\n"+str(model.predict(X_test)) + "\n\n\n")
   avgAccuracy += accuracy_score(y_test, model.predict(X_test))
 
-print("Average accuracy is: "+str(avgAccuracy))
-results.write("Accuracy is: "+str(avgAccuracy))
+print("Average accuracy is: "+str(avgAccuracy/100))
+results.write("Accuracy is: "+str(avgAccuracy/100))
